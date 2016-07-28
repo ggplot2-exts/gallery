@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <!--Import materialize.css-->
+    <link type="text/css" rel="stylesheet" href="css/materialize.css"  media="screen,projection"/>
+    <!--Let browser know website is optimized for mobile-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <link type="text/css" rel="stylesheet" href="css/style.css"/>
+    <link type="text/css" rel="stylesheet" href="css/github-buttons.css"/>
+<link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,700' rel='stylesheet' type='text/css'>
+  </head>
+
+  <body>
+    <nav class="blue lighten-1" role="navigation">
+      <div class="nav-wrapper container"><span id="logo-container" class="sanspro"><span style="font-weight:bold;">htmlwidgets</span> for R - gallery</span>
+        <ul class="right hide-on-med-and-down">
+          <li><a href="https://github.com/hafen/htmlwidgetsgallery#adding-a-widget" target="_blank" class="sanspro">Add Your Widget!</a></li>
+          <li><a href="http://www.htmlwidgets.org" class="sanspro">htmlwidgets.org</a></li>
+        </ul>
+
+        <ul id="nav-mobile" class="side-nav">
+          <li><a href="#">Navbar Link</a></li>
+        </ul>
+        <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons">menu</i></a>
+      </div>
+    </nav>
+    <div class="section no-pad-bot" id="index-banner">
+      <div class="container">
+        <br>
+        <!-- <h1 class="header center page-title">htmlwidgets gallery</h1> -->
+        <h4 class="center page-title">{{ site.widgets.size }} registered widgets available to explore</h4>
+        <br>
+
+      </div>
+    </div>
+
+    <div class="container center">
+    <div class="row">
+      <form class="col s12">
+        <div class="row">
+          <div class="input-field col s2">
+            <!-- <i class="material-icons prefix">sort_by_alpha</i> -->
+            <select id="gridsort">
+              <option value="name">Name</option>
+              <option value="author">Author</option>
+              <option value="stars" selected>Github stars</option>
+              <!-- <option value="stars">Github stars</option> -->
+            </select>
+            <label>Sort</label>
+          </div>
+          <div class="input-field col s2">
+            <!-- <i class="material-icons prefix">search</i> -->
+            <input type="text" id="textfilter" class="validate" placeholder="search name, author, description">
+            <label>Text Filter</label>
+          </div>
+          <div class="input-field col s3">
+            <!-- <i class="material-icons prefix">sort_by_alpha</i> -->
+            <select id="authorfilter">
+              <option value="" selected>&nbsp;</option>
+              <!-- <option value="author">Author</option> -->
+            </select>
+            <label>Author Filter</label>
+          </div>
+          <div class="input-field col s3">
+            <!-- <i class="material-icons prefix">sort_by_alpha</i> -->
+            <select id="tagfilter">
+              <option value="" selected>&nbsp;</option>
+              <!-- <option value="author">Author</option> -->
+            </select>
+            <label>Tag Filter</label>
+          </div>
+          <div class="col s2">
+            <div class="switch-label tooltipped" data-position="top" data-delay="10" data-tooltip="Show/hide widgets not yet on CRAN"><label>CRAN Only</label></div>
+            <div class="switch cran-switch">
+              <label>
+                <!-- Off -->
+                <input id="crancheckbox" checked type="checkbox">
+                <span class="lever"></span>
+                <!-- On -->
+              </label>
+            </div>
+          </div>
+        </div>
+      </form>
+    </div>
+    </div>
+    <!-- <div class="container"> -->
+    <div class="main-container">
+      <div class="container">
+        <div class="row">
+          Showing <span id="shown-widgets"></span> of {{ site.widgets.size }}
+        </div>
+      </div>
+      <div class="row" id="grid">
+        {% for widget in site.widgets %}
+        <div class="card grid-item" data-author="{{ widget.ghauthor }}">
+          <div class="card-image waves-effect waves-block waves-light">
+            <div style="width:350px; height:300px; padding:3px;" class="valign-wrapper">
+            <a href="{{ widget.url }}">
+            <img class="valign" src="
+            {% if widget.thumbnail %}
+              {{ widget.thumbnail }}
+            {% else %}
+              http://dummyimage.com/350x300/efefef/f8f8f8&text=no thumbnail
+            {% endif %}
+            "></a>
+            </div>
+          </div>
+          <div class="card-content widget-content">
+            <a href="{{ widget.url }}"><span class="card-title grey-text text-darken-4">{{ widget.name }}</span></a>
+            <span class="github-btn github-watchers" data-processed="1"><a class="gh-btn" href="https://github.com/{{ widget.ghuser }}/{{ widget.ghrepo }}/" target="_blank"><span class="gh-ico"></span><span class="gh-text">Star</span></a><a class="gh-count" id="{{ widget.ghuser }}_{{ widget.ghrepo }}" href="https://github.com/{{ widget.ghuser }}/{{ widget.ghrepo }}/stargazers" target="_blank" style="display: block;"></a></span>
+            <p class="widget-shortdesc">{{ widget.short | markdownify | remove: '<p>' | remove: '</p>' }}</p>
+            <p class="widget-list-item"><i class="material-icons meta-bullet red-text">stop</i><span class="red-text">author:</span> <span class="widget-author widget-meta"><a href="https://github.com/{{ widget.ghauthor }}">{{ widget.ghauthor }}</a></span></p>
+            <p class="widget-list-item"><i class="material-icons meta-bullet green-text">stop</i><span class="green-text">tags:</span> <span class="widget-tags widget-meta">{{ widget.tags }}</span></p>
+            <p class="widget-list-item"><i class="material-icons meta-bullet blue-text">stop</i><span class="blue-text">js libraries:</span> <span class="widget-jslibs widget-meta">{{ widget.jslibs | markdownify | remove: '<p>' | remove: '</p>' }}</span></p>
+            <!-- <div class="more-icon activator"><i class="material-icons right">more_vert</i></div> -->
+            <div class="hidden widget-cran">{{ widget.cran }}</div>
+          </div>
+          <div class="card-reveal" style="display: none; -webkit-transform: translateY(0px);">
+            <span class="card-title grey-text text-darken-4">{{ widget.name }}<i class="material-icons right">close</i></span>
+            <p>(full meta data to go here)</p>
+            </div>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+
+    <footer class="page-footer light-blue">
+      <div class="footer-copyright">
+        <div class="container">
+        Built with <a class="white-text" href="http://materializecss.com">materialize-css</a>, <a class="white-text" href="http://isotope.metafizzy.co">isotope</a>, and <a class="white-text" href="http://jekyllrb.com">jekyll</a> by <a class="white-text" href="https://twitter.com/hafenstats">@hafenstats</a>.
+        </div>
+      </div>
+    </footer>
+
+    <script type="text/javascript" src="js/jquery.min.js"></script>
+    <script type="text/javascript" src="js/materialize.min.js"></script>
+    <script type="text/javascript" src="js/isotope.min.js"></script>
+    <script type="text/javascript" src="js/grid.js"></script>
+  </body>
+</html>

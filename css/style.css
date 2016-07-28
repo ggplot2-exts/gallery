@@ -1,0 +1,76 @@
+
+.grid-item {
+  width: 350px;
+  height: 485px;
+}
+
+.card-title {
+  line-height: 24px !important;
+}
+
+.page-title {
+  font-weight: 300;
+}
+
+#logo-container {
+  font-size: 25px;
+}
+
+.sanspro {
+  font-family: "Source Sans Pro",Calibri,Candara,Arial,sans-serif;
+}
+
+/*.main-container {
+  margin-top: -20px;
+}
+*/
+.row {
+  margin-bottom: 8px !important;
+}
+
+.widget-content {
+  height: 185px;
+  padding: 15px !important;
+  background-color: #f9f9f9;
+}
+
+.meta-bullet {
+  font-size: 10px;
+}
+
+.widget-list-item a {
+  color: #333;
+  border-bottom: 1px dotted #333 !important;
+}
+
+.more-icon {
+  position: absolute;
+  right:0;
+  bottom:0;
+  padding-bottom:5px;
+}
+
+.more-icon:hover {
+  cursor: pointer;
+}
+
+.widget-link-icon {
+  font-size:18px;
+}
+
+.widget-shortdesc {
+  color: #999999 !important;
+}
+
+.switch-label {
+  line-height: 18px;
+}
+
+.cran-switch {
+  padding-top: 8px;
+}
+
+.hidden {
+  display: none;
+}
+
