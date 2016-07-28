@@ -29,7 +29,7 @@ widgets:
     url: https://github.com/hrbrmstr/ggalt
     jslibs: >
     ghuser: hrbrmstr
-    ghrepo: ggforce
+    ghrepo: ggalt
     tags: visualization,general
     cran: true
     release:
@@ -39,3 +39,99 @@ widgets:
       A compendium of ‘geoms’, ‘coords’ and ‘stats’ for ‘ggplot2’.
     description: > 
       A compendium of ‘geoms’, ‘coords’ and ‘stats’ for ‘ggplot2’, including splines, 1d and 2d densities, univariate average shifted histograms and a new map coordinate system based on the ‘PROJ.4’-library.
+ 
+ -
+    name: ggiraph
+    thumbnail: images/ggiraph.png
+    url: https://github.com/davidgohel/ggiraph
+    jslibs: >
+    ghuser: davidgohel
+    ghrepo: ggiraph
+    tags: visualization,general
+    cran: true
+    release:
+    examples:
+    ghauthor: davidgohel
+    short: >
+      htmlwidget to make 'ggplot' graphics interactive.
+    description: > 
+    
+ -
+    name: ggstance
+    thumbnail: images/ggstance.png
+    url: https://github.com/lionel-/ggstance
+    jslibs: >
+    ghuser: lionel-
+    ghrepo: ggstance
+    tags: visualization,general
+    cran: true
+    release:
+    examples:
+    ghauthor: lionel-
+    short: >
+      ggstance implements horizontal versions of common ggplot2 geoms.
+    description: > 
+    
+ -
+    name: ggrepel
+    thumbnail: images/ggrepel.png
+    url: https://github.com/slowkow/ggrepel
+    jslibs: >
+    ghuser: slowkow
+    ghrepo: ggrepel
+    tags: visualization,general
+    cran: true
+    release:
+    examples:
+    ghauthor: slowkow
+    short: >
+      Repel overlapping text labels away from each other.
+    description: > 
+    
+ -
+    name: ggraph
+    thumbnail: images/ggraph.png
+    url: https://github.com/thomasp85/ggraph
+    jslibs: >
+    ghuser: thomasp85
+    ghrepo: ggraph
+    tags: visualization,general
+    cran: true
+    release:
+    examples:
+    ghauthor: thomasp85
+    short: >
+      ggraph is tailored at plotting graph-like data structures (graphs, networks, trees, hierarchies...).
+    description: > 
+    
+ -
+    name: ggpmisc
+    thumbnail: images/ggpmisc.png
+    url: https://bitbucket.org/aphalo/ggpmisc
+    jslibs: >
+    ghuser: 
+    ghrepo: 
+    tags: visualization,general
+    cran: true
+    release:
+    examples:
+    ghauthor: 
+    short: >
+      Miscellaneous Extensions to ‘ggplot2’.
+    description: >     
+    
+ -
+    name: geomnet
+    thumbnail: images/geomnet.png
+    url: https://github.com/sctyner/geomnet
+    jslibs: >
+    ghuser: sctyner
+    ghrepo: geomnet
+    tags: visualization,general
+    cran: true
+    release:
+    examples:
+    ghauthor: sctyner
+    short: >
+      geomnet implements network visualizations in ggplot2 via geom_net.
+    description: >     
