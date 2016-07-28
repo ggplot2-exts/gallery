@@ -12,7 +12,6 @@ widgets:
     thumbnail: images/ggforce.png
     url: https://github.com/thomasp85/ggforce
     jslibs: >
-       [datamaps](http://datamaps.github.io),[d3](http://d3js.org)
     ghuser: thomasp85
     ghrepo: ggforce
     tags: visualization,general
@@ -29,7 +28,6 @@ widgets:
     thumbnail: images/ggalt.png
     url: https://github.com/hrbrmstr/ggalt
     jslibs: >
-       [datamaps](http://datamaps.github.io),[d3](http://d3js.org)
     ghuser: hrbrmstr
     ghrepo: ggforce
     tags: visualization,general
