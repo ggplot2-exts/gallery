@@ -143,10 +143,10 @@ widgets:
     jslibs: >
     ghuser: daattali
     ghrepo: ggExtra
-    tags: visualization,general
+    tags: histogram,marginal,density
     cran: true
     release:
-    examples:
+    examples: http://daattali.com/shiny/ggExtra-ggMarginal-demo/
     ghauthor: daattali
     short: >
       ggExtra lets you add marginal density plots or histograms to ggplot2 scatterplots.
