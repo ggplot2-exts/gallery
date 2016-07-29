@@ -134,4 +134,180 @@ widgets:
     ghauthor: sctyner
     short: >
       geomnet implements network visualizations in ggplot2 via geom_net.
+    description: >  
+    
+ -
+    name: ggExtra
+    thumbnail: images/ggExtra.png
+    url: https://github.com/daattali/ggExtra
+    jslibs: >
+    ghuser: daattali
+    ghrepo: ggExtra
+    tags: visualization,general
+    cran: true
+    release:
+    examples:
+    ghauthor: daattali
+    short: >
+      ggExtra lets you add marginal density plots or histograms to ggplot2 scatterplots.
+    description: > 
+    
+ -
+    name: gganimate
+    thumbnail: images/gganimate.gif
+    url: https://github.com/dgrtwo/gganimate
+    jslibs: >
+    ghuser: dgrtwo
+    ghrepo: gganimate
+    tags: visualization,general
+    cran: true
+    release:
+    examples:
+    ghauthor: dgrtwo
+    short: >
+      gganimate wraps the animation package to create animated ggplot2 plots.
+    description: > 
+    
+ -
+    name: plotROC
+    thumbnail: images/plotROC.png
+    url: https://github.com/sachsmc/plotROC
+    jslibs: >
+    ghuser: sachsmc
+    ghrepo: plotROC
+    tags: visualization,general
+    cran: true
+    release:
+    examples:
+    ghauthor: sachsmc
+    short: >
+      plotROC provides functions to generate an interactive ROC curve plot for web use, and print versions.
+    description: > 
+      
+ -
+    name: ggthemes
+    thumbnail: images/ggthemes.png
+    url: https://github.com/jrnold/ggthemes
+    jslibs: >
+    ghuser: jrnold
+    ghrepo: ggthemes
+    tags: visualization,general
+    cran: true
+    release:
+    examples:
+    ghauthor: jrnold
+    short: >
+      Some extra geoms, scales, and themes for ggplot.
+    description: > 
+    
+ -
+    name: ggspectra
+    thumbnail: images/ggspectra.png
+    url: https://bitbucket.org/aphalo/ggspectra
+    jslibs: >
+    ghuser: 
+    ghrepo: 
+    tags: visualization,general
+    cran: true
+    release:
+    examples:
+    ghauthor: 
+    short: >
+      ggspectra extends ggplot2 with stats, geoms and annotations suitable for light spectra.
+    description: > 
+    
+ -
+    name: ggnetwork
+    thumbnail: images/ggnetwork.png
+    url: https://github.com/briatte/ggnetwork
+    jslibs: >
+    ghuser: briatte
+    ghrepo: ggnetwork
+    tags: visualization,general
+    cran: true
+    release:
+    examples:
+    ghauthor: briatte
+    short: >
+      The ggnetwork package provides a way to build network plots with ggplot2.
+    description: >    
+    
+ -
+    name: ggtech
+    thumbnail: images/ggtech.png
+    url: https://github.com/ricardo-bion/ggtech
+    jslibs: >
+    ghuser: ricardo-bion
+    ghrepo: ggtech
+    tags: visualization,general
+    cran: true
+    release:
+    examples:
+    ghauthor: ricardo-bion
+    short: >
+      ggplot2 tech themes, scales, and geoms.
+    description: >   
+    
+ -
+    name: ggradar
+    thumbnail: images/ggradar.png
+    url: https://github.com/ricardo-bion/ggradar
+    jslibs: >
+    ghuser: ricardo-bion
+    ghrepo: ggradar
+    tags: visualization,general
+    cran: true
+    release:
+    examples:
+    ghauthor: ricardo-bion
+    short: >
+      ggradar allows you to build radar charts with ggplot2.
+    description: >     
+    
+ -
+    name: ggTimeSeries
+    thumbnail: images/ggTimeSeries.png
+    url: https://github.com/Ather-Energy/ggTimeSeries
+    jslibs: >
+    ghuser: Ather-Energy
+    ghrepo: ggTimeSeries
+    tags: visualization,general
+    cran: true
+    release:
+    examples:
+    ghauthor: Ather-Energy
+    short: >
+      This R package offers novel time series visualisations.
+    description: >         
+    
+ -
+    name: ggtree
+    thumbnail: images/ggtree.png
+    url: https://bioconductor.org/packages/release/bioc/html/ggtree.html
+    jslibs: >
+    ghuser: 
+    ghrepo: 
+    tags: visualization,general
+    cran: true
+    release:
+    examples:
+    ghauthor: 
+    short: >
+      gtree is designed for visualizing phylogenetic tree and different types of associated annotation data.
+    description: >   
+    
+ -
+    name: ggseas
+    thumbnail: images/ggseas.png
+    url: https://github.com/ellisp/ggseas
+    jslibs: >
+    ghuser: ellisp
+    ghrepo: ggseas
+    tags: visualization,general
+    cran: true
+    release:
+    examples:
+    ghauthor: ellisp
+    short: >
+      Seasonal adjustment on the fly extension for ggplot2.
     description: >     
