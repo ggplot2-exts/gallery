@@ -21,8 +21,8 @@ widgets:
     ghauthor: thomasp85
     short: >
       ggforce is aimed at providing missing functionality to ggplot2 through the extension system introduced with ggplot2 v2.0.0.
-    description: >    
-    
+    description: >
+
  -
     name: ggalt
     thumbnail: images/ggalt.png
@@ -37,9 +37,9 @@ widgets:
     ghauthor: hrbrmstr
     short: >
       A compendium of ‘geoms’, ‘coords’ and ‘stats’ for ‘ggplot2’.
-    description: > 
+    description: >
       A compendium of ‘geoms’, ‘coords’ and ‘stats’ for ‘ggplot2’, including splines, 1d and 2d densities, univariate average shifted histograms and a new map coordinate system based on the ‘PROJ.4’-library.
- 
+
  -
     name: ggiraph
     thumbnail: images/ggiraph.png
@@ -54,8 +54,8 @@ widgets:
     ghauthor: davidgohel
     short: >
       htmlwidget to make 'ggplot' graphics interactive.
-    description: > 
-    
+    description: >
+
  -
     name: ggstance
     thumbnail: images/ggstance.png
@@ -70,8 +70,8 @@ widgets:
     ghauthor: lionel-
     short: >
       ggstance implements horizontal versions of common ggplot2 geoms.
-    description: > 
-    
+    description: >
+
  -
     name: ggrepel
     thumbnail: images/ggrepel.png
@@ -86,8 +86,8 @@ widgets:
     ghauthor: slowkow
     short: >
       Repel overlapping text labels away from each other.
-    description: > 
-    
+    description: >
+
  -
     name: ggraph
     thumbnail: images/ggraph.png
@@ -102,24 +102,24 @@ widgets:
     ghauthor: thomasp85
     short: >
       ggraph is tailored at plotting graph-like data structures (graphs, networks, trees, hierarchies...).
-    description: > 
-    
+    description: >
+
  -
     name: ggpmisc
     thumbnail: images/ggpmisc.png
     url: https://bitbucket.org/aphalo/ggpmisc
     jslibs: >
-    ghuser: 
-    ghrepo: 
+    ghuser:
+    ghrepo:
     tags: visualization,general
     cran: true
     release:
     examples:
-    ghauthor: 
+    ghauthor:
     short: >
       Miscellaneous Extensions to ‘ggplot2’.
-    description: >     
-    
+    description: >
+
  -
     name: geomnet
     thumbnail: images/geomnet.png
@@ -134,8 +134,8 @@ widgets:
     ghauthor: sctyner
     short: >
       geomnet implements network visualizations in ggplot2 via geom_net.
-    description: >  
-    
+    description: >
+
  -
     name: ggExtra
     thumbnail: images/ggExtra.png
@@ -150,8 +150,8 @@ widgets:
     ghauthor: daattali
     short: >
       ggExtra lets you add marginal density plots or histograms to ggplot2 scatterplots.
-    description: > 
-    
+    description: >
+
  -
     name: gganimate
     thumbnail: images/gganimate.gif
@@ -166,8 +166,8 @@ widgets:
     ghauthor: dgrtwo
     short: >
       gganimate wraps the animation package to create animated ggplot2 plots.
-    description: > 
-    
+    description: >
+
  -
     name: plotROC
     thumbnail: images/plotROC.png
@@ -182,8 +182,8 @@ widgets:
     ghauthor: sachsmc
     short: >
       plotROC provides functions to generate an interactive ROC curve plot for web use, and print versions.
-    description: > 
-      
+    description: >
+
  -
     name: ggthemes
     thumbnail: images/ggthemes.png
@@ -198,24 +198,24 @@ widgets:
     ghauthor: jrnold
     short: >
       Some extra geoms, scales, and themes for ggplot.
-    description: > 
-    
+    description: >
+
  -
     name: ggspectra
     thumbnail: images/ggspectra.png
     url: https://bitbucket.org/aphalo/ggspectra
     jslibs: >
-    ghuser: 
-    ghrepo: 
+    ghuser:
+    ghrepo:
     tags: visualization,general
     cran: true
     release:
     examples:
-    ghauthor: 
+    ghauthor:
     short: >
       ggspectra extends ggplot2 with stats, geoms and annotations suitable for light spectra.
-    description: > 
-    
+    description: >
+
  -
     name: ggnetwork
     thumbnail: images/ggnetwork.png
@@ -230,8 +230,8 @@ widgets:
     ghauthor: briatte
     short: >
       The ggnetwork package provides a way to build network plots with ggplot2.
-    description: >    
-    
+    description: >
+
  -
     name: ggtech
     thumbnail: images/ggtech.png
@@ -246,8 +246,8 @@ widgets:
     ghauthor: ricardo-bion
     short: >
       ggplot2 tech themes, scales, and geoms.
-    description: >   
-    
+    description: >
+
  -
     name: ggradar
     thumbnail: images/ggradar.png
@@ -262,8 +262,8 @@ widgets:
     ghauthor: ricardo-bion
     short: >
       ggradar allows you to build radar charts with ggplot2.
-    description: >     
-    
+    description: >
+
  -
     name: ggTimeSeries
     thumbnail: images/ggTimeSeries.png
@@ -278,24 +278,24 @@ widgets:
     ghauthor: Ather-Energy
     short: >
       This R package offers novel time series visualisations.
-    description: >         
-    
+    description: >
+
  -
     name: ggtree
     thumbnail: images/ggtree.png
     url: https://bioconductor.org/packages/release/bioc/html/ggtree.html
     jslibs: >
-    ghuser: 
-    ghrepo: 
+    ghuser:
+    ghrepo:
     tags: visualization,general
     cran: true
     release:
     examples:
-    ghauthor: 
+    ghauthor:
     short: >
       gtree is designed for visualizing phylogenetic tree and different types of associated annotation data.
-    description: >   
-    
+    description: >
+
  -
     name: ggseas
     thumbnail: images/ggseas.png
@@ -310,4 +310,20 @@ widgets:
     ghauthor: ellisp
     short: >
       Seasonal adjustment on the fly extension for ggplot2.
-    description: >     
+    description: >
+
+ -
+    name: ggsci
+    thumbnail: images/ggsci.png
+    url: http://ggsci.net
+    jslibs: >
+    ghuser: road2stat
+    ghrepo: ggsci
+    tags: visualization,general
+    cran: true
+    release:
+    examples: http://ggsci.net/doc/
+    ghauthor: road2stat
+    short: >
+      A collection of ‘ggplot2’ color palettes inspired by scientific journals and science fiction TV shows.
+    description: >
