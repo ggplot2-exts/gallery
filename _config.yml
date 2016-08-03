@@ -153,6 +153,26 @@ widgets:
     description: >
 
  -
+    name: ggfortify
+    thumbnail: images/ggfortify.png
+    url: https://github.com/sinhrks/ggfortify
+    jslibs: >
+    ghuser: sinhrks
+    ghrepo: ggfortify
+    tags: visualization,general
+    cran: true
+    release:
+    examples: https://github.com/sinhrks/ggfortify#examples
+    ghauthor: terrytangyuan
+    short: >
+      The unified interface to ggplot2 many popular statistical pakackage results. 
+    description: >
+      Unified plotting tools for statistics commonly used, such as GLM, time series, 
+      PCA families, clustering and survival analysis. The package offers a single 
+      plotting interface for these analysis results and plots in a unified style 
+      using 'ggplot2'.
+
+ -
     name: gganimate
     thumbnail: images/gganimate.gif
     url: https://github.com/dgrtwo/gganimate
