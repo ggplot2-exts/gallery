@@ -305,13 +305,13 @@ widgets:
     thumbnail: images/ggtree.png
     url: https://bioconductor.org/packages/release/bioc/html/ggtree.html
     jslibs: >
-    ghuser:
-    ghrepo:
+    ghuser: GuangchuangYu
+    ghrepo: ggtree
     tags: visualization,general
     cran: true
     release:
-    examples:
-    ghauthor:
+    examples: https://guangchuangyu.github.io/ggtree/featuredArticles/
+    ghauthor: GuangchuangYu
     short: >
       gtree is designed for visualizing phylogenetic tree and different types of associated annotation data.
     description: >
