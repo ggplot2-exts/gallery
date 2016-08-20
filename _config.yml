@@ -70,7 +70,9 @@ widgets:
     ghauthor: robjohnnoble
     short: >
       Creates Muller plots for visualizing evolutionary dynamics.
-    description: > An attempt to set an easy-to-use standard for representing evolutionary dynamics. Should prove useful to researchers in experimental evolution, cancer research, population genetics, and beyond.
+    description: > 
+      An attempt to set an easy-to-use standard for representing evolutionary dynamics.
+      Should prove useful to researchers in experimental evolution, cancer research, population genetics, and beyond.
 
  -
     name: ggstance
