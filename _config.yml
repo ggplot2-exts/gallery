@@ -57,6 +57,22 @@ widgets:
     description: >
 
  -
+    name: ggmuller
+    thumbnail: images/ggmuller.png
+    url: https://github.com/robjohnnoble/ggmuller
+    jslibs: >
+    ghuser: robjohnnoble
+    ghrepo: ggmuller
+    tags: visualization,evolution,dynamics
+    cran: false
+    release:
+    examples: https://thesefewlines.wordpress.com/2016/08/20/how-to-ggmuller/
+    ghauthor: robjohnnoble
+    short: >
+      Creates Muller plots for visualizing evolutionary dynamics.
+    description: > An attempt to set an easy-to-use standard for representing evolutionary dynamics. Should prove useful to researchers in experimental evolution, cancer research, population genetics, and beyond.
+
+ -
     name: ggstance
     thumbnail: images/ggstance.png
     url: https://github.com/lionel-/ggstance
