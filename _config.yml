@@ -365,6 +365,24 @@ widgets:
     short: >
       A collection of ‘ggplot2’ color palettes inspired by scientific journals and science fiction TV shows.
     description: >
+    
+    
+-
+    name: survminer
+    thumbnail: images/survminer.png
+    url: http://www.sthda.com/english/rpkgs/survminer/
+    jslibs: >
+    ghuser: kassambara
+    ghrepo: survminer
+    tags: visualization,survival
+    cran: true
+    release:
+    examples: https://www.r-bloggers.com/survival-plots-have-never-been-so-informative/
+    ghauthor: kassambara,MarcinKosinski
+    short: >
+      Drawing Survival Curves using 'ggplot2'
+    description: >    
+      Contains the function 'ggsurvplot()' for drawing easily beautiful and 'ready-to-publish' survival curves with the 'number at risk' table. Other functions are also available for visual examinations of 'cox' model assumptions.
 
 -
     name: ggally
