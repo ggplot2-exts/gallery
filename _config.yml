@@ -378,7 +378,7 @@ widgets:
     cran: true
     release:
     examples: https://www.r-bloggers.com/survival-plots-have-never-been-so-informative/
-    ghauthor: kassambara,MarcinKosinski
+    ghauthor: kassambara
     short: >
       Drawing Survival Curves using 'ggplot2'
     description: >    
