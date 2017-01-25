@@ -420,6 +420,6 @@ plot networks.
     examples:
     ghauthor: haleyjeppson
     short: >
+
       ggmosaic implements mosaic plots in ggplot2 via geom_mosaic.
     description: >
-
