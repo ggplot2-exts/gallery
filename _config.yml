@@ -368,6 +368,23 @@ widgets:
     
     
 -
+    name: ggmosiac
+    thumbnail: images/ggmosaic.png
+    url: https://github.com/haleyjeppson/ggmosaic
+    jslibs: >
+    ghuser: haleyjeppson
+    ghrepo: ggmosaic
+    tags: visualization,general
+    cran: true
+    release:
+    examples: 
+    ghauthor: haleyjeppson
+    short: >
+      ggmosaic implements mosaic plots in ‘ggplot2’ via geom_mosaic.
+    description: >
+    
+    
+-
     name: survminer
     thumbnail: images/survminer.png
     url: http://www.sthda.com/english/rpkgs/survminer/
@@ -406,19 +423,3 @@ to reduce the complexity of combining geometric objects with transformed data.
 Some of these functions include a pairwise plot matrix, a two group pairwise plot
 matrix, a parallel coordinates plot, a survival plot, and several functions to
 plot networks.
-
--
-    name: ggmosaic
-    thumbnail: images/ggmosaic.png
-    url: https://github.com/haleyjeppson/ggmosaic
-    jslibs: >
-    ghuser: haleyjeppson
-    ghrepo: ggmosaic
-    tags: visualization,general
-    cran: true
-    release:
-    examples:
-    ghauthor: haleyjeppson
-    short: >
-      ggmosaic implements mosaic plots in ggplot2 via geom_mosaic.
-    description: >
