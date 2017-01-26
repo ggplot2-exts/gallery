@@ -367,7 +367,24 @@ widgets:
     description: >
     
     
--
+ -
+    name: ggmosiac
+    thumbnail: images/ggmosaic.png
+    url: https://github.com/haleyjeppson/ggmosaic
+    jslibs: >
+    ghuser: haleyjeppson
+    ghrepo: ggmosaic
+    tags: visualization,general
+    cran: true
+    release:
+    examples: 
+    ghauthor: haleyjeppson
+    short: >
+      ggmosaic implements mosaic plots in ‘ggplot2’ via geom_mosaic.
+    description: >
+    
+    
+ -
     name: survminer
     thumbnail: images/survminer.png
     url: http://www.sthda.com/english/rpkgs/survminer/
@@ -384,7 +401,7 @@ widgets:
     description: >    
       Contains the function 'ggsurvplot()' for drawing easily beautiful and 'ready-to-publish' survival curves with the 'number at risk' table. Other functions are also available for visual examinations of 'cox' model assumptions.
 
--
+ -
     name: ggally
     thumbnail: images/ggally.png
     url: http://ggobi.github.io/ggally/docs.html
@@ -399,10 +416,4 @@ widgets:
     short: >
        ggally extends 'ggplot2' by adding several functions to reduce the complexity of combining geometric objects with transformed data.
     description: >
-       The R package '\{}href{http://docs.ggplot2.org/current/}{ggplot2}'
-is a plotting system based on the grammar of graphics. '\{}href{https://
-ggobi.github.io/ggally}{GGally}' extends 'ggplot2' by adding several functions
-to reduce the complexity of combining geometric objects with transformed data.
-Some of these functions include a pairwise plot matrix, a two group pairwise plot
-matrix, a parallel coordinates plot, a survival plot, and several functions to
-plot networks.
+       The R package '\{}href{http://docs.ggplot2.org/current/}{ggplot2}' is a plotting system based on the grammar of graphics. '\{}href{https://ggobi.github.io/ggally}{GGally}' extends 'ggplot2' by adding several functions to reduce the complexity of combining geometric objects with transformed data. Some of these functions include a pairwise plot matrix, a two group pairwise plot matrix, a parallel coordinates plot, a survival plot, and several functions to plot networks. 
