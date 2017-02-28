@@ -8,6 +8,23 @@ sass:
 
 widgets:
  -
+    name: ggedit
+    thumbnail: images/ggedit.png
+    url: https://github.com/metrumresearchgroup/ggedit
+    jslibs: >
+    ghuser: metrumresearchgroup
+    ghrepo: ggedit
+    tags: visualization, interactive, shiny, general
+    cran: false
+    release:
+    examples:
+    ghauthor: yonicd
+    short: >
+      ggedit is aimed to interactively edit ggplot layers, scales and themes aesthetics
+    description: >
+      ggedit is aimed to allows novice and expert ggplot2 users to interactively edit ggplot layers, scales and themes aesthetics, while returning objects and scripts of updated plots using shiny gadgets and modules.
+
+ -
     name: ggforce
     thumbnail: images/ggforce.png
     url: https://github.com/thomasp85/ggforce
