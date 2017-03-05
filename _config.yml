@@ -419,6 +419,23 @@ widgets:
       Contains the function 'ggsurvplot()' for drawing easily beautiful and 'ready-to-publish' survival curves with the 'number at risk' table. Other functions are also available for visual examinations of 'cox' model assumptions.
 
  -
+    name: ggthemr
+    thumbnail: images/cttobin-ggthemr.png
+    url: https://github.com/cttobin/ggthemr
+    jslibs: >
+    ghuser: cttobin
+    ghrepo: ggthemr
+    tags: visualization,general
+    cran: false
+    release:
+    examples:
+    ghauthor: cttobin
+    short: >
+     Themes for ggplot
+    description: >
+      Themes for ggplot. The idea of this package is that you can just set the theme and then forget about it. You should not have to change any of your existing code.
+
+ -
     name: ggally
     thumbnail: images/ggally.png
     url: http://ggobi.github.io/ggally/docs.html
