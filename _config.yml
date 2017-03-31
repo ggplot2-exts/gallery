@@ -15,7 +15,7 @@ widgets:
     ghuser: metrumresearchgroup
     ghrepo: ggedit
     tags: visualization, interactive, shiny, general
-    cran: false
+    cran: true
     release:
     examples:
     ghauthor: yonicd
