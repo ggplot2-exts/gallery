@@ -8,6 +8,23 @@ sass:
 
 widgets:
  -
+    name: ggQC
+    thumbnail: images/ggQC.png
+    url: https://github.com/kenithgrey/ggQC
+    jslibs: >
+    ghuser: kenithgrey
+    ghrepo: ggQC
+    tags: QC, XmR, XbarR, SixSigma, Visualization
+    cran: true
+    release: 
+    examples: http://ggqc.r-bar.net/
+    ghauthor: Kenith Grey
+    short: >
+      Use ggQC to plot single, faceted and multi-layered quality control charts .
+    description: >
+      ggQC is used to create single, faceted, or multi-layered quality control charts using functions stat_QC(), stat_QC_lines() and stat_mR(). Supported charts include XmR, XbarR, n, c, p, np and more.
+
+ -
     name: ggedit
     thumbnail: images/ggedit.png
     url: https://github.com/metrumresearchgroup/ggedit
