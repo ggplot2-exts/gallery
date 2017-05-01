@@ -16,7 +16,7 @@ widgets:
     ghrepo: ggQC
     tags: QC, XmR, XbarR, SixSigma, Visualization
     cran: true
-    release: 
+    release:
     examples: http://ggqc.r-bar.net/
     ghauthor: Kenith Grey
     short: >
@@ -104,7 +104,7 @@ widgets:
     ghauthor: robjohnnoble
     short: >
       Creates Muller plots for visualizing evolutionary dynamics.
-    description: > 
+    description: >
       An attempt to set an easy-to-use standard for representing evolutionary dynamics.
       Should prove useful to researchers in experimental evolution, cancer research, population genetics, and beyond.
 
@@ -217,11 +217,11 @@ widgets:
     examples: https://github.com/sinhrks/ggfortify#examples
     ghauthor: terrytangyuan
     short: >
-      The unified interface to ggplot2 many popular statistical pakackage results. 
+      The unified interface to ggplot2 many popular statistical pakackage results.
     description: >
-      Unified plotting tools for statistics commonly used, such as GLM, time series, 
-      PCA families, clustering and survival analysis. The package offers a single 
-      plotting interface for these analysis results and plots in a unified style 
+      Unified plotting tools for statistics commonly used, such as GLM, time series,
+      PCA families, clustering and survival analysis. The package offers a single
+      plotting interface for these analysis results and plots in a unified style
       using 'ggplot2'.
 
  -
@@ -399,8 +399,8 @@ widgets:
     short: >
       A collection of ‘ggplot2’ color palettes inspired by scientific journals and science fiction TV shows.
     description: >
-    
-    
+
+
  -
     name: ggmosiac
     thumbnail: images/ggmosaic.png
@@ -411,13 +411,13 @@ widgets:
     tags: visualization,general
     cran: true
     release:
-    examples: 
+    examples:
     ghauthor: haleyjeppson
     short: >
       ggmosaic implements mosaic plots in ‘ggplot2’ via geom_mosaic.
     description: >
-    
-    
+
+
  -
     name: survminer
     thumbnail: images/survminer.png
@@ -432,7 +432,7 @@ widgets:
     ghauthor: kassambara
     short: >
       Drawing Survival Curves using 'ggplot2'
-    description: >    
+    description: >
       Contains the function 'ggsurvplot()' for drawing easily beautiful and 'ready-to-publish' survival curves with the 'number at risk' table. Other functions are also available for visual examinations of 'cox' model assumptions.
 
  -
@@ -467,7 +467,7 @@ widgets:
     short: >
        ggally extends 'ggplot2' by adding several functions to reduce the complexity of combining geometric objects with transformed data.
     description: >
-       The R package '\{}href{http://docs.ggplot2.org/current/}{ggplot2}' is a plotting system based on the grammar of graphics. '\{}href{https://ggobi.github.io/ggally}{GGally}' extends 'ggplot2' by adding several functions to reduce the complexity of combining geometric objects with transformed data. Some of these functions include a pairwise plot matrix, a two group pairwise plot matrix, a parallel coordinates plot, a survival plot, and several functions to plot networks. 
+       The R package '\{}href{http://docs.ggplot2.org/current/}{ggplot2}' is a plotting system based on the grammar of graphics. '\{}href{https://ggobi.github.io/ggally}{GGally}' extends 'ggplot2' by adding several functions to reduce the complexity of combining geometric objects with transformed data. Some of these functions include a pairwise plot matrix, a two group pairwise plot matrix, a parallel coordinates plot, a survival plot, and several functions to plot networks.
 
  -
     name: ggseqlogo
@@ -485,4 +485,20 @@ widgets:
        Publication-ready sequence logos using ggplot2.
     description: >
        '\{}href{https://github.com/omarwagih/ggseqlogo}{ggseqlogo}' extends 'ggplot2' allowing users to flexibily plot sequence logos.
+
+-
+    name: ggnba
+    thumbnail: images/ggnba.png
+    url: https://github.com/spirgel/ggnba
+    jslibs: >
+    ghuser: spirgel
+    ghrepo: ggnba
+    tags: visualization,general
+    cran: false
+    release:
+    examples:
+    ghauthor: spirgel
+    short: >
+      ggplot2 nba themes, scales, and geoms.
+    description: >
 
