@@ -488,7 +488,7 @@ widgets:
 
 -
     name: ggnba
-    thumbnail: images/ggtech.png
+    thumbnail: images/ggnba.png
     url: https://github.com/spirgel/ggnba
     jslibs: >
     ghuser: spirgel
