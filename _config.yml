@@ -486,3 +486,23 @@ widgets:
     description: >
        '\{}href{https://github.com/omarwagih/ggseqlogo}{ggseqlogo}' extends 'ggplot2' allowing users to flexibily plot sequence logos.
 
+-
+    name: lemon
+    thumbnail: images/lemon.png
+    url: https://github.com/stefanedwards/lemon
+    jslib: >
+    ghuser: stefanedwards
+    ghrepo: lemon
+    tags: visualization,brackets,axis
+    cran: true
+    examples: >
+        https://cran.r-project.org/web/packages/lemon/vignettes/capped-axes.html
+        https://cran.r-project.org/web/packages/lemon/vignettes/gtable_show_lemonade.html
+        https://cran.r-project.org/web/packages/lemon/vignettes/legends.html
+    ghauthor: stefanedwards
+    short: >
+        Repositioning legends and adding brackets to axes to 'ggplot2'.
+    description:
+        Functions for working with legends and axis lines of 'ggplot2',
+        facets that repeat axis lines on all panels, and some 'knitr' extensions.
+
