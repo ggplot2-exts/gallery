@@ -506,3 +506,21 @@ widgets:
         Functions for working with legends and axis lines of 'ggplot2',
         facets that repeat axis lines on all panels, and some 'knitr' extensions.
 
+-
+		name: ggChernoff
+		thumbnail: images/ggChernoff.png
+		url: https://github.com/Selbosh/ggChernoff
+		jslib: >
+		ghuser: Selbosh
+		ghrepo: ggChernoff
+		tags: visualization
+		cran: false
+		examples: https://github.com/Selbosh/ggChernoff
+		ghauthor: Selbosh
+		short: >
+				Visualise multivariate data using human faces
+		description: >
+				Adds geoms, scales and aesthetics to plot 'Chernoff' faces that vary their expression according to your data.
+				Make your data smile or frown, angry or straight-faced, with continuous scales and legend support.
+		
+
