@@ -523,4 +523,20 @@ widgets:
 				Adds geoms, scales and aesthetics to plot 'Chernoff' faces that vary their expression according to your data.
 				Make your data smile or frown, angry or straight-faced, with continuous scales and legend support.
 		
+-
+    name: ggjoy
+    thumbnail: images/ggjoy.png
+    url: https://cran.r-project.org/web/packages/ggjoy/vignettes/introduction.html
+    jslibs: >
+    ghuser: clauswilke
+    ghrepo: ggjoy
+    tags: visualization,general
+    cran: true
+    release:
+    examples: https://cran.r-project.org/web/packages/ggjoy/vignettes/gallery.html
+    ghauthor: clauswilke
+    short: >
+      Joyplot geoms for 'ggplot2'
+    description: >
+      Joyplots provide a convenient way of visualizing changes in distributions over time or space. This package enables the creation of such plots in 'ggplot2'.
 
