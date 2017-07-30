@@ -536,3 +536,20 @@ widgets:
       Repositioning legends and adding brackets to axes to 'ggplot2'.
     description: >
       Functions for working with legends and axis lines of 'ggplot2', facets that repeat axis lines on all panels, and some 'knitr' extensions.
+
+ -
+    name: cowplot
+    thumbnail: images/cowplot.png
+    url: https://cran.r-project.org/web/packages/cowplot/vignettes/introduction.html
+    jslibs: >
+    ghuser: wilkelab
+    ghrepo: cowplot
+    tags: visualization,general
+    cran: true
+    release:
+    examples: https://cran.r-project.org/web/packages/cowplot/vignettes/introduction.html
+    ghauthor: clauswilke
+    short: >
+      Streamlined plot theme and plot annotations for 'ggplot2'
+    description: >
+      The package provides a streamlined and clean theme that is used in the Wilke lab, hence the package name, which stands for Claus O. Wilke's plot package. The package also provide functionality to combine multiple 'ggplot2' plots into one, align them, and label them with letters, e.g. A, B, C, etc., as is often required for scientific publications.
