@@ -486,24 +486,24 @@ widgets:
     description: >
        ggseqlogo extends 'ggplot2' allowing users to flexibily plot sequence logos.
 
--
-		name: ggChernoff
-		thumbnail: images/ggChernoff.png
-		url: https://github.com/Selbosh/ggChernoff
-		jslib: >
-		ghuser: Selbosh
-		ghrepo: ggChernoff
-		tags: visualization
-		cran: false
-		examples: https://github.com/Selbosh/ggChernoff
-		ghauthor: Selbosh
-		short: >
-				Visualise multivariate data using human faces
-		description: >
-				Adds geoms, scales and aesthetics to plot 'Chernoff' faces that vary their expression according to your data.
-				Make your data smile or frown, angry or straight-faced, with continuous scales and legend support.
-		
--
+ -
+    name: ggChernoff
+    thumbnail: images/ggChernoff.png
+    url: https://github.com/Selbosh/ggChernoff
+    jslib: >
+    ghuser: Selbosh
+    ghrepo: ggChernoff
+    tags: visualization
+    cran: false
+    examples: https://github.com/Selbosh/ggChernoff
+    ghauthor: Selbosh
+    short: >
+       Visualise multivariate data using human faces
+    description: >
+       Adds geoms, scales and aesthetics to plot 'Chernoff' faces that vary their expression according to your data.
+       Make your data smile or frown, angry or straight-faced, with continuous scales and legend support.
+        
+ -
     name: ggjoy
     thumbnail: images/ggjoy.png
     url: https://cran.r-project.org/web/packages/ggjoy/vignettes/introduction.html
@@ -520,7 +520,7 @@ widgets:
     description: >
       Joyplots provide a convenient way of visualizing changes in distributions over time or space. This package enables the creation of such plots in 'ggplot2'.
 
--
+ -
     name: lemons
     thumbnail: images/lemon.png
     url: https://github.com/stefanedwards/lemon
