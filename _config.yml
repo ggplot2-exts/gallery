@@ -553,3 +553,21 @@ widgets:
       Streamlined plot theme and plot annotations for 'ggplot2'
     description: >
       The package provides a streamlined and clean theme that is used in the Wilke lab, hence the package name, which stands for Claus O. Wilke's plot package. The package also provide functionality to combine multiple 'ggplot2' plots into one, align them, and label them with letters, e.g. A, B, C, etc., as is often required for scientific publications.
+      
+ -
+    name: qqplotr
+    thumbnail: images/qqplotr.png
+    url: https://github.com/aloy/qqplotr
+    jslibs: >
+    ghuser: aloy
+    ghrepo: qqplotr
+    tags: quantile-quantile,probability-probability
+    cran: true
+    release:
+    examples: https://github.com/aloy/qqplotr
+    ghauthor: almeidaxan
+    short: >
+      Quantile-quantile and probability-probability plot extensions for 'ggplot2'
+    description: >
+      The package extends some 'ggplot2' functionalities by permitting the drawing of quantile-quantile (Q-Q) and probability-probability (P-P) points, lines, and confidence bands. The functions of this package also allow the detrend adjustment, previously proposed in the literature to help reduce visual bias when assessing those type of plots.
+      
