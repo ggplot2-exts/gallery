@@ -93,14 +93,14 @@ widgets:
  -
     name: ggmuller
     thumbnail: images/ggmuller.png
-    url: https://github.com/robjohnnoble/ggmuller
+    url: https://cran.r-project.org/web/packages/ggmuller/index.html
     jslibs: >
     ghuser: robjohnnoble
     ghrepo: ggmuller
     tags: visualization,evolution,dynamics
-    cran: false
+    cran: true
     release:
-    examples: https://thesefewlines.wordpress.com/2016/08/20/how-to-ggmuller/
+    examples: https://cran.r-project.org/web/packages/ggmuller/vignettes/ggmuller.html
     ghauthor: robjohnnoble
     short: >
       Creates Muller plots for visualizing evolutionary dynamics.
