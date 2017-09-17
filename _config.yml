@@ -504,21 +504,21 @@ widgets:
        Make your data smile or frown, angry or straight-faced, with continuous scales and legend support.
         
  -
-    name: ggjoy
-    thumbnail: images/ggjoy.png
-    url: https://cran.r-project.org/web/packages/ggjoy/vignettes/introduction.html
+    name: ggridges
+    thumbnail: images/ggridges.png
+    url: https://cran.r-project.org/web/packages/ggridges/vignettes/introduction.html
     jslibs: >
     ghuser: clauswilke
-    ghrepo: ggjoy
+    ghrepo: ggridges
     tags: visualization,general
     cran: true
     release:
-    examples: https://cran.r-project.org/web/packages/ggjoy/vignettes/gallery.html
+    examples: https://cran.r-project.org/web/packages/ggridges/vignettes/gallery.html
     ghauthor: clauswilke
     short: >
-      Joyplot geoms for 'ggplot2'
+      Ridgeline plot geoms for 'ggplot2'
     description: >
-      Joyplots provide a convenient way of visualizing changes in distributions over time or space. This package enables the creation of such plots in 'ggplot2'.
+      Ridgeline plots provide a convenient way of visualizing changes in distributions over time or space. This package enables the creation of such plots in 'ggplot2'.
 
  -
     name: lemons
