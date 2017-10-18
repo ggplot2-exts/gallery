@@ -402,7 +402,7 @@ widgets:
     
     
  -
-    name: ggmosiac
+    name: ggmosaic
     thumbnail: images/ggmosaic.png
     url: https://github.com/haleyjeppson/ggmosaic
     jslibs: >
