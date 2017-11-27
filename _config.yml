@@ -579,7 +579,7 @@ widgets:
     ghuser: corybrunson
     ghrepo: ggalluvial
     tags: visualization,categorical,time series
-    cran: false
+    cran: true
     examples: 
     ghauthor: corybrunson
     short: >
