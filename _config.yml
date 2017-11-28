@@ -134,7 +134,7 @@ widgets:
     tags: visualization,general
     cran: true
     release:
-    examples:
+    examples: https://cran.r-project.org/web/packages/ggrepel/vignettes/ggrepel.html
     ghauthor: slowkow
     short: >
       Repel overlapping text labels away from each other.
