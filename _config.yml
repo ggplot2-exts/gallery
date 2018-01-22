@@ -8,6 +8,23 @@ sass:
 
 widgets:
  -
+    name: gg3D
+    thumbnail: images/gg3D.png
+    url: https://github.com/AckerDWM/gg3D
+    jslibs: >
+    ghuser: AckerDWM
+    ghrepo: gg3D
+    tags: 3D, Visualization
+    cran: false
+    release: 
+    examples: http://htmlpreview.github.io/?https://github.com/AckerDWM/gg3D/blob/master/gg3D-vignette.html
+    ghauthor: Daniel Acker
+    short: >
+      3D perspective plots for ggplot2
+    description: >
+      gg3D adds 3D axes, 3D perspective projections with arbitrary rotations, and 3D wireframe plots to ggplot.
+
+ -
     name: ggQC
     thumbnail: images/ggQC.png
     url: https://github.com/kenithgrey/ggQC
