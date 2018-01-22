@@ -587,3 +587,19 @@ widgets:
     description: >
       Alluvial diagrams encompass a variety of charts that use x-splines (alluvia and flows), sometimes augmented with stacked bars (lodes or strata), to visualize incidence structures derived from several data types, including repeated categorical measures, evolving classifications, and multi-dimensional categorical data. This package contains stats and geoms that interpret multiple data formats compatible with this framework while hewing to the principles of tidy data and the grammar of graphics.
       
+ -
+    name: patchwork
+    thumbnail: images/thomasp85-patchwork.png
+    url: https://github.com/thomasp85/patchwork#patchwork
+    jslibs: >
+    ghuser: thomasp85
+    ghrepo: patchwork
+    tags: visualization,composition
+    cran: false
+    examples: 
+    ghauthor: thomasp85
+    short: >
+      Easy composition of ggplot plots using arithmetic operators
+    description: >
+      ggplot2 is concerned with single plots, facets notwithstanding, and does not provide a native way to compose multiple plots. patchwork extends the standard ggplot2 API to allow composition with the '+' operator as well as other the means to customize the layout and nest sub-arrangements.
+      
