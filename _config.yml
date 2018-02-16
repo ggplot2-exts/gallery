@@ -620,3 +620,18 @@ widgets:
     description: >
       ggplot2 is concerned with single plots, facets notwithstanding, and does not provide a native way to compose multiple plots. patchwork extends the standard ggplot2 API to allow composition with the '+' operator as well as other the means to customize the layout and nest sub-arrangements.
       
+ -
+    name: ggquiver
+    thumbnail: images/ggquiver.png
+    url: https://github.com/mitchelloharawild/ggquiver
+    jslibs: >
+    ghuser: mitchelloharawild
+    ghrepo: ggquiver
+    tags: visualization,quiver,velocity,vector
+    cran: true
+    examples: 
+    ghauthor: mitchelloharawild
+    short: >
+      Quiver/velocity plots for 'ggplot2'.
+    description: >
+      Quiver plots are common a common visualisation method for vector fields. 'ggquiver' provides a new geom which simplifies the creation of these plots, with scaling and centering functionality.
