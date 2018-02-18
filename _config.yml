@@ -242,6 +242,26 @@ widgets:
       using 'ggplot2'.
 
  -
+    name: autoplotly
+    thumbnail: images/ggfortify.png
+    url: https://github.com/terrytangyuan/autoplotly
+    jslibs: plotly
+    ghuser: terrytangyuan
+    ghrepo: autoplotly
+    tags: visualization,general
+    cran: true
+    release:
+    examples: https://terrytangyuan.github.io/2018/02/12/autoplotly-intro/
+    ghauthor: terrytangyuan
+    short: >
+      Automatic generation of interactive visualizations for popular statistical results.
+    description: >
+      Automatically generate interactive visualizations for popular statistical results 
+      supported by 'ggfortify', such as time series, PCA, clustering and survival analysis,
+      with 'plotly.js' <https://plot.ly/>  and 'ggplot2' style. The generated visualizations
+      can also be easily extended using 'ggplot2' and 'plotly' syntax while staying interactive.
+
+ -
     name: gganimate
     thumbnail: images/gganimate.gif
     url: https://github.com/dgrtwo/gganimate
