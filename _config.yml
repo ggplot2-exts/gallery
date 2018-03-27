@@ -655,3 +655,19 @@ widgets:
       Quiver/velocity plots for 'ggplot2'.
     description: >
       Quiver plots are common a common visualisation method for vector fields. 'ggquiver' provides a new geom which simplifies the creation of these plots, with scaling and centering functionality.
+
+ -
+    name: ggdag
+    thumbnail: images/ggdag.png
+    url: https://ggdag.netlify.com/
+    jslibs: >
+    ghuser: malcolmbarrett
+    ghrepo: ggdag
+    tags: visualization,dags,inference
+    cran: true
+    examples: https://ggdag.netlify.com/articles/intro-to-ggdag.html
+    ghauthor: malcolmbarrett
+    short: >
+      Causal directed acyclic graphs (DAGs) in `ggplot2`
+    description: >
+      Structural causal models are an important part of the causal inference toolkit and are often portrated as directed acyclic graphics (DAGs). `ggdag` extends the `dagitty` package for analyzing causal DAGs to make them tidy and plot them using `ggplot2` and `ggraph`.
