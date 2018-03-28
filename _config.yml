@@ -325,22 +325,6 @@ widgets:
       ggspectra extends ggplot2 with stats, geoms and annotations suitable for light spectra.
     description: >
 
--
-    name: ggstatsplot
-    thumbnail: images/ggstatsplot.png
-    url: https://github.com/IndrajeetPatil/ggstatsplot
-    jslibs: >
-    ghuser: IndrajeetPatil
-    ghrepo: ggstatsplot
-    tags: visualization,statistics
-    cran: false
-    release:
-    examples:
-    ghauthor: IndrajeetPatil
-    short: >
-      ggstatsplot provides a collection of functions to enhance ggplot2 plots with results from statistical tests.
-    description: >
-        
  -
     name: ggnetwork
     thumbnail: images/ggnetwork.png
