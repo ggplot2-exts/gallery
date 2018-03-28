@@ -338,7 +338,7 @@ widgets:
     examples:
     ghauthor: IndrajeetPatil
     short: >
-      ggstatsplot provides a collection of functions to enhance ggplot2 plots with results from statistical tests.
+      The ggstatsplot provides a way to build 'ggplot2' plot with statistical details.
     description: >
         
  -
