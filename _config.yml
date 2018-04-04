@@ -333,7 +333,7 @@ widgets:
     ghuser: IndrajeetPatil
     ghrepo: ggstatsplot
     tags: visualization,statistics
-    cran: false
+    cran: true
     release:
     examples:
     ghauthor: IndrajeetPatil
