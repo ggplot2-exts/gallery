@@ -16,7 +16,7 @@ widgets:
     ghrepo: gg3D
     tags: 3D, Visualization
     cran: false
-    release:
+    release: 
     examples: http://htmlpreview.github.io/?https://github.com/AckerDWM/gg3D/blob/master/gg3D-vignette.html
     ghauthor: Daniel Acker
     short: >
@@ -33,7 +33,7 @@ widgets:
     ghrepo: ggQC
     tags: QC, XmR, XbarR, SixSigma, Visualization
     cran: true
-    release:
+    release: 
     examples: http://ggqc.r-bar.net/
     ghauthor: Kenith Grey
     short: >
@@ -121,7 +121,7 @@ widgets:
     ghauthor: robjohnnoble
     short: >
       Creates Muller plots for visualizing evolutionary dynamics.
-    description: >
+    description: > 
       An attempt to set an easy-to-use standard for representing evolutionary dynamics.
       Should prove useful to researchers in experimental evolution, cancer research, population genetics, and beyond.
 
@@ -234,11 +234,11 @@ widgets:
     examples: https://github.com/sinhrks/ggfortify#examples
     ghauthor: terrytangyuan
     short: >
-      The unified interface to ggplot2 many popular statistical pakackage results.
+      The unified interface to ggplot2 many popular statistical pakackage results. 
     description: >
-      Unified plotting tools for statistics commonly used, such as GLM, time series,
-      PCA families, clustering and survival analysis. The package offers a single
-      plotting interface for these analysis results and plots in a unified style
+      Unified plotting tools for statistics commonly used, such as GLM, time series, 
+      PCA families, clustering and survival analysis. The package offers a single 
+      plotting interface for these analysis results and plots in a unified style 
       using 'ggplot2'.
 
  -
@@ -256,7 +256,7 @@ widgets:
     short: >
       Automatic generation of interactive visualizations for popular statistical results.
     description: >
-      Automatically generate interactive visualizations for popular statistical results
+      Automatically generate interactive visualizations for popular statistical results 
       supported by 'ggfortify', such as time series, PCA, clustering and survival analysis,
       with 'plotly.js' <https://plot.ly/>  and 'ggplot2' style. The generated visualizations
       can also be easily extended using 'ggplot2' and 'plotly' syntax while staying interactive.
@@ -340,7 +340,7 @@ widgets:
     short: >
       ggstatsplot provides a collection of functions to enhance ggplot2 plots with results from statistical tests.
     description: >
-
+        
  -
     name: ggstatsplot
     thumbnail: images/ggstatsplot.png
@@ -356,7 +356,7 @@ widgets:
     short: >
       The ggstatsplot provides a way to build 'ggplot2' plot with statistical details.
     description: >
-
+        
  -
     name: ggnetwork
     thumbnail: images/ggnetwork.png
@@ -468,8 +468,8 @@ widgets:
     short: >
       A collection of ‘ggplot2’ color palettes inspired by scientific journals and science fiction TV shows.
     description: >
-
-
+    
+    
  -
     name: ggmosaic
     thumbnail: images/ggmosaic.png
@@ -480,12 +480,12 @@ widgets:
     tags: visualization,general
     cran: true
     release:
-    examples:
+    examples: 
     ghauthor: haleyjeppson
     short: >
       ggmosaic implements mosaic plots in ‘ggplot2’ via geom_mosaic.
     description: >
-
+ 
  -
     name: survminer
     thumbnail: images/survminer.png
@@ -500,7 +500,7 @@ widgets:
     ghauthor: kassambara
     short: >
       Drawing Survival Curves using 'ggplot2'
-    description: >
+    description: >    
       Contains the function 'ggsurvplot()' for drawing easily beautiful and 'ready-to-publish' survival curves with the 'number at risk' table. Other functions are also available for visual examinations of 'cox' model assumptions.
 
  -
@@ -535,7 +535,7 @@ widgets:
     short: >
        ggally extends 'ggplot2' by adding several functions to reduce the complexity of combining geometric objects with transformed data.
     description: >
-       ggplot2 is a plotting system based on the grammar of graphics. 'GGally' extends 'ggplot2' by adding several functions to reduce the complexity of combining geometric objects with transformed data. Some of these functions include a pairwise plot matrix, a two group pairwise plot matrix, a parallel coordinates plot, a survival plot, and several functions to plot networks.
+       ggplot2 is a plotting system based on the grammar of graphics. 'GGally' extends 'ggplot2' by adding several functions to reduce the complexity of combining geometric objects with transformed data. Some of these functions include a pairwise plot matrix, a two group pairwise plot matrix, a parallel coordinates plot, a survival plot, and several functions to plot networks. 
 
  -
     name: ggseqlogo
@@ -570,7 +570,7 @@ widgets:
     description: >
        Adds geoms, scales and aesthetics to plot 'Chernoff' faces that vary their expression according to your data.
        Make your data smile or frown, angry or straight-faced, with continuous scales and legend support.
-
+        
  -
     name: ggridges
     thumbnail: images/ggridges.png
@@ -621,7 +621,7 @@ widgets:
       Streamlined plot theme and plot annotations for 'ggplot2'
     description: >
       The package provides a streamlined and clean theme that is used in the Wilke lab, hence the package name, which stands for Claus O. Wilke's plot package. The package also provide functionality to combine multiple 'ggplot2' plots into one, align them, and label them with letters, e.g. A, B, C, etc., as is often required for scientific publications.
-
+      
  -
     name: qqplotr
     thumbnail: images/qqplotr.png
@@ -638,7 +638,7 @@ widgets:
       Quantile-quantile and probability-probability plot extensions for 'ggplot2'
     description: >
       The package extends some 'ggplot2' functionalities by permitting the drawing of quantile-quantile (Q-Q) and probability-probability (P-P) points, lines, and confidence bands. The functions of this package also allow the detrend adjustment, previously proposed in the literature to help reduce visual bias when assessing those type of plots.
-
+      
  -
     name: ggalluvial
     thumbnail: images/ggalluvial.png
@@ -648,13 +648,13 @@ widgets:
     ghrepo: ggalluvial
     tags: visualization,categorical,time series
     cran: true
-    examples:
+    examples: 
     ghauthor: corybrunson
     short: >
       A 'ggplot2' extension for alluvial diagrams.
     description: >
       Alluvial diagrams encompass a variety of charts that use x-splines (alluvia and flows), sometimes augmented with stacked bars (lodes or strata), to visualize incidence structures derived from several data types, including repeated categorical measures, evolving classifications, and multi-dimensional categorical data. This package contains stats and geoms that interpret multiple data formats compatible with this framework while hewing to the principles of tidy data and the grammar of graphics.
-
+      
  -
     name: patchwork
     thumbnail: images/thomasp85-patchwork.png
@@ -664,13 +664,13 @@ widgets:
     ghrepo: patchwork
     tags: visualization,composition
     cran: false
-    examples:
+    examples: 
     ghauthor: thomasp85
     short: >
       Easy composition of ggplot plots using arithmetic operators
     description: >
       ggplot2 is concerned with single plots, facets notwithstanding, and does not provide a native way to compose multiple plots. patchwork extends the standard ggplot2 API to allow composition with the '+' operator as well as other the means to customize the layout and nest sub-arrangements.
-
+      
  -
     name: ggquiver
     thumbnail: images/ggquiver.png
@@ -680,7 +680,7 @@ widgets:
     ghrepo: ggquiver
     tags: visualization,quiver,velocity,vector
     cran: true
-    examples:
+    examples: 
     ghauthor: mitchelloharawild
     short: >
       Quiver/velocity plots for 'ggplot2'.
