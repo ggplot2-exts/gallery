@@ -702,3 +702,18 @@ widgets:
       Causal directed acyclic graphs (DAGs) in `ggplot2`
     description: >
       Structural causal models are an important part of the causal inference toolkit and are often portrated as directed acyclic graphics (DAGs). `ggdag` extends the `dagitty` package for analyzing causal DAGs to make them tidy and plot them using `ggplot2` and `ggraph`.
+
+ -
+    name: ggpol
+    thumbnail: images/ggpol.png
+    url: https://github.com/erocoar/ggpol
+    jslibs: >
+    ghuser: erocoar
+    ghrepo: ggpol
+    tags: visualization,general
+    cran: true
+    examples: https://erocoar.github.io/ggpol/
+    ghauthor: erocoar
+    short: >
+      ggpol adds parliament diagrams and several other geoms to ggplot2.
+    description: >
