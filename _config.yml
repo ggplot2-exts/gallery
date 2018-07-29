@@ -335,18 +335,17 @@ widgets:
     examples: https://docs.r4photobiology.info/ggspectra/articles
     ghauthor: aphalo
     short: >
-      ggspectra extends ggplot2 with stats, geoms and annotations suitable for 
-      light spectra.
+      'ggspectra' extends 'ggplot2' with stats, geoms and annotations for 
+      plotting light spectra.
     description: >
       The goal of ‘ggspectra’ is to make it easy to plot radiation spectra and 
       similar data, such and transmittance, absorbance and reflectance spectra, 
-      producing fully annotated publication- and presentation-ready plots. It 
-      is an extension to packages ‘ggplot2’ and ‘photobiology’, and part of the 
-      ‘r4phototbiology’ suite. Package ‘ggspectra’ provides stats, geoms, 
-      scales and functions to be used for plotting radiation-related spectra 
-      and annotating the plots with quantities derived from spectral data. All 
-      summary quantities implemented in ‘photobiology’ can be used for 
-      annotations including biologically effective irradiances and exposures.
+      producing fully annotated publication- and presentation-ready plots.
+      Package ‘ggspectra’ provides stats, geoms, scales and functions to be 
+      used for plotting radiation-related spectra and annotating the plots with 
+      quantities derived from spectral data. All summary quantities implemented
+      in ‘photobiology’ can be used for annotations including biologically 
+      effective irradiances and exposures.
 
 -
     name: ggstatsplot
