@@ -176,18 +176,31 @@ widgets:
  -
     name: ggpmisc
     thumbnail: images/ggpmisc.png
-    url: https://bitbucket.org/aphalo/ggpmisc
+    url: https://docs.r4photobiology.info/ggpmisc
     jslibs: >
     ghuser:
     ghrepo:
-    tags: visualization,general
+    tags: visualization,general,model fit,anova,table
     cran: true
     release:
-    examples:
-    ghauthor:
+    examples: https://docs.r4photobiology.info/ggpmisc/articles
+    ghauthor: aphalo
     short: >
-      Miscellaneous Extensions to ‘ggplot2’.
+      Annotate plots with fitted model equations, ANOVA table, summary table; 
+      find and label peaks and valleys, compute quadrant counts; filter 
+      observations by local density.
     description: >
+      Package ‘ggpmisc’ (Miscellaneous Extensions to ‘ggplot2’) is a set of 
+      extensions to R package ‘ggplot2’ (>= 3.0.0) with emphasis on annotations 
+      and highlighting related to fitted models and data summaries. To 
+      complement these, the widely useful `geom_table()` and `stat_fmt_tb()` are 
+      defined as well as ggplot constructors for time series objects. The 
+      provided `ggplot.ts()` and `ggplot.xts()` use `try_tibble()` which is also 
+      exported and accepts objects of additional classes as input. Statistics 
+      useful for highlighting and/or annotating individual data points in 
+      regions of plot panels with high/low densities of observations. These 
+      stats are designed to work well together with `geom_text_repel()` and 
+      `geom_label_repel()` from package ‘ggrepel’.
 
  -
     name: geomnet
