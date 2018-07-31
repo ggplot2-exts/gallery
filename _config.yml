@@ -176,18 +176,31 @@ widgets:
  -
     name: ggpmisc
     thumbnail: images/ggpmisc.png
-    url: https://bitbucket.org/aphalo/ggpmisc
+    url: https://docs.r4photobiology.info/ggpmisc
     jslibs: >
     ghuser:
     ghrepo:
-    tags: visualization,general
+    tags: visualization,general,model fit,anova,table
     cran: true
     release:
-    examples:
-    ghauthor:
+    examples: https://docs.r4photobiology.info/ggpmisc/articles
+    ghauthor: aphalo
     short: >
-      Miscellaneous Extensions to ‘ggplot2’.
+      Annotate plots with fitted model equations, ANOVA table, summary table; 
+      find and label peaks and valleys, compute quadrant counts; filter 
+      observations by local density.
     description: >
+      Package ‘ggpmisc’ (Miscellaneous Extensions to ‘ggplot2’) is a set of 
+      extensions to R package ‘ggplot2’ (>= 3.0.0) with emphasis on annotations 
+      and highlighting related to fitted models and data summaries. To 
+      complement these, the widely useful `geom_table()` and `stat_fmt_tb()` are 
+      defined as well as ggplot constructors for time series objects. The 
+      provided `ggplot.ts()` and `ggplot.xts()` use `try_tibble()` which is also 
+      exported and accepts objects of additional classes as input. Statistics 
+      useful for highlighting and/or annotating individual data points in 
+      regions of plot panels with high/low densities of observations. These 
+      stats are designed to work well together with `geom_text_repel()` and 
+      `geom_label_repel()` from package ‘ggrepel’.
 
  -
     name: geomnet
@@ -312,18 +325,27 @@ widgets:
  -
     name: ggspectra
     thumbnail: images/ggspectra.png
-    url: https://bitbucket.org/aphalo/ggspectra
+    url: https://docs.r4photobiology.info/ggspectra
     jslibs: >
     ghuser:
     ghrepo:
     tags: visualization,general
     cran: true
     release:
-    examples:
-    ghauthor:
+    examples: https://docs.r4photobiology.info/ggspectra/articles
+    ghauthor: aphalo
     short: >
-      ggspectra extends ggplot2 with stats, geoms and annotations suitable for light spectra.
+      'ggspectra' extends 'ggplot2' with stats, geoms and annotations for 
+      plotting light spectra.
     description: >
+      The goal of ‘ggspectra’ is to make it easy to plot radiation spectra and 
+      similar data, such and transmittance, absorbance and reflectance spectra, 
+      producing fully annotated publication- and presentation-ready plots.
+      Package ‘ggspectra’ provides stats, geoms, scales and functions to be 
+      used for plotting radiation-related spectra and annotating the plots with 
+      quantities derived from spectral data. All summary quantities implemented
+      in ‘photobiology’ can be used for annotations including biologically 
+      effective irradiances and exposures.
 
 -
     name: ggstatsplot
