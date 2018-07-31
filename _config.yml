@@ -8,6 +8,23 @@ sass:
 
 widgets:
  -
+    name: xmrr
+    thumbnail: images/xmr_chart.png
+    url: https://github.com/Zanidean/xmrr
+    jslibs: >
+    ghuser: Zanidean  
+    ghrepo: xmrr
+    tags: XmR, Visualization, Control Charts, QC, XBar
+    cran: True
+    release: 
+    examples: https://sramhc.shinyapps.io/xmrbuilder/
+    ghauthor: Alex Zanidean 
+    short: >
+      Generate XMR Control Chart Data from Time-Series Data.
+    description: >
+      Use xmr() for XmR data which re-calculates to signal true change, and use xmr_chart() for XmR style control charts with recalculated process limits.
+      
+ -
     name: gg3D
     thumbnail: images/gg3D.png
     url: https://github.com/AckerDWM/gg3D
