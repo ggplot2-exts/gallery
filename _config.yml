@@ -397,6 +397,22 @@ widgets:
     description: >
         
  -
+    name: ggstatsplot
+    thumbnail: images/ggstatsplot.png
+    url: https://github.com/IndrajeetPatil/ggstatsplot
+    jslibs: >
+    ghuser: IndrajeetPatil
+    ghrepo: ggstatsplot
+    tags: visualization,statistics
+    cran: true
+    release:
+    examples:
+    ghauthor: IndrajeetPatil
+    short: >
+      The ggstatsplot provides a way to build 'ggplot2' plot with statistical details.
+    description: >
+        
+ -
     name: ggnetwork
     thumbnail: images/ggnetwork.png
     url: https://github.com/briatte/ggnetwork
