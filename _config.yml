@@ -757,3 +757,18 @@ widgets:
       `ggplot2` via formulas and pipes
     description: >
       `ggformula` provides a formula-based interface for `ggplot2` that uses pipes (`%>%`) for layering.
+
+ -
+    name: ggperiodic
+    thumbnail: images/ggperiodic-cos.png
+    url: https://github.com/eliocamp/ggperiodic
+    jslibs: >
+    ghuser: eliocamp
+    ghrepo: ggperiodic
+    tags: visualization,periodic
+    cran: false
+    ghauthor: eliocamp
+    short: >
+      Automagically augment periodic data in `ggplot2`
+    description: >
+      Allows you to wrap periodic data to any arbitrary domain automatically inside the ggplot2 call. 
