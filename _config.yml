@@ -8,6 +8,25 @@ sass:
 
 widgets:
  -
+    name: ggQQunif
+    thumbnail: images/ggQQunif.png
+    url: https://github.com/rcorty/ggQQunif
+    jslibs: >
+    ghuser: rcorty
+    ghrepo: ggQQunif
+    tags: visualization,quantiles,p-values,statistics,big data
+    cran: false
+    release: 0.1.5
+    examples: 
+    ghauthor: rcorty
+    short: >
+      Make QQ plots for big data expected to be uniformly distributed, e.g. p-values.
+    description: >
+      For "big data" applications, we often have thousands or millions of p-values.
+      The QQ-plot is a standard way to evaluate them, but can be horrifyingly slow when there are many p-values.
+      This package computes where all the points would go in the naive implementation, then thins them strategically to greatly reduce overplotting, resulting in much faster plotting.
+
+ -
     name: xmrr
     thumbnail: images/xmr_chart.png
     url: https://github.com/Zanidean/xmrr
@@ -15,7 +34,7 @@ widgets:
     ghuser: Zanidean  
     ghrepo: xmrr
     tags: XmR, Visualization, Control Charts, QC, XBar
-    cran: True
+    cran: true
     release: 
     examples: https://sramhc.shinyapps.io/xmrbuilder/
     ghauthor: Alex Zanidean 
