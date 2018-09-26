@@ -15,7 +15,7 @@ widgets:
     ghuser: rcorty
     ghrepo: ggQQunif
     tags: visualization,quantiles,p-values,statistics,big data
-    cran: false
+    cran: true
     release: 0.1.5
     examples: 
     ghauthor: rcorty
