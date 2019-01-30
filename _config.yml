@@ -364,7 +364,7 @@ widgets:
       in ‘photobiology’ can be used for annotations including biologically 
       effective irradiances and exposures.
 
--
+ -
     name: ggstatsplot
     thumbnail: images/ggstatsplot.png
     url: https://github.com/IndrajeetPatil/ggstatsplot
