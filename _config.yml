@@ -398,23 +398,7 @@ widgets:
     short: >
       ggstatsplot provides a collection of functions to enhance ggplot2 plots with results from statistical tests.
     description: >
-        
- -
-    name: ggstatsplot
-    thumbnail: images/ggstatsplot.png
-    url: https://github.com/IndrajeetPatil/ggstatsplot
-    jslibs: >
-    ghuser: IndrajeetPatil
-    ghrepo: ggstatsplot
-    tags: visualization,statistics
-    cran: false
-    release:
-    examples:
-    ghauthor: IndrajeetPatil
-    short: >
-      The ggstatsplot provides a way to build 'ggplot2' plot with statistical details.
-    description: >
-        
+
  -
     name: ggnetwork
     thumbnail: images/ggnetwork.png
