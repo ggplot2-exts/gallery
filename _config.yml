@@ -391,13 +391,24 @@ widgets:
     ghuser: IndrajeetPatil
     ghrepo: ggstatsplot
     tags: visualization,statistics
-    cran: false
-    release:
-    examples:
+    cran: true
+    release: 0.0.8
+    examples: https://indrajeetpatil.github.io/ggstatsplot/
     ghauthor: IndrajeetPatil
     short: >
-      ggstatsplot provides a collection of functions to enhance ggplot2 plots with results from statistical tests.
+      'ggstatsplot' provides a collection of functions to enhance 'ggplot2'
+      plots with results from statistical tests.
     description: >
+      Extension of 'ggplot2', 'ggstatsplot' creates
+      graphics with details from statistical tests included in the plots
+      themselves. It is targeted primarily at behavioral sciences community
+      to provide a one-line code to generate information-rich plots for
+      statistical analysis. of continuous (violin plots, scatterplots,
+      histograms) or categorical (pie and bar charts) data. Currently, it
+      supports only the most common types of statistical tests: parametric,
+      nonparametric, robust, and bayesian versions of t-test/anova,
+      correlation analyses, contingency table analysis, and regression
+      analyses.
 
  -
     name: ggnetwork
