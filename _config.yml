@@ -795,7 +795,7 @@ widgets:
 
  -
     name: ggpol
-    thumbnail: images/erocoar-ggpol.png
+    thumbnail: images/ggpol.png
     url: https://github.com/erocoar/ggpol
     jslibs: >
     ghuser: erocoar
