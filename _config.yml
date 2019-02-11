@@ -823,3 +823,19 @@ widgets:
       Pirate plots for `ggplot2`
     description: >
       A pirate plot (as seen in Nathaniel Phillips's package `yarrr`) is a way of displaying data where a continuous dependent variable is a function of a categorical independent variable, in a more informative way than the traditional barplot. `ggpirate` creates customizable versions of these plots with a single `ggplot2` `geom`, `geom_pirate`.
+
+ -
+    name: esquisse
+    thumbnail: images/esquisse.png
+    url: https://github.com/dreamRs/esquisse
+    jslibs: >
+    ghuser: dreamrs
+    ghrepo: esquisse
+    tags: visualization,interface
+    cran: true
+    examples: https://github.com/dreamRs/esquisse/blob/master/README.md
+    ghauthor: dreamrs
+    short: >
+      Explore and Visualize Your Data Interactively with `ggplot2`
+    description: >
+      A 'shiny' gadget to create 'ggplot2' charts interactively with drag-and-drop to map your variables. You can quickly visualize your data accordingly to their type, export to 'PNG' or 'PowerPoint', and retrieve the code to reproduce the chart.
