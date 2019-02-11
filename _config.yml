@@ -76,6 +76,24 @@ widgets:
       ggedit is aimed to allows novice and expert ggplot2 users to interactively edit ggplot layers, scales and themes aesthetics, while returning objects and scripts of updated plots using shiny gadgets and modules.
 
  -
+    name: gganatogram
+    thumbnail: images/gganatogram.png
+    url: https://github.com/jespermaag/gganatogram
+    jslibs: >
+    ghuser: jespermaag
+    ghrepo: gganatogram
+    tags: anatograms, tissue, visualization, anatomy, expression, pharmacology
+    cran: false
+    release:
+    examples:
+    ghauthor: jespermaag
+    short: >
+      gganatogram makes it possible to visualise tissues for different organisms or cell compartments. 
+    description: >
+      gganatogram is aimed to users who would like to visualise certain organs or cell compartments based on values, or to highlight tissues. This can be useful when the user easily want to display tissue information e.g. RNA-seq, pharmacology or mutations per tissue.   
+
+
+ -
     name: ggforce
     thumbnail: images/ggforce.png
     url: https://github.com/thomasp85/ggforce
