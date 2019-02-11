@@ -39,7 +39,7 @@ names(meta) <- paste0(nm, "_stars")
 
 all_good <- vapply(meta, function(x) is.numeric(x$stargazers_count), FUN.VALUE = logical(1))
 
-if(all(all_good) && length(yml$widgets) == length(meta)) {
+if(all(all_good) && length(widgets) == length(meta)) {
   message("* saving results")
   cat(toJSON(meta, auto_unbox = TRUE, pretty = TRUE), file = "github_meta.json")
 } else {
