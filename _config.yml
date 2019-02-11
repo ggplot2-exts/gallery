@@ -760,3 +760,20 @@ widgets:
       `ggplot2` via formulas and pipes
     description: >
       `ggformula` provides a formula-based interface for `ggplot2` that uses pipes (`%>%`) for layering.
+
+ -
+    name: ggbeeswarm
+    thumbnail: images/ggbeeswarm.png
+    url: https://github.com/eclarke/ggbeeswarm
+    jslibs: >
+    ghuser: eclarke
+    ghrepo: ggbeeswarm
+    tags: visualization, beeswarm, categorical
+    cran: true
+    release:
+    examples: https://github.com/eclarke/ggbeeswarm#examples
+    ghauthor: Erik Clarke and Scott Sherrill-Mix
+    short: >
+      Create beeswarm plots, which avoids overlapping datapoints.
+    description: >
+      Beeswarm plots (aka column scatter plots or violin scatter plots) are a way of plotting points that would ordinarily overlap so that they fall next to each other instead. In addition to reducing overplotting, it helps visualize the density of the data at each point (similar to a violin plot), while still showing each data point. `ggbeeswarm `provides two different methods to create beeswarm-style plots using ggplot2. `geom_quasirandom()` uses a van der Corput sequence or Tukey texturing  o space the dots to avoid overplotting. `geom_beeswarm()` uses the Aron Ecklund's `beeswarm` library to do point-size based offset.
