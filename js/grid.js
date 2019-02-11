@@ -64,6 +64,10 @@ $( function() {
       },
       stars: function( itemElem ) {
         var stars = -parseInt($( itemElem ).find(".gh-count").html());
+        // if the package is not on github, return 0
+        if (isNaN(stars)) {
+          return 0;
+        }
         return stars;
       }
     },
