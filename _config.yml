@@ -792,3 +792,18 @@ widgets:
       Automagically augment periodic data in `ggplot2`
     description: >
       Allows you to wrap periodic data to any arbitrary domain automatically inside the ggplot2 call. 
+
+ -
+    name: ggpol
+    thumbnail: images/ggpol.png
+    url: https://github.com/erocoar/ggpol
+    jslibs: >
+    ghuser: erocoar
+    ghrepo: ggpol
+    tags: visualization,general
+    cran: true
+    examples: https://erocoar.github.io/ggpol/
+    ghauthor: erocoar
+    short: >
+      ggpol adds parliament diagrams and several other geoms to ggplot2.
+    description: >
