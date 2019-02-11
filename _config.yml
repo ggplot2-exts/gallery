@@ -8,6 +8,42 @@ sass:
 
 widgets:
  -
+    name: ggQQunif
+    thumbnail: images/ggQQunif.png
+    url: https://github.com/rcorty/ggQQunif
+    jslibs: >
+    ghuser: rcorty
+    ghrepo: ggQQunif
+    tags: visualization,quantiles,p-values,statistics,big data
+    cran: true
+    release: 0.1.5
+    examples: 
+    ghauthor: rcorty
+    short: >
+      Make QQ plots for big data expected to be uniformly distributed, e.g. p-values.
+    description: >
+      For "big data" applications, we often have thousands or millions of p-values.
+      The QQ-plot is a standard way to evaluate them, but can be horrifyingly slow when there are many p-values.
+      This package computes where all the points would go in the naive implementation, then thins them strategically to greatly reduce overplotting, resulting in much faster plotting.
+
+ -
+    name: xmrr
+    thumbnail: images/xmr_chart.png
+    url: https://github.com/Zanidean/xmrr
+    jslibs: >
+    ghuser: Zanidean  
+    ghrepo: xmrr
+    tags: XmR, Visualization, Control Charts, QC, XBar
+    cran: true
+    release: 
+    examples: https://sramhc.shinyapps.io/xmrbuilder/
+    ghauthor: Alex Zanidean 
+    short: >
+      Generate XMR Control Chart Data from Time-Series Data.
+    description: >
+      Use xmr() for XmR data which re-calculates to signal true change, and use xmr_chart() for XmR style control charts with recalculated process limits.
+      
+ -
     name: gg3D
     thumbnail: images/gg3D.png
     url: https://github.com/AckerDWM/gg3D
@@ -176,18 +212,31 @@ widgets:
  -
     name: ggpmisc
     thumbnail: images/ggpmisc.png
-    url: https://bitbucket.org/aphalo/ggpmisc
+    url: https://docs.r4photobiology.info/ggpmisc
     jslibs: >
     ghuser:
     ghrepo:
-    tags: visualization,general
+    tags: visualization,general,model fit,anova,table
     cran: true
     release:
-    examples:
-    ghauthor:
+    examples: https://docs.r4photobiology.info/ggpmisc/articles
+    ghauthor: aphalo
     short: >
-      Miscellaneous Extensions to ‘ggplot2’.
+      Annotate plots with fitted model equations, ANOVA table, summary table; 
+      find and label peaks and valleys, compute quadrant counts; filter 
+      observations by local density.
     description: >
+      Package ‘ggpmisc’ (Miscellaneous Extensions to ‘ggplot2’) is a set of 
+      extensions to R package ‘ggplot2’ (>= 3.0.0) with emphasis on annotations 
+      and highlighting related to fitted models and data summaries. To 
+      complement these, the widely useful `geom_table()` and `stat_fmt_tb()` are 
+      defined as well as ggplot constructors for time series objects. The 
+      provided `ggplot.ts()` and `ggplot.xts()` use `try_tibble()` which is also 
+      exported and accepts objects of additional classes as input. Statistics 
+      useful for highlighting and/or annotating individual data points in 
+      regions of plot panels with high/low densities of observations. These 
+      stats are designed to work well together with `geom_text_repel()` and 
+      `geom_label_repel()` from package ‘ggrepel’.
 
  -
     name: geomnet
@@ -312,20 +361,29 @@ widgets:
  -
     name: ggspectra
     thumbnail: images/ggspectra.png
-    url: https://bitbucket.org/aphalo/ggspectra
+    url: https://docs.r4photobiology.info/ggspectra
     jslibs: >
     ghuser:
     ghrepo:
     tags: visualization,general
     cran: true
     release:
-    examples:
-    ghauthor:
+    examples: https://docs.r4photobiology.info/ggspectra/articles
+    ghauthor: aphalo
     short: >
-      ggspectra extends ggplot2 with stats, geoms and annotations suitable for light spectra.
+      'ggspectra' extends 'ggplot2' with stats, geoms and annotations for 
+      plotting light spectra.
     description: >
+      The goal of ‘ggspectra’ is to make it easy to plot radiation spectra and 
+      similar data, such and transmittance, absorbance and reflectance spectra, 
+      producing fully annotated publication- and presentation-ready plots.
+      Package ‘ggspectra’ provides stats, geoms, scales and functions to be 
+      used for plotting radiation-related spectra and annotating the plots with 
+      quantities derived from spectral data. All summary quantities implemented
+      in ‘photobiology’ can be used for annotations including biologically 
+      effective irradiances and exposures.
 
--
+ -
     name: ggstatsplot
     thumbnail: images/ggstatsplot.png
     url: https://github.com/IndrajeetPatil/ggstatsplot
@@ -340,23 +398,7 @@ widgets:
     short: >
       ggstatsplot provides a collection of functions to enhance ggplot2 plots with results from statistical tests.
     description: >
-        
- -
-    name: ggstatsplot
-    thumbnail: images/ggstatsplot.png
-    url: https://github.com/IndrajeetPatil/ggstatsplot
-    jslibs: >
-    ghuser: IndrajeetPatil
-    ghrepo: ggstatsplot
-    tags: visualization,statistics
-    cran: false
-    release:
-    examples:
-    ghauthor: IndrajeetPatil
-    short: >
-      The ggstatsplot provides a way to build 'ggplot2' plot with statistical details.
-    description: >
-        
+
  -
     name: ggnetwork
     thumbnail: images/ggnetwork.png
@@ -702,6 +744,69 @@ widgets:
       Causal directed acyclic graphs (DAGs) in `ggplot2`
     description: >
       Structural causal models are an important part of the causal inference toolkit and are often portrated as directed acyclic graphics (DAGs). `ggdag` extends the `dagitty` package for analyzing causal DAGs to make them tidy and plot them using `ggplot2` and `ggraph`.
+
+ -
+    name: ggformula
+    thumbnail: images/projectmosaic-ggformula.png
+    url: https://projectmosaic.github.io/ggformula/
+    jslibs: >
+    ghuser: ProjectMOSAIC
+    ghrepo: ggformula
+    tags: visualization,general,interface
+    cran: true
+    examples: https://projectmosaic.github.io/ggformula/articles/ggformula.html
+    ghauthor: rpruim
+    short: >
+      `ggplot2` via formulas and pipes
+    description: >
+      `ggformula` provides a formula-based interface for `ggplot2` that uses pipes (`%>%`) for layering.
+
+ -
+    name: ggbeeswarm
+    thumbnail: images/ggbeeswarm.png
+    url: https://github.com/eclarke/ggbeeswarm
+    jslibs: >
+    ghuser: eclarke
+    ghrepo: ggbeeswarm
+    tags: visualization, beeswarm, categorical
+    cran: true
+    release:
+    examples: https://github.com/eclarke/ggbeeswarm#examples
+    ghauthor: Erik Clarke and Scott Sherrill-Mix
+    short: >
+      Create beeswarm plots, which avoids overlapping datapoints.
+    description: >
+      Beeswarm plots (aka column scatter plots or violin scatter plots) are a way of plotting points that would ordinarily overlap so that they fall next to each other instead. In addition to reducing overplotting, it helps visualize the density of the data at each point (similar to a violin plot), while still showing each data point. `ggbeeswarm `provides two different methods to create beeswarm-style plots using ggplot2. `geom_quasirandom()` uses a van der Corput sequence or Tukey texturing  o space the dots to avoid overplotting. `geom_beeswarm()` uses the Aron Ecklund's `beeswarm` library to do point-size based offset.
+
+ -
+    name: ggperiodic
+    thumbnail: images/ggperiodic-cos.png
+    url: https://github.com/eliocamp/ggperiodic
+    jslibs: >
+    ghuser: eliocamp
+    ghrepo: ggperiodic
+    tags: visualization,periodic
+    cran: false
+    ghauthor: eliocamp
+    short: >
+      Automagically augment periodic data in `ggplot2`
+    description: >
+      Allows you to wrap periodic data to any arbitrary domain automatically inside the ggplot2 call. 
+
+ -
+    name: ggpol
+    thumbnail: images/erocoar-ggpol.png
+    url: https://github.com/erocoar/ggpol
+    jslibs: >
+    ghuser: erocoar
+    ghrepo: ggpol
+    tags: visualization,general
+    cran: true
+    examples: https://erocoar.github.io/ggpol/
+    ghauthor: erocoar
+    short: >
+      ggpol adds parliament diagrams and several other geoms to ggplot2.
+    description: >
 
  -
     name: ggpirate
