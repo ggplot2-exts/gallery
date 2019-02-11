@@ -313,17 +313,17 @@ widgets:
  -
     name: gganimate
     thumbnail: images/gganimate.gif
-    url: https://github.com/dgrtwo/gganimate
+    url: https://gganimate.com
     jslibs: >
-    ghuser: dgrtwo
+    ghuser: thomasp85
     ghrepo: gganimate
     tags: visualization,general
     cran: true
     release:
     examples:
-    ghauthor: dgrtwo
+    ghauthor: thomasp85
     short: >
-      gganimate wraps the animation package to create animated ggplot2 plots.
+      A Grammar of Animated Graphics.
     description: >
 
  -
