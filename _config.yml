@@ -807,3 +807,19 @@ widgets:
     short: >
       ggpol adds parliament diagrams and several other geoms to ggplot2.
     description: >
+
+ -
+    name: ggpirate
+    thumbnail: images/ggpirate.png
+    url: https://github.com/mikabr/ggpirate
+    jslibs: >
+    ghuser: mikabr
+    ghrepo: ggpirate
+    tags: visualization
+    cran: false
+    examples: https://github.com/mikabr/ggpirate/blob/master/README.md
+    ghauthor: mikabr
+    short: >
+      Pirate plots for `ggplot2`
+    description: >
+      A pirate plot (as seen in Nathaniel Phillips's package `yarrr`) is a way of displaying data where a continuous dependent variable is a function of a categorical independent variable, in a more informative way than the traditional barplot. `ggpirate` creates customizable versions of these plots with a single `ggplot2` `geom`, `geom_pirate`.
