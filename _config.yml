@@ -8,6 +8,25 @@ sass:
 
 widgets:
  -
+    name: ggQQunif
+    thumbnail: images/ggQQunif.png
+    url: https://github.com/rcorty/ggQQunif
+    jslibs: >
+    ghuser: rcorty
+    ghrepo: ggQQunif
+    tags: visualization,quantiles,p-values,statistics,big data
+    cran: true
+    release: 0.1.5
+    examples: 
+    ghauthor: rcorty
+    short: >
+      Make QQ plots for big data expected to be uniformly distributed, e.g. p-values.
+    description: >
+      For "big data" applications, we often have thousands or millions of p-values.
+      The QQ-plot is a standard way to evaluate them, but can be horrifyingly slow when there are many p-values.
+      This package computes where all the points would go in the naive implementation, then thins them strategically to greatly reduce overplotting, resulting in much faster plotting.
+
+ -
     name: xmrr
     thumbnail: images/xmr_chart.png
     url: https://github.com/Zanidean/xmrr
@@ -15,7 +34,7 @@ widgets:
     ghuser: Zanidean  
     ghrepo: xmrr
     tags: XmR, Visualization, Control Charts, QC, XBar
-    cran: True
+    cran: true
     release: 
     examples: https://sramhc.shinyapps.io/xmrbuilder/
     ghauthor: Alex Zanidean 
@@ -364,7 +383,7 @@ widgets:
       in ‘photobiology’ can be used for annotations including biologically 
       effective irradiances and exposures.
 
--
+ -
     name: ggstatsplot
     thumbnail: images/ggstatsplot.png
     url: https://github.com/IndrajeetPatil/ggstatsplot
@@ -379,23 +398,7 @@ widgets:
     short: >
       ggstatsplot provides a collection of functions to enhance ggplot2 plots with results from statistical tests.
     description: >
-        
- -
-    name: ggstatsplot
-    thumbnail: images/ggstatsplot.png
-    url: https://github.com/IndrajeetPatil/ggstatsplot
-    jslibs: >
-    ghuser: IndrajeetPatil
-    ghrepo: ggstatsplot
-    tags: visualization,statistics
-    cran: false
-    release:
-    examples:
-    ghauthor: IndrajeetPatil
-    short: >
-      The ggstatsplot provides a way to build 'ggplot2' plot with statistical details.
-    description: >
-        
+
  -
     name: ggnetwork
     thumbnail: images/ggnetwork.png
@@ -757,6 +760,23 @@ widgets:
       `ggplot2` via formulas and pipes
     description: >
       `ggformula` provides a formula-based interface for `ggplot2` that uses pipes (`%>%`) for layering.
+
+ -
+    name: ggbeeswarm
+    thumbnail: images/ggbeeswarm.png
+    url: https://github.com/eclarke/ggbeeswarm
+    jslibs: >
+    ghuser: eclarke
+    ghrepo: ggbeeswarm
+    tags: visualization, beeswarm, categorical
+    cran: true
+    release:
+    examples: https://github.com/eclarke/ggbeeswarm#examples
+    ghauthor: Erik Clarke and Scott Sherrill-Mix
+    short: >
+      Create beeswarm plots, which avoids overlapping datapoints.
+    description: >
+      Beeswarm plots (aka column scatter plots or violin scatter plots) are a way of plotting points that would ordinarily overlap so that they fall next to each other instead. In addition to reducing overplotting, it helps visualize the density of the data at each point (similar to a violin plot), while still showing each data point. `ggbeeswarm `provides two different methods to create beeswarm-style plots using ggplot2. `geom_quasirandom()` uses a van der Corput sequence or Tukey texturing  o space the dots to avoid overplotting. `geom_beeswarm()` uses the Aron Ecklund's `beeswarm` library to do point-size based offset.
 
  -
     name: ggperiodic

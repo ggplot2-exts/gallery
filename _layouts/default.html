@@ -110,7 +110,9 @@
           </div>
           <div class="card-content widget-content">
             <a href="{{ widget.url }}"><span class="card-title grey-text text-darken-4">{{ widget.name }}</span></a>
-            <span class="github-btn github-watchers" data-processed="1"><a class="gh-btn" href="https://github.com/{{ widget.ghuser }}/{{ widget.ghrepo }}/" target="_blank"><span class="gh-ico"></span><span class="gh-text">Star</span></a><a class="gh-count" id="{{ widget.ghuser }}_{{ widget.ghrepo }}" href="https://github.com/{{ widget.ghuser }}/{{ widget.ghrepo }}/stargazers" target="_blank" style="display: block;"></a></span>
+            {% if widget.ghuser != null %}
+            <span class="github-btn github-watchers" data-processed="1"><a class="gh-btn" href="https://github.com/{{ widget.ghuser }}/{{ widget.ghrepo }}/" target="_blank"><span class="gh-ico"></span><span class="gh-text">Star</span></a><a class="gh-count" id="{{ widget.name }}_stars" href="https://github.com/{{ widget.ghuser }}/{{ widget.ghrepo }}/stargazers" target="_blank" style="display: block;"></a></span>
+            {% endif %}
             <p class="widget-shortdesc">{{ widget.short | markdownify | remove: '<p>' | remove: '</p>' }}</p>
             <p class="widget-list-item"><i class="material-icons meta-bullet red-text">stop</i><span class="red-text">author:</span> <span class="widget-author widget-meta"><a href="https://github.com/{{ widget.ghauthor }}">{{ widget.ghauthor }}</a></span></p>
             <p class="widget-list-item"><i class="material-icons meta-bullet green-text">stop</i><span class="green-text">tags:</span> <span class="widget-tags widget-meta">{{ widget.tags }}</span></p>
