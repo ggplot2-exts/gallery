@@ -871,7 +871,7 @@ widgets:
 
   -
     name: ggdark
-    thumbnail: images/nsgrantham-ggddark.png
+    thumbnail: images/nsgrantham-ggdark.png
     url: https://github.com/nsgrantham/ggdark
     jslibs: >
     ghuser: nsgrantham
