@@ -868,3 +868,20 @@ widgets:
       Explore and Visualize Your Data Interactively with `ggplot2`
     description: >
       A 'shiny' gadget to create 'ggplot2' charts interactively with drag-and-drop to map your variables. You can quickly visualize your data accordingly to their type, export to 'PNG' or 'PowerPoint', and retrieve the code to reproduce the chart.
+
+  -
+    name: ggdark
+    thumbnail: images/nsgrantham-ggdark.png
+    url: https://github.com/nsgrantham/ggdark
+    jslibs: >
+    ghuser: nsgrantham
+    ghrepo: ggdark
+    tags: visualization,general
+    cran: true
+    examples: https://github.com/nsgrantham/ggdark/blob/master/README.md
+    ghauthor: nsgrantham
+    short: >
+      Dark Mode for `ggplot2` Themes
+    description: >
+      Activate dark mode on your favorite `ggplot2` theme with `dark_mode()` or use the dark versions of native `ggplot2` themes, including `dark_theme_gray()`, `dark_theme_minimal()`, and others.
+
