@@ -869,7 +869,7 @@ widgets:
     description: >
       A 'shiny' gadget to create 'ggplot2' charts interactively with drag-and-drop to map your variables. You can quickly visualize your data accordingly to their type, export to 'PNG' or 'PowerPoint', and retrieve the code to reproduce the chart.
 
-  -
+ -
     name: ggdark
     thumbnail: images/nsgrantham-ggdark.png
     url: https://github.com/nsgrantham/ggdark
