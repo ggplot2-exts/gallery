@@ -885,3 +885,20 @@ widgets:
     description: >
       Activate dark mode on your favorite `ggplot2` theme with `dark_mode()` or use the dark versions of native `ggplot2` themes, including `dark_theme_gray()`, `dark_theme_minimal()`, and others.
 
+ -
+    name: sugrrants
+    thumbnail: images/sugrrants.png
+    url: https://pkg.earo.me/sugrrants
+    jslibs: >
+    ghuser: earowang
+    ghrepo: sugrrants
+    tags: visualization,calendar,time-series
+    cran: true
+    examples: https://pkg.earo.me/sugrrants
+    ghauthor: earowang
+    short: >
+      Supporting Graphs for Analysing Temporal Data with `ggplot2`.
+    description: >
+      Provides 'ggplot2' graphics for analysing temporal data. It aims to 
+      fit into the 'tidyverse' and grammar of graphics framework for handling 
+      temporal data.
