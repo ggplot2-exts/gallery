@@ -902,3 +902,23 @@ widgets:
       Provides 'ggplot2' graphics for analysing temporal data. It aims to 
       fit into the 'tidyverse' and grammar of graphics framework for handling 
       temporal data.
+      
+ -
+    name: tvthemes
+    thumbnail: images/ryo-n7-tvthemes.png
+    url: https://github.com/Ryo-N7/tvthemes
+    jslibs: >
+    ghuser: Ryo-N7
+    ghrepo: tvthemes
+    tags: visualization,general,palettes,themes
+    cran: false
+    examples: https://ryo-n7.github.io/2019-05-16-introducing-tvthemes-package/
+    ghauthor: Ryo-N7
+    short: >
+      `ggplot2` Themes & Palettes from popular TV shows!
+    description: >
+      Contains various `ggplot2` themes and color palettes based on TV shows 
+      such as 'Game of Thrones', 'Brooklyn Nine-Nine', 'The Simpsons', 
+      'Avatar: The Last Airbender', 'Spongebob Squarepants', and more.
+
+ -
