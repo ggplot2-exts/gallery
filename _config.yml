@@ -923,12 +923,12 @@ widgets:
       
  -
     name: ggparty
-    thumbnail: 
+    thumbnail: images/martin-borkovec-ggparty.png
     url: https://github.com/martin-borkovec/ggparty
     jslibs: >
     ghuser: martin-borkovec
     ghrepo: ggparty
-    tags: 
+    tags: visualization,tree,partykit 
     cran: false
     examples: https://github.com/martin-borkovec/ggparty/wiki
     ghauthor: martin-borkovec
@@ -936,5 +936,6 @@ widgets:
       `ggplot2` visualizations for the `partykit` package
     description: >
       ggparty aims to extend ggplot2 functionality to the partykit package.
-      It provides the necessary tools to create clearly structured and highly customizable visualizations for tree-objects of the class 'party'
+      It provides the necessary tools to create clearly structured and highly customizable visualizations
+      for tree-objects of the class 'party'
        
