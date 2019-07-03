@@ -937,3 +937,21 @@ widgets:
     description: >
       Provides `ggplot2` geoms for automatically resizing and reflowing text to
       fit in a defined area, including bar and column plots. 
+
+ -
+    name: ggparty
+    thumbnail: images/martin-borkovec-ggparty.png
+    url: https://github.com/martin-borkovec/ggparty
+    jslibs: >
+    ghuser: martin-borkovec
+    ghrepo: ggparty
+    tags: visualization,tree,partykit 
+    cran: false
+    examples: https://github.com/martin-borkovec/ggparty/wiki
+    ghauthor: martin-borkovec
+    short: >
+      `ggplot2` visualizations for the `partykit` package
+    description: >
+      ggparty aims to extend ggplot2 functionality to the partykit package.
+      It provides the necessary tools to create clearly structured and highly customizable visualizations
+      for tree-objects of the class 'party'
