@@ -920,3 +920,20 @@ widgets:
       Contains various `ggplot2` themes and color palettes based on TV shows 
       such as 'Game of Thrones', 'Brooklyn Nine-Nine', 'The Simpsons', 
       'Avatar: The Last Airbender', 'Spongebob Squarepants', and more.
+
+ -
+    name: ggfittext
+    thumbnail: images/ggfittext.png
+    url: https://wilkox.org/ggfittext
+    jslibs: >
+    ghuser: wilkox
+    ghrepo: ggfittext
+    tags: visualization,general,text
+    cran: true
+    examples: https://wilkox.org/ggfittext/articles/introduction-to-ggfittext.html  
+    ghauthor: wilkox
+    short: >
+      `ggplot2` geoms to fit text in a box
+    description: >
+      Provides `ggplot2` geoms for automatically resizing and reflowing text to
+      fit in a defined area, including bar and column plots. 
