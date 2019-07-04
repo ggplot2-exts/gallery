@@ -955,3 +955,20 @@ widgets:
       ggparty aims to extend ggplot2 functionality to the partykit package.
       It provides the necessary tools to create clearly structured and highly customizable visualizations
       for tree-objects of the class 'party'
+
+ -
+    name: treemapify
+    thumbnail: images/treemapify.png
+    url: https://wilkox.org/treemapify
+    jslibs: >
+    ghuser: wilkox
+    ghrepo: treemapify
+    tags: visualization,general,treemap
+    cran: true
+    examples: https://wilkox.org/treemapify/articles/introduction-to-treemapify.html
+    ghauthor: wilkox
+    short: >
+      Draw treemaps in `ggplot2`
+    description: >
+      Provides `ggplot2` geoms for drawing treemaps, including text labels and
+      up to three levels of nested groups.
