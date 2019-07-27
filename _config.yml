@@ -972,3 +972,20 @@ widgets:
     description: >
       Provides a 'ggplot2' geom and helper functions for drawing gene arrow
       maps, including labelling genes and highlighting subgene regions.
+
+ -
+    name: treemapify
+    thumbnail: images/treemapify.png
+    url: https://wilkox.org/treemapify
+    jslibs: >
+    ghuser: wilkox
+    ghrepo: treemapify
+    tags: visualization,general,treemap
+    cran: true
+    examples: https://wilkox.org/treemapify/articles/introduction-to-treemapify.html
+    ghauthor: wilkox
+    short: >
+      Draw treemaps in `ggplot2`
+    description: >
+      Provides `ggplot2` geoms for drawing treemaps, including text labels and
+      up to three levels of nested groups.
