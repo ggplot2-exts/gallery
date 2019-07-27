@@ -955,3 +955,20 @@ widgets:
       ggparty aims to extend ggplot2 functionality to the partykit package.
       It provides the necessary tools to create clearly structured and highly customizable visualizations
       for tree-objects of the class 'party'
+
+ -
+    name: gggenes
+    thumbnail: images/gggenes.png
+    url: https://wilkox.org/gggenes
+    jslibs: >
+    ghuser: wilkox
+    ghrepo: gggenes
+    tags: visualization,general,genetics
+    cran: true
+    examples: https://wilkox.org/gggenes/articles/introduction-to-gggenes.html
+    ghauthor: wilkox
+    short: >
+      `ggplot2` geoms to draw gene arrow maps
+    description: >
+      Provides a 'ggplot2' geom and helper functions for drawing gene arrow
+      maps, including labelling genes and highlighting subgene regions.
