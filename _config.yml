@@ -973,7 +973,7 @@ widgets:
       Provides a 'ggplot2' geom and helper functions for drawing gene arrow
       maps, including labelling genes and highlighting subgene regions.
 
--
+ -
     name: treemapify
     thumbnail: images/treemapify.png
     url: https://wilkox.org/treemapify
