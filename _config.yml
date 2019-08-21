@@ -990,7 +990,7 @@ widgets:
       Provides `ggplot2` geoms for drawing treemaps, including text labels and
       up to three levels of nested groups.
 
-  -
+ -
     name: lindia
     thumbnail: images/lindia.png
     url: https://github.com/yeukyul/lindia
