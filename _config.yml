@@ -989,3 +989,22 @@ widgets:
     description: >
       Provides `ggplot2` geoms for drawing treemaps, including text labels and
       up to three levels of nested groups.
+
+ -
+    name: lindia
+    thumbnail: images/lindia.png
+    url: https://github.com/yeukyul/lindia
+    jslibs: >
+    ghuser: yeukyul
+    ghrepo: lindia
+    tags: visualization,general,diagnostics,regression
+    cran: true
+    examples: https://github.com/yeukyul/lindia
+    ghauthor: yeukyul
+    short: >
+      Create diagnostics plots for linear regression
+    description: >
+      Using `lindia` (short for linear-regression diagnostics), you can 
+      create all the basic diagnostic plots for a linear regression model 
+      in `ggplot2` with just one function call. 
+
