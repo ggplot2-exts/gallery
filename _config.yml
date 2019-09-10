@@ -84,7 +84,7 @@ widgets:
     jslibs: >
     ghuser: metrumresearchgroup
     ghrepo: ggedit
-    tags: visualization, interactive, shiny, general
+    tags: visualization, interactive, shiny, general,themes
     cran: true
     release:
     examples:
@@ -367,7 +367,7 @@ widgets:
     jslibs: >
     ghuser: jrnold
     ghrepo: ggthemes
-    tags: visualization,general
+    tags: visualization,general,themes
     cran: true
     release:
     examples:
@@ -451,7 +451,7 @@ widgets:
     jslibs: >
     ghuser: ricardo-bion
     ghrepo: ggtech
-    tags: visualization,general
+    tags: visualization,general,themes
     cran: true
     release:
     examples:
@@ -581,7 +581,7 @@ widgets:
     jslibs: >
     ghuser: cttobin
     ghrepo: ggthemr
-    tags: visualization,general
+    tags: visualization,general,themes
     cran: false
     release:
     examples:
@@ -683,7 +683,7 @@ widgets:
     jslibs: >
     ghuser: wilkelab
     ghrepo: cowplot
-    tags: visualization,general
+    tags: visualization,general,themes
     cran: true
     release:
     examples: https://cran.r-project.org/web/packages/cowplot/vignettes/introduction.html
@@ -876,7 +876,7 @@ widgets:
     jslibs: >
     ghuser: nsgrantham
     ghrepo: ggdark
-    tags: visualization,general
+    tags: visualization,general,themes
     cran: true
     examples: https://github.com/nsgrantham/ggdark/blob/master/README.md
     ghauthor: nsgrantham
