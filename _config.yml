@@ -761,18 +761,18 @@ widgets:
  -
     name: ggdag
     thumbnail: images/ggdag.png
-    url: https://ggdag.netlify.com/
+    url: https://ggdag.malco.io/
     jslibs: >
     ghuser: malcolmbarrett
     ghrepo: ggdag
     tags: visualization,dags,inference
     cran: true
-    examples: https://ggdag.netlify.com/articles/intro-to-ggdag.html
+    examples: https://ggdag.malco.io/articles/intro-to-ggdag.html
     ghauthor: malcolmbarrett
     short: >
       Causal directed acyclic graphs (DAGs) in `ggplot2`
     description: >
-      Structural causal models are an important part of the causal inference toolkit and are often portrated as directed acyclic graphics (DAGs). `ggdag` extends the `dagitty` package for analyzing causal DAGs to make them tidy and plot them using `ggplot2` and `ggraph`.
+      Tidy, visualize, and analyze causal DAGs. `ggdag` fuses the `dagitty` package, which contains powerful algorithms for analyzing causal diagrams, with the flexibility of `ggplot2` and `ggraph`. 
 
  -
     name: ggformula
