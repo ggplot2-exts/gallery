@@ -911,7 +911,7 @@ widgets:
     ghuser: Ryo-N7
     ghrepo: tvthemes
     tags: visualization,general,palettes,themes
-    cran: false
+    cran: true
     examples: https://ryo-n7.github.io/2019-05-16-introducing-tvthemes-package/
     ghauthor: Ryo-N7
     short: >
