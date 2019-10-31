@@ -1023,3 +1023,21 @@ widgets:
       gghalves adds half-geoms to `ggplot2`.
     description: >
       `gghalves` makes it easy to compose your own half-half plots via `ggplot2`. Think displaying a boxplot next to jittered points, or violin plots side by side with dotplots.
+
+ -
+    name: ggrastr
+    thumbnail: images/vpetukhov-ggrastr.png
+    url: https://github.com/VPetukhov/ggrastr
+    jslibs: >
+    ghuser: vpetukhov
+    ghrepo: ggrastr
+    tags: visualization,raster
+    cran: false
+    examples: https://htmlpreview.github.io/?https://raw.githubusercontent.com/VPetukhov/ggrastr/master/inst/doc/Raster_geoms.html
+    ghauthor: vpetukhov
+    short: >
+      Rasterize only specific layers of your plot
+    description: >
+      `ggrastr` provides set of geoms to rasterize only specific layers of the plot (e.g. large scatterplots)
+      keeping all labels and text in vector format. Allows to keep your plots within the reasonable size limit without
+      loosing vector properties of the scale-sensitive information.
