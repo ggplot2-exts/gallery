@@ -1008,3 +1008,18 @@ widgets:
       create all the basic diagnostic plots for a linear regression model 
       in `ggplot2` with just one function call. 
 
+ -
+    name: gghalves
+    thumbnail: images/erocoar-gghalves.png
+    url: https://github.com/erocoar/gghalves
+    jslibs: >
+    ghuser: erocoar
+    ghrepo: gghalves
+    tags: visualization,general
+    cran: true
+    examples: https://erocoar.github.io/gghalves/
+    ghauthor: erocoar
+    short: >
+      gghalves adds half-geoms to `ggplot2`.
+    description: >
+      `gghalves` makes it easy to compose your own half-half plots via `ggplot2`. Think displaying a boxplot next to jittered points, or violin plots side by side with dotplots.
