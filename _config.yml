@@ -1008,7 +1008,7 @@ widgets:
       create all the basic diagnostic plots for a linear regression model 
       in `ggplot2` with just one function call. 
 
--
+ -
     name: gghalves
     thumbnail: images/erocoar-gghalves.png
     url: https://github.com/erocoar/gghalves
