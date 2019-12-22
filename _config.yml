@@ -1041,3 +1041,24 @@ widgets:
       `ggrastr` provides set of geoms to rasterize only specific layers of the plot (e.g. large scatterplots)
       keeping all labels and text in vector format. Allows to keep your plots within the reasonable size limit without
       loosing vector properties of the scale-sensitive information.
+
+ -
+    name: ggpointdensity
+    thumbnail: images/lkremer-ggpointdensity.png
+    url: https://github.com/LKremer/ggpointdensity
+    jslibs: >
+    ghuser: LKremer
+    ghrepo: ggpointdensity
+    tags: visualization,general
+    cran: true
+    examples: https://github.com/LKremer/ggpointdensity
+    ghauthor: LKremer
+    short: >
+      Introduces `geom_pointdensity()`: A cross between a scatter plot and a 2D density plot.
+    description: >
+      There are several ways to visualize data points on a 2D coordinate system: If you have lots of data
+      points on top of each other, geom_point() fails to give you an estimate of how many points are overlapping.
+      geom_density2d() and geom_bin2d() solve this issue, but they make it impossible to investigate individual
+      outlier points, which may be of interest. geom_pointdensity() aims to solve this problem by combining the
+      best of both worlds: individual points are colored by the number of neighboring points. This allows you to
+      see the overall distribution, as well as individual points.
