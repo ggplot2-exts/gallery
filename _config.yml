@@ -7,6 +7,25 @@ sass:
   style: compressed
 
 widgets:
+-
+    name: ggsom
+    thumbnail: images/ggsom.png
+    url: https://github.com/oldlipe/ggsom
+    jslibs: >
+    ghuser: oldlipe
+    ghrepo: ggsom
+    tags: visualization,SOM,multi-dimensional,parallel-coordinates
+    cran: true
+    release: 0.4.0
+    examples: https://nbviewer.jupyter.org/github/OldLipe/cap394/blob/master/ets_eda.ipynb
+    ghauthor: oldlipe
+    short: >
+      The aim of this package is to offer more variability of graphics based on the self-organizing maps.
+    description: >
+      Analysis of multidimensional and time series data is useful and pertinent to several different applications, being a challenge due to the volume and complexity of the data. 
+      A possible approach for analysis of this kind of data is use clustering algorithms to reduce the dimensionality of the data.
+      This package uses Self-Organizing Map to data dimensionality reduction. Use geom_class() to visualization in parallelel coordinates each neuron of the Self-Organizing Maps. 
+
  -
     name: ggQQunif
     thumbnail: images/ggQQunif.png
