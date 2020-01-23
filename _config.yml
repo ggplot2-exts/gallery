@@ -1082,3 +1082,19 @@ widgets:
       A possible approach for analysis of this kind of data is use clustering algorithms to reduce the dimensionality of the data.
       This package uses Self-Organizing Map to data dimensionality reduction. Use geom_class() to visualization in parallelel coordinates each neuron of the Self-Organizing Maps. 
 
+ - 
+    name: ggnewsccale
+    thumbnail: images/ggnewscale.png
+    url: https://github.com/eliocamp/ggnewscale
+    jslibs: >
+    ghuser: eliocamp
+    ghrepo: ggnewscale
+    tags: visualization,general,scales
+    cran: true
+    release: 0.4.0
+    examples: https://eliocamp.github.io/codigo-r/en/2018/09/multiple-color-fill-scales-ggplot2/
+    ghauthor: eliocamp
+    short: >
+      Use multiple fill and colour scales in 'ggplot2'.
+    description: >
+      Attempts to solve the lack of multiple colour scales in ggplot2 using a intuitive and familiar interface. 
