@@ -17,7 +17,7 @@ widgets:
     tags: visualization,quantiles,p-values,statistics,big data
     cran: true
     release: 0.1.5
-    examples: 
+    examples:
     ghauthor: rcorty
     short: >
       Make QQ plots for big data expected to be uniformly distributed, e.g. p-values.
@@ -31,18 +31,18 @@ widgets:
     thumbnail: images/xmr_chart.png
     url: https://github.com/Zanidean/xmrr
     jslibs: >
-    ghuser: Zanidean  
+    ghuser: Zanidean
     ghrepo: xmrr
     tags: XmR, Visualization, Control Charts, QC, XBar
     cran: true
-    release: 
+    release:
     examples: https://sramhc.shinyapps.io/xmrbuilder/
-    ghauthor: Alex Zanidean 
+    ghauthor: Alex Zanidean
     short: >
       Generate XMR Control Chart Data from Time-Series Data.
     description: >
       Use xmr() for XmR data which re-calculates to signal true change, and use xmr_chart() for XmR style control charts with recalculated process limits.
-      
+
  -
     name: gg3D
     thumbnail: images/gg3D.png
@@ -52,7 +52,7 @@ widgets:
     ghrepo: gg3D
     tags: 3D, Visualization
     cran: false
-    release: 
+    release:
     examples: http://htmlpreview.github.io/?https://github.com/AckerDWM/gg3D/blob/master/gg3D-vignette.html
     ghauthor: Daniel Acker
     short: >
@@ -69,7 +69,7 @@ widgets:
     ghrepo: ggQC
     tags: QC, XmR, XbarR, SixSigma, Visualization
     cran: true
-    release: 
+    release:
     examples: http://ggqc.r-bar.net/
     ghauthor: Kenith Grey
     short: >
@@ -107,9 +107,9 @@ widgets:
     examples:
     ghauthor: jespermaag
     short: >
-      gganatogram makes it possible to visualise tissues for different organisms or cell compartments. 
+      gganatogram makes it possible to visualise tissues for different organisms or cell compartments.
     description: >
-      gganatogram is aimed to users who would like to visualise certain organs or cell compartments based on values, or to highlight tissues. This can be useful when the user easily want to display tissue information e.g. RNA-seq, pharmacology or mutations per tissue.   
+      gganatogram is aimed to users who would like to visualise certain organs or cell compartments based on values, or to highlight tissues. This can be useful when the user easily want to display tissue information e.g. RNA-seq, pharmacology or mutations per tissue.
 
 
  -
@@ -175,7 +175,7 @@ widgets:
     ghauthor: robjohnnoble
     short: >
       Creates Muller plots for visualizing evolutionary dynamics.
-    description: > 
+    description: >
       An attempt to set an easy-to-use standard for representing evolutionary dynamics.
       Should prove useful to researchers in experimental evolution, cancer research, population genetics, and beyond.
 
@@ -240,20 +240,20 @@ widgets:
     examples: https://docs.r4photobiology.info/ggpmisc/articles
     ghauthor: aphalo
     short: >
-      Annotate plots with fitted model equations, ANOVA table, summary table; 
-      find and label peaks and valleys, compute quadrant counts; filter 
+      Annotate plots with fitted model equations, ANOVA table, summary table;
+      find and label peaks and valleys, compute quadrant counts; filter
       observations by local density.
     description: >
-      Package ‘ggpmisc’ (Miscellaneous Extensions to ‘ggplot2’) is a set of 
-      extensions to R package ‘ggplot2’ (>= 3.0.0) with emphasis on annotations 
-      and highlighting related to fitted models and data summaries. To 
-      complement these, the widely useful `geom_table()` and `stat_fmt_tb()` are 
-      defined as well as ggplot constructors for time series objects. The 
-      provided `ggplot.ts()` and `ggplot.xts()` use `try_tibble()` which is also 
-      exported and accepts objects of additional classes as input. Statistics 
-      useful for highlighting and/or annotating individual data points in 
-      regions of plot panels with high/low densities of observations. These 
-      stats are designed to work well together with `geom_text_repel()` and 
+      Package ‘ggpmisc’ (Miscellaneous Extensions to ‘ggplot2’) is a set of
+      extensions to R package ‘ggplot2’ (>= 3.0.0) with emphasis on annotations
+      and highlighting related to fitted models and data summaries. To
+      complement these, the widely useful `geom_table()` and `stat_fmt_tb()` are
+      defined as well as ggplot constructors for time series objects. The
+      provided `ggplot.ts()` and `ggplot.xts()` use `try_tibble()` which is also
+      exported and accepts objects of additional classes as input. Statistics
+      useful for highlighting and/or annotating individual data points in
+      regions of plot panels with high/low densities of observations. These
+      stats are designed to work well together with `geom_text_repel()` and
       `geom_label_repel()` from package ‘ggrepel’.
 
  -
@@ -301,11 +301,11 @@ widgets:
     examples: https://github.com/sinhrks/ggfortify#examples
     ghauthor: terrytangyuan
     short: >
-      The unified interface to ggplot2 many popular statistical pakackage results. 
+      The unified interface to ggplot2 many popular statistical pakackage results.
     description: >
-      Unified plotting tools for statistics commonly used, such as GLM, time series, 
-      PCA families, clustering and survival analysis. The package offers a single 
-      plotting interface for these analysis results and plots in a unified style 
+      Unified plotting tools for statistics commonly used, such as GLM, time series,
+      PCA families, clustering and survival analysis. The package offers a single
+      plotting interface for these analysis results and plots in a unified style
       using 'ggplot2'.
 
  -
@@ -323,7 +323,7 @@ widgets:
     short: >
       Automatic generation of interactive visualizations for popular statistical results.
     description: >
-      Automatically generate interactive visualizations for popular statistical results 
+      Automatically generate interactive visualizations for popular statistical results
       supported by 'ggfortify', such as time series, PCA, clustering and survival analysis,
       with 'plotly.js' <https://plot.ly/>  and 'ggplot2' style. The generated visualizations
       can also be easily extended using 'ggplot2' and 'plotly' syntax while staying interactive.
@@ -389,16 +389,16 @@ widgets:
     examples: https://docs.r4photobiology.info/ggspectra/articles
     ghauthor: aphalo
     short: >
-      'ggspectra' extends 'ggplot2' with stats, geoms and annotations for 
+      'ggspectra' extends 'ggplot2' with stats, geoms and annotations for
       plotting light spectra.
     description: >
-      The goal of ‘ggspectra’ is to make it easy to plot radiation spectra and 
-      similar data, such and transmittance, absorbance and reflectance spectra, 
+      The goal of ‘ggspectra’ is to make it easy to plot radiation spectra and
+      similar data, such and transmittance, absorbance and reflectance spectra,
       producing fully annotated publication- and presentation-ready plots.
-      Package ‘ggspectra’ provides stats, geoms, scales and functions to be 
-      used for plotting radiation-related spectra and annotating the plots with 
+      Package ‘ggspectra’ provides stats, geoms, scales and functions to be
+      used for plotting radiation-related spectra and annotating the plots with
       quantities derived from spectral data. All summary quantities implemented
-      in ‘photobiology’ can be used for annotations including biologically 
+      in ‘photobiology’ can be used for annotations including biologically
       effective irradiances and exposures.
 
  -
@@ -539,8 +539,8 @@ widgets:
     short: >
       A collection of ‘ggplot2’ color palettes inspired by scientific journals and science fiction TV shows.
     description: >
-    
-    
+
+
  -
     name: ggmosaic
     thumbnail: images/ggmosaic.png
@@ -551,12 +551,12 @@ widgets:
     tags: visualization,general
     cran: true
     release:
-    examples: 
+    examples:
     ghauthor: haleyjeppson
     short: >
       ggmosaic implements mosaic plots in ‘ggplot2’ via geom_mosaic.
     description: >
- 
+
  -
     name: survminer
     thumbnail: images/survminer.png
@@ -571,7 +571,7 @@ widgets:
     ghauthor: kassambara
     short: >
       Drawing Survival Curves using 'ggplot2'
-    description: >    
+    description: >
       Contains the function 'ggsurvplot()' for drawing easily beautiful and 'ready-to-publish' survival curves with the 'number at risk' table. Other functions are also available for visual examinations of 'cox' model assumptions.
 
  -
@@ -606,7 +606,7 @@ widgets:
     short: >
        ggally extends 'ggplot2' by adding several functions to reduce the complexity of combining geometric objects with transformed data.
     description: >
-       ggplot2 is a plotting system based on the grammar of graphics. 'GGally' extends 'ggplot2' by adding several functions to reduce the complexity of combining geometric objects with transformed data. Some of these functions include a pairwise plot matrix, a two group pairwise plot matrix, a parallel coordinates plot, a survival plot, and several functions to plot networks. 
+       ggplot2 is a plotting system based on the grammar of graphics. 'GGally' extends 'ggplot2' by adding several functions to reduce the complexity of combining geometric objects with transformed data. Some of these functions include a pairwise plot matrix, a two group pairwise plot matrix, a parallel coordinates plot, a survival plot, and several functions to plot networks.
 
  -
     name: ggseqlogo
@@ -641,7 +641,7 @@ widgets:
     description: >
        Adds geoms, scales and aesthetics to plot 'Chernoff' faces that vary their expression according to your data.
        Make your data smile or frown, angry or straight-faced, with continuous scales and legend support.
-        
+
  -
     name: ggridges
     thumbnail: images/ggridges.png
@@ -692,7 +692,7 @@ widgets:
       Streamlined plot theme and plot annotations for 'ggplot2'
     description: >
       The package provides a streamlined and clean theme that is used in the Wilke lab, hence the package name, which stands for Claus O. Wilke's plot package. The package also provide functionality to combine multiple 'ggplot2' plots into one, align them, and label them with letters, e.g. A, B, C, etc., as is often required for scientific publications.
-      
+
  -
     name: qqplotr
     thumbnail: images/qqplotr.png
@@ -709,7 +709,7 @@ widgets:
       Quantile-quantile and probability-probability plot extensions for 'ggplot2'
     description: >
       The package extends some 'ggplot2' functionalities by permitting the drawing of quantile-quantile (Q-Q) and probability-probability (P-P) points, lines, and confidence bands. The functions of this package also allow the detrend adjustment, previously proposed in the literature to help reduce visual bias when assessing those type of plots.
-      
+
  -
     name: ggalluvial
     thumbnail: images/ggalluvial.png
@@ -719,13 +719,13 @@ widgets:
     ghrepo: ggalluvial
     tags: visualization,categorical,time series
     cran: true
-    examples: 
+    examples:
     ghauthor: corybrunson
     short: >
       A 'ggplot2' extension for alluvial diagrams.
     description: >
       Alluvial diagrams encompass a variety of charts that use x-splines (alluvia and flows), sometimes augmented with stacked bars (lodes or strata), to visualize incidence structures derived from several data types, including repeated categorical measures, evolving classifications, and multi-dimensional categorical data. This package contains stats and geoms that interpret multiple data formats compatible with this framework while hewing to the principles of tidy data and the grammar of graphics.
-      
+
  -
     name: patchwork
     thumbnail: images/thomasp85-patchwork.png
@@ -735,13 +735,13 @@ widgets:
     ghrepo: patchwork
     tags: visualization,composition
     cran: false
-    examples: 
+    examples:
     ghauthor: thomasp85
     short: >
       Easy composition of ggplot plots using arithmetic operators
     description: >
       ggplot2 is concerned with single plots, facets notwithstanding, and does not provide a native way to compose multiple plots. patchwork extends the standard ggplot2 API to allow composition with the '+' operator as well as other the means to customize the layout and nest sub-arrangements.
-      
+
  -
     name: ggquiver
     thumbnail: images/ggquiver.png
@@ -751,7 +751,7 @@ widgets:
     ghrepo: ggquiver
     tags: visualization,quiver,velocity,vector
     cran: true
-    examples: 
+    examples:
     ghauthor: mitchelloharawild
     short: >
       Quiver/velocity plots for 'ggplot2'.
@@ -772,7 +772,7 @@ widgets:
     short: >
       Causal directed acyclic graphs (DAGs) in `ggplot2`
     description: >
-      Tidy, visualize, and analyze causal DAGs. `ggdag` fuses the `dagitty` package, which contains powerful algorithms for analyzing causal diagrams, with the flexibility of `ggplot2` and `ggraph`. 
+      Tidy, visualize, and analyze causal DAGs. `ggdag` fuses the `dagitty` package, which contains powerful algorithms for analyzing causal diagrams, with the flexibility of `ggplot2` and `ggraph`.
 
  -
     name: ggformula
@@ -820,7 +820,7 @@ widgets:
     short: >
       Automagically augment periodic data in `ggplot2`
     description: >
-      Allows you to wrap periodic data to any arbitrary domain automatically inside the ggplot2 call. 
+      Allows you to wrap periodic data to any arbitrary domain automatically inside the ggplot2 call.
 
  -
     name: ggpol
@@ -899,10 +899,10 @@ widgets:
     short: >
       Supporting Graphs for Analysing Temporal Data with `ggplot2`.
     description: >
-      Provides 'ggplot2' graphics for analysing temporal data. It aims to 
-      fit into the 'tidyverse' and grammar of graphics framework for handling 
+      Provides 'ggplot2' graphics for analysing temporal data. It aims to
+      fit into the 'tidyverse' and grammar of graphics framework for handling
       temporal data.
-      
+
  -
     name: tvthemes
     thumbnail: images/ryo-n7-tvthemes.png
@@ -917,8 +917,8 @@ widgets:
     short: >
       `ggplot2` Themes & Palettes from popular TV shows!
     description: >
-      Contains various `ggplot2` themes and color palettes based on TV shows 
-      such as 'Game of Thrones', 'Brooklyn Nine-Nine', 'The Simpsons', 
+      Contains various `ggplot2` themes and color palettes based on TV shows
+      such as 'Game of Thrones', 'Brooklyn Nine-Nine', 'The Simpsons',
       'Avatar: The Last Airbender', 'Spongebob Squarepants', and more.
 
  -
@@ -930,13 +930,13 @@ widgets:
     ghrepo: ggfittext
     tags: visualization,general,text
     cran: true
-    examples: https://wilkox.org/ggfittext/articles/introduction-to-ggfittext.html  
+    examples: https://wilkox.org/ggfittext/articles/introduction-to-ggfittext.html
     ghauthor: wilkox
     short: >
       `ggplot2` geoms to fit text in a box
     description: >
       Provides `ggplot2` geoms for automatically resizing and reflowing text to
-      fit in a defined area, including bar and column plots. 
+      fit in a defined area, including bar and column plots.
 
  -
     name: ggparty
@@ -945,7 +945,7 @@ widgets:
     jslibs: >
     ghuser: martin-borkovec
     ghrepo: ggparty
-    tags: visualization,tree,partykit 
+    tags: visualization,tree,partykit
     cran: false
     examples: https://github.com/martin-borkovec/ggparty/wiki
     ghauthor: martin-borkovec
@@ -1004,9 +1004,9 @@ widgets:
     short: >
       Create diagnostics plots for linear regression
     description: >
-      Using `lindia` (short for linear-regression diagnostics), you can 
-      create all the basic diagnostic plots for a linear regression model 
-      in `ggplot2` with just one function call. 
+      Using `lindia` (short for linear-regression diagnostics), you can
+      create all the basic diagnostic plots for a linear regression model
+      in `ggplot2` with just one function call.
 
  -
     name: gghalves
@@ -1078,11 +1078,11 @@ widgets:
     short: >
       The aim of this package is to offer more variability of graphics based on the self-organizing maps.
     description: >
-      Analysis of multidimensional and time series data is useful and pertinent to several different applications, being a challenge due to the volume and complexity of the data. 
+      Analysis of multidimensional and time series data is useful and pertinent to several different applications, being a challenge due to the volume and complexity of the data.
       A possible approach for analysis of this kind of data is use clustering algorithms to reduce the dimensionality of the data.
-      This package uses Self-Organizing Map to data dimensionality reduction. Use geom_class() to visualization in parallelel coordinates each neuron of the Self-Organizing Maps. 
+      This package uses Self-Organizing Map to data dimensionality reduction. Use geom_class() to visualization in parallelel coordinates each neuron of the Self-Organizing Maps.
 
- - 
+ -
     name: ggnewsccale
     thumbnail: images/ggnewscale.png
     url: https://github.com/eliocamp/ggnewscale
@@ -1097,4 +1097,21 @@ widgets:
     short: >
       Use multiple fill and colour scales in 'ggplot2'.
     description: >
-      Attempts to solve the lack of multiple colour scales in ggplot2 using a intuitive and familiar interface. 
+      Attempts to solve the lack of multiple colour scales in ggplot2 using a intuitive and familiar interface.
+
+ -
+    name: ggcor
+    thumbnail: images/ggcor.png
+    url: https://github.com/houyunhuang/ggcor
+    jslibs: >
+    ghuser: houyunhuang
+    ghrepo: ggcor
+    tags: visualization,correlation,mantel-test,co-network
+    cran: false
+    release: 0.9.2.11
+    examples: https://github.com/houyunhuang/ggcor
+    ghauthor: houyunhuang
+    short: >
+      Extended tools for correlation analysis and visualization.
+    description: >
+      This package can be used to visualize simply and directly a correlation matrix based on 'ggplot2'.
