@@ -1,7 +1,7 @@
 ggplot2 extensions gallery
 ===================
 
-This repository serves the [ggplot2 extensions gallery](https://www.ggplot2-exts.org/gallery/).
+This repository serves the [ggplot2 extensions gallery](https://exts.ggplot2.tidyverse.org/gallery/).
 
 ## Adding a ggplot2 extension
 
