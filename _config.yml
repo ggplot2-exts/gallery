@@ -1133,3 +1133,23 @@ widgets:
     description: >
       Expands options for facetted plots, including nested facets, adjusting sizes and facet-wise position scales. 
       Also hosts a small selection of geoms, stats and positions.
+
+ -
+    name: ggcharts
+    thumbnail: images/ggcharts.png
+    url: https://thomas-neitmann.github.io/ggcharts/index.html
+    jslibs: >
+    ghuser: thomas-neitmann
+    ghrepo: ggcharts
+    tags: visualization,general
+    cran: true
+    release: 0.1.0
+    examples: https://thomas-neitmann.github.io/ggcharts/articles/highlight.html
+    ghauthor: thomas-neitmann
+    short: >
+      Shorten the distance from data visualization idea to actual plot
+    description: >
+      ggcharts provides a high-level ggplot2 interface for creating common charts. Its aim is both simple and ambitious:
+      shorten the distance from data visualization idea to actual plot. How so? By taking care of a lot of data preprocessing,
+      obscure ggplot2 details and plot styling for you. The resulting plots are ggplot objects and can be further customized
+      using any ggplot2 function.
