@@ -1156,7 +1156,7 @@ widgets:
 
  -
     name: humapr
-    thumbnail: images/humapr_ggplots2-exts.png
+    thumbnail: images/humapr.png
     url: https://github.com/benskov/humapr
     jslibs: >
     ghuser: benskov
@@ -1174,4 +1174,4 @@ widgets:
       For now, the package offers two maps: a simplified body surface map (and an extension compatible with the 
       Abbreviated Injury Score) and internal organs.
       Producing ggplot2 objects, it's easy to fine-tune their appearance with the ggplot2 toolbox. 
- -
+
