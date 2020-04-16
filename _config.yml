@@ -1153,3 +1153,25 @@ widgets:
       shorten the distance from data visualization idea to actual plot. How so? By taking care of a lot of data preprocessing,
       obscure ggplot2 details and plot styling for you. The resulting plots are ggplot objects and can be further customized
       using any ggplot2 function.
+
+ -
+    name: humapr
+    thumbnail: images/humapr_ggplots2-exts.png
+    url: https://github.com/benskov/humapr
+    jslibs: >
+    ghuser: benskov
+    ghrepo: humapr
+    tags: visualization,general,tabulation,choropleth
+    cran: false
+    release: 0.1.0
+    examples: https://benskov.github.io/humapr/
+    ghauthor: benskov
+    short: >
+      Visualise topographic human data with choropleths
+    description: >
+      Several domains deal with topographic human data, both exterior on the body surface (e.g., injury research) and 
+      interior (e.g., forensic pathology). This package seeks to offer a straightforward API for visualising such data.
+      For now, the package offers two maps: a simplified body surface map (and an extension compatible with the 
+      Abbreviated Injury Score) and internal organs.
+      Producing ggplot2 objects, it's easy to fine-tune their appearance with the ggplot2 toolbox. 
+ -
