@@ -1115,7 +1115,7 @@ widgets:
       Extended tools for correlation analysis and visualization.
     description: >
       This package can be used to visualize simply and directly a correlation matrix based on 'ggplot2'.
-      
+
  -
     name: ggh4x
     thumbnail: images/teunbrand-ggh4x.png
@@ -1131,7 +1131,7 @@ widgets:
     short: >
       Options for tailored facets, multiple colourscales and miscellaneous
     description: >
-      Expands options for facetted plots, including nested facets, adjusting sizes and facet-wise position scales. 
+      Expands options for facetted plots, including nested facets, adjusting sizes and facet-wise position scales.
       Also hosts a small selection of geoms, stats and positions.
 
  -
@@ -1169,9 +1169,32 @@ widgets:
     short: >
       Visualise topographic human data with choropleths
     description: >
-      Several domains deal with topographic human data, both exterior on the body surface (e.g., injury research) and 
+      Several domains deal with topographic human data, both exterior on the body surface (e.g., injury research) and
       interior (e.g., forensic pathology). This package seeks to offer a straightforward API for visualising such data.
-      For now, the package offers two maps: a simplified body surface map (and an extension compatible with the 
+      For now, the package offers two maps: a simplified body surface map (and an extension compatible with the
       Abbreviated Injury Score) and internal organs.
-      Producing ggplot2 objects, it's easy to fine-tune their appearance with the ggplot2 toolbox. 
+      Producing ggplot2 objects, it's easy to fine-tune their appearance with the ggplot2 toolbox.
 
+
+ -
+    name: ggshadow
+    thumbnail: images/ggshadow.png
+    url: https://github.com/marcmenem/ggshadow
+    jslibs: >
+    ghuser: marcmenem
+    ghrepo: ggshadow
+    tags: visualization,general
+    cran: false
+    release: 0.0.1
+    examples: https://github.com/marcmenem/ggshadow/
+    ghauthor: marcmenem
+    short: >
+      Draw a shadow below lines to make busy plots more aesthetically pleasing
+    description: >
+      Implement geom_shadowpath(), geom_shadowline() and geom_shadowstep() for 'ggplot2'.
+      These functions draw a shadow below lines to make busy plots more aesthetically pleasing.
+      `geom_shadowpath()` connects the observations in the order in which they appear in the data.
+      `geom_shadowline()` connects them in order of the variable on the x axis. `geom_shadowstep()`
+      creates a stairstep plot, highlighting exactly when changes occur. The `group` aesthetic
+      determines which cases are connected together. These functions are designed as a straight
+      replacement to the `geom_path()`, `geom_line()` and `geom_step()` functions.
