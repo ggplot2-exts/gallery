@@ -1198,3 +1198,24 @@ widgets:
       creates a stairstep plot, highlighting exactly when changes occur. The `group` aesthetic
       determines which cases are connected together. These functions are designed as a straight
       replacement to the `geom_path()`, `geom_line()` and `geom_step()` functions.
+
+ -
+    name: ggsseg
+    thumbnail: images/ggseg-ext.png
+    url: https://github.com/LCBC-UiO/ggseg
+    jslibs: >
+    ghuser: LCBC-UiO
+    ghrepo: ggsseg
+    tags: visualization,brain imaging
+    cran: false
+    release: 0.0.1
+    examples: https://lcbc-uio.github.io/ggseg/
+    ghauthor: Athanasiamo
+    short: >
+      Draw polygons of brain atlas segmentations
+    description: >
+      In neuroimaging, it is common to segment the brain into
+      finite smaller number of regions that share some property 
+      (function, neuroanatomy etc). `ggseg()` makes it possible 
+      to visualize these segmentations using polygons. 
+
