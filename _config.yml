@@ -1200,12 +1200,12 @@ widgets:
       replacement to the `geom_path()`, `geom_line()` and `geom_step()` functions.
 
  -
-    name: ggsseg
+    name: ggseg
     thumbnail: images/ggseg-ext.png
     url: https://github.com/LCBC-UiO/ggseg
     jslibs: >
     ghuser: LCBC-UiO
-    ghrepo: ggsseg
+    ghrepo: ggseg
     tags: visualization,brain imaging
     cran: false
     release: 0.0.1
