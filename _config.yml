@@ -1218,4 +1218,22 @@ widgets:
       finite smaller number of regions that share some property 
       (function, neuroanatomy etc). `ggseg()` makes it possible 
       to visualize these segmentations using polygons. 
+      
+ -
+    name: mdthemes
+    thumbnail: images/mdthemes.png
+    url: https://github.com/thomas-neitmann/mdthemes
+    jslibs: >
+    ghuser: thomas-neitmann
+    ghrepo: mdthemes
+    tags: visualization,themes
+    cran: false
+    release: 0.1.0
+    examples: https://github.com/thomas-neitmann/mdthemes
+    ghauthor: thomas-neitmann
+    short: >
+      'ggplot2' themes that render text as markdown/HTML
+    description: >
+      `{mdthemes}` provides themes that render text as markdown/HTML. This enables
+      making individual words bold or italics as well as coloring them.
 
