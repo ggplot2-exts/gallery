@@ -1237,3 +1237,28 @@ widgets:
       `{mdthemes}` provides themes that render text as markdown/HTML. This enables
       making individual words bold or italics as well as coloring them.
 
+ -
+    name: ggwordcloud
+    thumbnail: images/ggwordcloud.png
+    url: https://lepennec.github.io/ggwordcloud/
+    jslibs: >
+    ghuser: lepennec
+    ghrepo: ggwordcloud
+    tags: visualization,text
+    cran: true
+    release: 0.5.0
+    examples: https://lepennec.github.io/ggwordcloud/
+    ghauthor: lepennec
+    short: >
+      A word cloud text geom for 'ggplot2'.
+    description: >
+      `ggwordcloud` provides a word cloud text geom for `ggplot2`.
+      The placement algorithm implemented in C++ is an hybrid between the one of `wordcloud`
+      and the one of `wordcloud2.js`. The cloud can grow according to a shape and stay within a mask. 
+      The size aesthetic is used either to control the font size or the printed area of the words. 
+      `ggwordcloud` also supports arbitrary text rotation. The faceting scheme of `ggplot2` can also be used.
+      Two functions meant to be the equivalent of `wordcloud` and `wordcloud2` are proposed. 
+      Last but not least you can use `gridtext` markdown/html syntax in the labels.
+      
+
+
