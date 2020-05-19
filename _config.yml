@@ -1259,6 +1259,24 @@ widgets:
       `ggwordcloud` also supports arbitrary text rotation. The faceting scheme of `ggplot2` can also be used.
       Two functions meant to be the equivalent of `wordcloud` and `wordcloud2` are proposed. 
       Last but not least you can use `gridtext` markdown/html syntax in the labels.
+
+ -
+    name: ggasym
+    thumbnail: images/ggasym.png
+    url: https://jhrcook.github.io/ggasym/index.html
+    jslibs: >
+    ghuser: jhrcook
+    ghrepo: ggasym
+    tags: visualization,multi-dimensional,matrix,scales
+    cran: true
+    release: 0.1.3
+    examples: https://jhrcook.github.io/ggasym/index.html
+    ghauthor: jhrcook
+    short: >
+      Asymmetric matrix plotting with multiple scales.
+    description: >
+      ‘ggasym’ plots a symmetric matrix with three different fill aesthetics for the top-left and bottom-right triangles and along the diagonal. 
+      It operates within the Grammar of Graphics paradigm implemented in ‘ggplot2’.
       
 
 
