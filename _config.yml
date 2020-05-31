@@ -1277,6 +1277,21 @@ widgets:
     description: >
       ‘ggasym’ plots a symmetric matrix with three different fill aesthetics for the top-left and bottom-right triangles and along the diagonal. 
       It operates within the Grammar of Graphics paradigm implemented in ‘ggplot2’.
+
+ -
+    name: gglorenz
+    thumbnail: images/gglorenz.png
+    url: https://github.com/jjchern/gglorenz
+    jslibs: >
+    ghuser: jjchern
+    ghrepo: gglorenz
+    tags: visualization,general,statistics
+    cran: true
+    release: 0.0.2
+    examples: https://github.com/jjchern/gglorenz
+    ghauthor: jjchern
+    short: >
+      Plotting Lorenz curves with the blessing of ggplot2.
+    description: >
+      `gglorenz` provides statistical transformations for plotting empirical ordinary Lorenz curve (Lorenz 1905) <doi:10.2307/2276207> and generalized Lorenz curve (Shorrocks 1983) <doi:10.2307/2554117>.
       
-
-
