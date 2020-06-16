@@ -78,6 +78,30 @@ widgets:
       ggQC is used to create single, faceted, or multi-layered quality control charts using functions stat_QC(), stat_QC_lines() and stat_mR(). Supported charts include XmR, XbarR, n, c, p, np and more.
 
  -
+    name: ggdist
+    thumbnail: images/ggdist.png
+    url: https://mjskay.github.io/ggdist
+    jslibs: >
+    ghuser: mjskay
+    ghrepo: ggdist
+    tags: visualization,uncertainty,confidence,probability
+    cran: true
+    release:
+    examples: https://mjskay.github.io/ggdist/articles
+    ghauthor: mjskay
+    short: >
+      'ggdist' provides stats and geoms for visualizing distributions and uncertainty.
+    description: >
+      'ggdist' provides stats and geoms for visualizing distributions that are particularly tuned for
+      visualizing uncertainty in either a frequentist or Bayesian mode. Both analytical distributions (such as
+      frequentist confidence distributions or Bayesian priors) and distributions represented as samples (such as
+      bootstrap distributions or Bayesian posterior samples) are easily visualized. Visualization primitives include
+      but are not limited to: points with multiple uncertainty intervals, eye plots,
+      density plots, gradient plots, dot plots, quantile dot plots,
+      complementary cumulative distribution function (CCDF) barplots,
+      and fit curves with multiple uncertainty ribbons.
+
+ -
     name: ggedit
     thumbnail: images/ggedit.png
     url: https://github.com/metrumresearchgroup/ggedit
