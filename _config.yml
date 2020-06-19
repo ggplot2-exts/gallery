@@ -1056,7 +1056,7 @@ widgets:
     ghuser: vpetukhov
     ghrepo: ggrastr
     tags: visualization,raster
-    cran: false
+    cran: true
     examples: https://htmlpreview.github.io/?https://raw.githubusercontent.com/VPetukhov/ggrastr/master/inst/doc/Raster_geoms.html
     ghauthor: vpetukhov
     short: >
