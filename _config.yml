@@ -1318,4 +1318,22 @@ widgets:
       Plotting Lorenz curves with the blessing of ggplot2.
     description: >
       `gglorenz` provides statistical transformations for plotting empirical ordinary Lorenz curve (Lorenz 1905) <doi:10.2307/2276207> and generalized Lorenz curve (Shorrocks 1983) <doi:10.2307/2554117>.
-      
+
+ -
+    name: hrbrthemes
+    thumbnail: images/hrbrmstr-hrbrthemes.png
+    url: https://github.com/hrbrmstr/hrbrthemes
+    jslibs: >
+    ghuser: hrbrmstr
+    ghrepo: hrbrthemes
+    tags: theme,typography
+    cran: true
+    examples: https://cinc.rud.is/web/packages/hrbrthemes/
+    ghauthor: hrbrmstr
+    short: A compilation of extra {ggplot2} themes, scales and utilities, including a spell check function for plot label fields and an overall emphasis on typography.
+    description: >
+      `hrbrthemes` is a very focused package that provides typography-centric themes and theme components for ggplot2.
+      The core theme: `theme_ipsum` (“ipsum” is Latin for “precise”) has eight font variants (seven of which are included with the package)
+      and provides many less-verbose ways to specify base theme styling aesthetics. 
+
+
