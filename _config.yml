@@ -1319,7 +1319,7 @@ widgets:
     description: >
       `gglorenz` provides statistical transformations for plotting empirical ordinary Lorenz curve (Lorenz 1905) <doi:10.2307/2276207> and generalized Lorenz curve (Shorrocks 1983) <doi:10.2307/2554117>.
 
--
+ -
     name: hrbrthemes
     thumbnail: images/hrbrmstr-hrbrthemes.png
     url: https://github.com/hrbrmstr/hrbrthemes
