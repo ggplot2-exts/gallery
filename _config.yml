@@ -1336,4 +1336,20 @@ widgets:
       The core theme: `theme_ipsum` (“ipsum” is Latin for “precise”) has eight font variants (seven of which are included with the package)
       and provides many less-verbose ways to specify base theme styling aesthetics. 
 
+ -
+    name: ggpattern
+    thumbnail: images/ggpattern.png
+    url: https://github.com/coolbutuseless/ggpattern
+    jslibs: >
+    ghuser: coolbutuseless
+    ghrepo: ggpattern
+    tags: visualization,pattern
+    cran: false
+    examples: https://coolbutuseless.github.io/package/ggpattern/
+    ghauthor: coolbutuseless
+    short: Pattern fills for ggplot2 geoms.
+    description: >
+      `ggpattern` provides geoms to use within ggplot which can be filled with patterns. 
+      Supported patterns include stripes, dots, checks, image files, gradients etc.
+
 
