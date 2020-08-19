@@ -1352,18 +1352,18 @@ widgets:
       `ggpattern` provides geoms to use within ggplot which can be filled with patterns. 
       Supported patterns include stripes, dots, checks, image files, gradients etc.
 
--
+ -
     name: ggtext
     thumbnail: images/ggtext.png
     url: https://wilkelab.org/ggtext/
     jslibs: >
-    ghuser: wilkelab
+    ghuser: clauswilke
     ghrepo: ggtext
     tags: general,theme,typography
     cran: true
     release:
     examples: https://wilkelab.org/ggtext/articles/theme_elements.html
-    ghauthor: clauswilke
+    ghauthor: Claus Wilke
     short: >
       Improved text rendering support for `ggplot2`
     description: >
