@@ -8,6 +8,24 @@ sass:
 
 widgets:
  -
+    name: calendR
+    thumbnail: images/calendR.png
+    url: https://r-coder.com/calendar-plot-r/
+    jslibs: >
+    ghuser: R-CoderDotCom
+    ghrepo: calendR
+    tags: visualization, calendar, time-series
+    cran: true
+    release: 1.0
+    examples: https://r-coder.com/calendar-plot-r/
+    ghauthor: R-CoderDotCom
+    short: >
+      Ready to Print Monthly and Yearly Calendars
+    description: >
+      Contains the function calendR() for creating fully customizable monthly and yearly calendars (colors, fonts, formats, ...) and even heatmap calendars.
+      In addition, it allows saving the calendars in ready to print A4 format PDF files.
+
+ -
     name: ggQQunif
     thumbnail: images/ggQQunif.png
     url: https://github.com/rcorty/ggQQunif
