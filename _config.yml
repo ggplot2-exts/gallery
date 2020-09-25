@@ -1387,3 +1387,21 @@ widgets:
       Contains the function calendR() for creating fully customizable monthly and yearly calendars (colors, fonts, formats, ...) and even heatmap calendars.
       In addition, it allows saving the calendars in ready to print A4 format PDF files.
 
+-
+    name: ggip
+    thumbnail: images/ggip.png
+    url: https://davidchall.github.io/ggip/
+    jslibs: >
+    ghuser: davidchall
+    ghrepo: ggip
+    tags: visualization, cyber, space-filling curves
+    cran: true
+    release: 0.1.0
+    examples: https://davidchall.github.io/ggip/articles/ggip.html
+    ghauthor: davidchall
+    short: >
+      Data visualization of IP addresses and networks
+    description: >
+      `ggip` provides a coordinate system that maps IP data to the 2D grid, using
+      a space-filling curve (either the Hilbert or Morton curve). This data can
+      then be used with regular `ggplot2` layers or with custom `ggip` layers.
