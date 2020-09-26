@@ -1387,7 +1387,7 @@ widgets:
       Contains the function calendR() for creating fully customizable monthly and yearly calendars (colors, fonts, formats, ...) and even heatmap calendars.
       In addition, it allows saving the calendars in ready to print A4 format PDF files.
 
--
+ -
     name: ggip
     thumbnail: images/ggip.png
     url: https://davidchall.github.io/ggip/
