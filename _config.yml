@@ -1405,3 +1405,24 @@ widgets:
       `ggip` provides a coordinate system that maps IP data to the 2D grid, using
       a space-filling curve (either the Hilbert or Morton curve). This data can
       then be used with regular `ggplot2` layers or with custom `ggip` layers.
+      
+ -
+    name: gglm
+    thumbnail: images/gglm.png
+    url: https://github.com/graysonwhite/gglm
+    jslibs: >
+    ghuser: graysonwhite
+    ghrepo: gglm
+    tags: visualization,modeling,diagnostic
+    cran: true
+    release: 0.1.0
+    examples: https://github.com/graysonwhite/gglm/blob/master/README.md#examples
+    ghauthor: graysonwhite
+    short: >
+      Grammar of Graphics for linear model diagnostic plots.
+    description: >
+      `gglm`, The Grammar of Graphics for Linear Model Diagnostics, is a package that
+      creates beautiful `ggplot2` diagonostic plots for linear models that are easy to use
+      and adhere to The Grammar of Graphics. The purpose of this package is to provide a
+      sensible alternative to using the base-R `plot()` function to produce diagnostic plots
+      for linear models.
