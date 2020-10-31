@@ -1409,14 +1409,14 @@ widgets:
  -
     name: gglm
     thumbnail: images/gglm.png
-    url: https://github.com/graysonwhite/gglm
+    url: https://graysonwhite.github.io/gglm/
     jslibs: >
     ghuser: graysonwhite
     ghrepo: gglm
     tags: visualization,modeling,diagnostic
     cran: true
     release: 0.1.0
-    examples: https://github.com/graysonwhite/gglm/blob/master/README.md#examples
+    examples: https://graysonwhite.github.io/gglm/#examples
     ghauthor: graysonwhite
     short: >
       Grammar of Graphics for linear model diagnostic plots.
