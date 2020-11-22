@@ -1426,3 +1426,22 @@ widgets:
       and adhere to The Grammar of Graphics. The purpose of this package is to provide a
       sensible alternative to using the base-R `plot()` function to produce diagnostic plots
       for linear models.
+      
+      
+ -
+    name: econocharts
+    thumbnail: images/econocharts.png
+    url: https://r-coder.com/economics-charts-r/
+    jslibs: >
+    ghuser: R-CoderDotCom
+    ghrepo: econocharts
+    tags: economics, microeconomics, macroeconomics
+    cran: false
+    release: 0.0.1
+    examples: https://r-coder.com/economics-charts-r/
+    ghauthor: R-CoderDotCom
+    short: >
+      Microeconomics and Macroeconomics Charts
+    description: >
+      Contains several functions for creating fully-customizable microeconomics or macroeconomics charts,
+      such as supply and demand curves, indifference curves, production-possibility frontiers or Laffer curves.
