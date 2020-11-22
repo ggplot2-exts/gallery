@@ -1124,23 +1124,6 @@ widgets:
       Attempts to solve the lack of multiple colour scales in ggplot2 using a intuitive and familiar interface.
 
  -
-    name: ggcor
-    thumbnail: images/ggcor.png
-    url: https://github.com/houyunhuang/ggcor
-    jslibs: >
-    ghuser: houyunhuang
-    ghrepo: ggcor
-    tags: visualization,correlation,mantel-test,co-network
-    cran: false
-    release: 0.9.2.11
-    examples: https://github.com/houyunhuang/ggcor
-    ghauthor: houyunhuang
-    short: >
-      Extended tools for correlation analysis and visualization.
-    description: >
-      This package can be used to visualize simply and directly a correlation matrix based on 'ggplot2'.
-
- -
     name: ggh4x
     thumbnail: images/teunbrand-ggh4x.png
     url: https://github.com/teunbrand/ggh4x
