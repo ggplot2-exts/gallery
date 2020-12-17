@@ -1428,3 +1428,24 @@ widgets:
     description: >
       Contains several functions for creating fully-customizable microeconomics or macroeconomics charts,
       such as supply and demand curves, indifference curves, production-possibility frontiers or Laffer curves.
+
+
+ -
+    name: ComplexUpset
+    thumbnail: images/krassowski-complex-upset.png
+    url: https://github.com/krassowski/complex-upset
+    jslibs: >
+    ghuser: krassowski
+    ghrepo: complex-upset
+    tags: visualization,venn,set,intersections,venn-diagram,upset
+    cran: true
+    release: 0.8.0
+    examples: https://krassowski.github.io/complex-upset/articles/Examples_R.html
+    ghauthor: krassowski
+    short: >
+      Visualize set intersections and add `ggplot2` annotations
+    description: >
+      UpSet plots are an improvement over Venn Diagram for set overlap visualizations.
+      Striving to bring the best of the 'UpSetR' and 'ggplot2', this package offers a way to create
+      complex overlap visualisations, using simple and familiar tools, i.e. geoms of 'ggplot2'.
+      For introduction to UpSet concept, see Lex et al. (2014).
