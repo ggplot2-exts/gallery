@@ -256,9 +256,9 @@ widgets:
     thumbnail: images/ggpmisc.png
     url: https://docs.r4photobiology.info/ggpmisc
     jslibs: >
-    ghuser:
-    ghrepo:
-    tags: visualization,general,model fit,anova,table
+    ghuser: aphalo
+    ghrepo: ggpmisc
+    tags: annotations,insets,equations,anova,table
     cran: true
     release:
     examples: https://docs.r4photobiology.info/ggpmisc/articles
