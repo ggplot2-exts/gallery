@@ -256,17 +256,16 @@ widgets:
     thumbnail: images/ggpmisc.png
     url: https://docs.r4photobiology.info/ggpmisc
     jslibs: >
-    ghuser:
-    ghrepo:
-    tags: visualization,general,model fit,anova,table
+    ghuser: aphalo
+    ghrepo: ggpmisc
+    tags: annotations,insets,equations,tables
     cran: true
     release:
     examples: https://docs.r4photobiology.info/ggpmisc/articles
-    ghauthor: aphalo
+    ghauthor: Pedro J. Aphalo
     short: >
-      Annotate plots with fitted model equations, ANOVA table, summary table;
-      find and label peaks and valleys, compute quadrant counts; filter
-      observations by local density.
+      Annotations: model equations, ANOVA table, summary table;
+      tables, plots and grobs as insets.
     description: >
       Package ‘ggpmisc’ (Miscellaneous Extensions to ‘ggplot2’) is a set of
       extensions to R package ‘ggplot2’ (>= 3.0.0) with emphasis on annotations
