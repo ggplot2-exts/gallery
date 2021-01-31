@@ -1445,3 +1445,24 @@ widgets:
       Striving to bring the best of the 'UpSetR' and 'ggplot2', this package offers a way to create
       complex overlap visualisations, using simple and familiar tools, i.e. geoms of 'ggplot2'.
       For introduction to UpSet concept, see Lex et al. (2014).
+
+ -
+    name: ggchromatic
+    thumbnail: images/teunbrand-ggchromatic.png
+    url: https://teunbrand.github.io/ggchromatic/
+    jslibs: >
+    ghuser: teunbrand
+    ghrepo: ggchromatic
+    tags: visualization,scales
+    cran: false
+    release: 0.0.1.0
+    examples: https://teunbrand.github.io/ggchromatic/
+    ghauthor: teunbrand
+    short: >
+      Colourspace Scales for 'ggplot2'
+    description: >
+      The 'ggchromatic' package provides additional colour and fill scales to 
+      use with 'ggplot2'. Using the 'ggplot2' extension system, so called 
+      chromatic scales are introduced that map a mix of continuous and discrete 
+      variables to the channels of different colour spaces. 
+
