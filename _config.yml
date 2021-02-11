@@ -1125,14 +1125,14 @@ widgets:
  -
     name: ggh4x
     thumbnail: images/teunbrand-ggh4x.png
-    url: https://github.com/teunbrand/ggh4x
+    url: https://teunbrand.github.io/ggh4x/
     jslibs: >
     ghuser: teunbrand
     ghrepo: ggh4x
     tags: visualization,general,scales,facets
-    cran: false
-    release: 0.1.0
-    examples: https://github.com/teunbrand/ggh4x
+    cran: true
+    release: 0.1.2.1
+    examples: https://teunbrand.github.io/ggh4x/articles/ggh4x.html
     ghauthor: teunbrand
     short: >
       Options for tailored facets, multiple colourscales and miscellaneous
