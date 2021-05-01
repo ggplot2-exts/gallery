@@ -757,7 +757,7 @@ widgets:
     ghuser: thomasp85
     ghrepo: patchwork
     tags: visualization,composition
-    cran: false
+    cran: true
     examples:
     ghauthor: thomasp85
     short: >
