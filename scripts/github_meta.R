@@ -17,7 +17,9 @@ widgets <- yml$widgets
 idx <- vapply(widgets, function(x) !is.null(x$ghuser), FUN.VALUE = logical(1))
 widgets <- widgets[idx]
 
-meta <- lapply(widgets, function(wdgt) {
+available_pkgs <- available.packages()[, "Package"]
+
+meta <- lapply(widgets[1:2], function(wdgt) {
   # if it's not hosted on GitHub, return 0
   if (is.null(wdgt$ghuser))
     return(list(stargazers_count = 0)) 
@@ -31,7 +33,10 @@ meta <- lapply(widgets, function(wdgt) {
   
   Sys.sleep(1)
   
-  res[c("stargazers_count", "open_issues_count", "forks_count", "watchers_count")]
+  # check if the package is on CRAN
+  res$cran <- wdgt$name %in% available_pkgs
+  
+  res[c("cran", "stargazers_count", "open_issues_count", "forks_count", "watchers_count")]
 })
 
 nm <- vapply(widgets, function(x) x$name, FUN.VALUE = character(1))
