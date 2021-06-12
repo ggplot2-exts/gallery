@@ -1,4 +1,4 @@
-# install.packages(c("yaml", "jsonlite", "devtools", "gh"))
+# install.packages(c("yaml", "jsonlite", "rlang", "gh"))
 # set environment variable GITHUB_PAT
 
 suppressMessages(library(yaml))
@@ -19,7 +19,7 @@ widgets <- widgets[idx]
 
 available_pkgs <- available.packages()[, "Package"]
 
-meta <- lapply(widgets[1:2], function(wdgt) {
+meta <- lapply(widgets, function(wdgt) {
   # if it's not hosted on GitHub, return 0
   if (is.null(wdgt$ghuser))
     return(list(stargazers_count = 0)) 
@@ -35,7 +35,7 @@ meta <- lapply(widgets[1:2], function(wdgt) {
   
   # check if the package is on CRAN
   res$cran <- wdgt$name %in% available_pkgs
-  
+
   res[c("cran", "stargazers_count", "open_issues_count", "forks_count", "watchers_count")]
 })
 
