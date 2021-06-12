@@ -258,10 +258,10 @@ widgets:
     jslibs: >
     ghuser: aphalo
     ghrepo: gginnards
-    tags: grammar extensions, layer manipulation, debug
+    tags: grammar extensions,layer manipulation,debug
     cran: true
     release:
-    examples: https://docs.r4photobiology.info/gginnards
+    examples: https://docs.r4photobiology.info/gginnards/articles
     ghauthor: aphalo
     short: >
       Find, delete, insert and move plot layers. Delete unused data from the
@@ -280,7 +280,7 @@ widgets:
     jslibs: >
     ghuser: aphalo
     ghrepo: ggpp
-    tags: grammar extensions, plot insets, position nudge, npc
+    tags: grammar extensions,plot insets,position nudge,npc
     cran: true
     release:
     examples: https://docs.r4photobiology.info/ggpp/articles
@@ -308,7 +308,7 @@ widgets:
     cran: true
     release:
     examples: https://docs.r4photobiology.info/ggpmisc/articles
-    ghauthor: Pedro J. Aphalo
+    ghauthor: aphalo
     short: >
       Annotate plots with fitted model equations, ANOVA tables, summary tables;
       find and label peaks and valleys; annotations support grouping and facets.
