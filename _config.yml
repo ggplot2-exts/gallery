@@ -252,32 +252,73 @@ widgets:
     description: >
 
  -
+    name: gginnards
+    thumbnail: images/gginnards.png
+    url: https://docs.r4photobiology.info/gginnards
+    jslibs: >
+    ghuser: aphalo
+    ghrepo: gginnards
+    tags: grammar extensions, layer manipulation, debug
+    cran: true
+    release:
+    examples: https://docs.r4photobiology.info/gginnards
+    ghauthor: aphalo
+    short: >
+      Find, delete, insert and move plot layers. Delete unused data from the
+      data object stored within a ggplot object. Dump data to the R console.
+    description: >
+      Package ‘gginnards’ is a set of extensions to R package ‘ggplot2’ 
+      (>= 3.0.0). Provides tools making easy to edit and explore ggplot objects.
+      It also provides stats and geom that can be used to dump the data input 
+      to geoms and stats to the R console or to summarize it using arbitrary
+      functions and then dumping the summary to the R console.
+
+ -
+    name: ggpp
+    thumbnail: images/ggpp.png
+    url: https://docs.r4photobiology.info/ggpp
+    jslibs: >
+    ghuser: aphalo
+    ghrepo: ggpp
+    tags: grammar extensions, plot insets, position nudge, npc
+    cran: true
+    release:
+    examples: https://docs.r4photobiology.info/ggpp/articles
+    ghauthor: aphalo
+    short: >
+      Add plots, tables and grobs as plot insets; nudge labels away from a focal
+      point or line; filter observations by local density.
+    description: >
+      Package ‘ggpp’ (Grammar Extensions) is a set of extensions to 
+      R package ‘ggplot2’ (>= 3.0.0). Provides `geom_plot()`, `geom_grob()`, 
+      `geom_table()` and `stat_fmt_tb()` for insets. Constructors ggplot.ts()` 
+      and `ggplot.xts()`. Geometries for margin annotations. Selective 
+      annotation of observations in high/low density plot regions and nudging  
+      away from lines or focal points, compatible with `geom_text_repel()` and 
+      `geom_label_repel()` from package ‘ggrepel’.
+
+ -
     name: ggpmisc
     thumbnail: images/ggpmisc.png
     url: https://docs.r4photobiology.info/ggpmisc
     jslibs: >
     ghuser: aphalo
     ghrepo: ggpmisc
-    tags: annotations,insets,equations,tables
+    tags: visualization,general,model fit,anova,table
     cran: true
     release:
     examples: https://docs.r4photobiology.info/ggpmisc/articles
     ghauthor: Pedro J. Aphalo
     short: >
-      Annotations: model equations, ANOVA table, summary table;
-      tables, plots and grobs as insets.
+      Annotate plots with fitted model equations, ANOVA tables, summary tables;
+      find and label peaks and valleys; annotations support grouping and facets.
     description: >
       Package ‘ggpmisc’ (Miscellaneous Extensions to ‘ggplot2’) is a set of
       extensions to R package ‘ggplot2’ (>= 3.0.0) with emphasis on annotations
-      and highlighting related to fitted models and data summaries. To
-      complement these, the widely useful `geom_table()` and `stat_fmt_tb()` are
-      defined as well as ggplot constructors for time series objects. The
-      provided `ggplot.ts()` and `ggplot.xts()` use `try_tibble()` which is also
-      exported and accepts objects of additional classes as input. Statistics
-      useful for highlighting and/or annotating individual data points in
-      regions of plot panels with high/low densities of observations. These
-      stats are designed to work well together with `geom_text_repel()` and
-      `geom_label_repel()` from package ‘ggrepel’.
+      and highlighting related to fitted models and data summaries. scales
+      suitable for volcano and quadrant plots. Stats for locating peaks and
+      valleys. See also packages 'gginnards' and 'ggpp' for functions previously
+      included in 'ggpmisc'.
 
  -
     name: geomnet
