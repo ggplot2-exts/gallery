@@ -49,6 +49,7 @@ jobs:
 
       - name: Update and commit
         run: |
+          Rscript ./scripts/github_meta.R
           git config --local user.name "$GITHUB_ACTOR"
           git config --local user.email "$GITHUB_ACTOR@users.noreply.github.com"
           git add ./github_meta.json
