@@ -42,7 +42,9 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pak::pkg_install(c("yaml", "jsonlite", "devtools", "gh"))
+          pak::pkg_install("yaml")
+          pak::pkg_install("jsonlite")
+          pak::pkg_install("gh")
         shell: Rscript {0}
 
       - name: Install package
