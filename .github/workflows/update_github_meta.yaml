@@ -1,0 +1,57 @@
+on:
+  push:
+    branches:
+      - gh-pages
+  schedule:
+    - cron: '15 14 * * *'
+
+name: "Update github_meta.json"
+
+jobs:
+  update_github_meta:
+    runs-on: ubuntu-20.04
+    env:
+      RSPM: https://packagemanager.rstudio.com/cran/__linux__/focal/latest
+      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - uses: r-lib/actions/setup-r@v1
+        id: install-r
+
+      - name: Install pak and query dependencies
+        run: |
+          install.packages("pak", repos = "https://r-lib.github.io/p/pak/dev/")
+        shell: Rscript {0}
+
+      - name: Restore R package cache
+        uses: actions/cache@v2
+        with:
+          path: |
+            ${{ env.R_LIBS_USER }}/*
+            !${{ env.R_LIBS_USER }}/pak
+          key: ubuntu-20.04-${{ steps.install-r.outputs.installed-r-version }}-1
+
+      - name: Install system dependencies
+        if: runner.os == 'Linux'
+        run: |
+          pak::pkg_system_requirements("yaml",     execute = TRUE)
+          pak::pkg_system_requirements("jsonlite", execute = TRUE)
+          pak::pkg_system_requirements("gh",       execute = TRUE)
+          pak::pkg_system_requirements("rlang",    execute = TRUE)
+        shell: Rscript {0}
+
+      - name: Install dependencies
+        run: |
+          pak::pkg_install(c("yaml", "jsonlite", "gh", "rlang"))
+        shell: Rscript {0}
+
+      - name: Update and commit
+        run: |
+          Rscript ./scripts/github_meta.R
+          git config --local user.name "$GITHUB_ACTOR"
+          git config --local user.email "$GITHUB_ACTOR@users.noreply.github.com"
+          git add ./github_meta.json
+          git commit -m "Update github_meta.json [skip ci]"
+          git push origin gh-pages
