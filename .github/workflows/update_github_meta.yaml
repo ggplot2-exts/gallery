@@ -3,7 +3,7 @@ on:
     branches:
       - gh-pages
   schedule:
-    - cron: "@daily"
+    - cron: '15 14 * * *'
 
 name: "Update github_meta.json"
 
