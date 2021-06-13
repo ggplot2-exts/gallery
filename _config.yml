@@ -822,6 +822,31 @@ widgets:
     description: >
       Quiver plots are common a common visualisation method for vector fields. 'ggquiver' provides a new geom which simplifies the creation of these plots, with scaling and centering functionality.
 
+
+ -
+    name: ggsignif
+    thumbnail: images/ggsignif.png
+    url: https://github.com/const-ae/ggsignif
+    jslibs: >
+    ghuser: const-ae
+    ghrepo: ggsignif
+    tags: visualization,multiple comparisons
+    cran: true
+    examples:
+    ghauthor: const-ae and IndrajeetPatil
+    short: >
+      Significance Brackets for 'ggplot2'.
+    description: >
+      Enrich your 'ggplots' with group-wise comparisons.
+      This package provides an easy way to indicate if two groups are
+      significantly different. Commonly this is shown by a bracket on top
+      connecting the groups of interest which itself is annotated with the
+      level of significance (NS, *, **, ***).  The package provides a single
+      layer (geom_signif()) that takes the groups for comparison and the
+      test (t.test(), wilcox.text() etc.) as arguments and adds the
+      annotation to the plot.
+
+
  -
     name: ggdag
     thumbnail: images/ggdag.png
@@ -1533,3 +1558,20 @@ widgets:
       3. Simple and easy to operate; 
       4. Optimization of clustering tree visualization.
 
+ -
+    name: see
+    thumbnail: images/see.png
+    url: https://github.com/easystats/see
+    jslibs: >
+    ghuser: easystats
+    ghrepo: see
+    tags: visualizations,statistics
+    cran: true
+    examples: https://easystats.github.io/see/articles/
+    ghauthor: easystats
+    short: Visualisation Toolbox for 'easystats' and Extra Geoms, Themes and Color Palettes for 'ggplot2'
+    description: >
+      Provides plotting utilities supporting
+      easystats-packages (<https://github.com/easystats/easystats>) and some
+      extra themes, geoms, and scales for 'ggplot2'. Color scales are based
+      on <https://www.materialui.co/colors>.
