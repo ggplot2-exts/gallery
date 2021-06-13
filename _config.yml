@@ -258,7 +258,7 @@ widgets:
     jslibs: >
     ghuser: aphalo
     ghrepo: gginnards
-    tags: grammar extensions,layer manipulation,debug
+    tags: layer manipulation,debugging
     cran: true
     release:
     examples: https://docs.r4photobiology.info/gginnards/articles
@@ -280,14 +280,14 @@ widgets:
     jslibs: >
     ghuser: aphalo
     ghrepo: ggpp
-    tags: grammar extensions,plot insets,position nudge,npc
+    tags: annotations,insets,nudge,npc
     cran: true
     release:
     examples: https://docs.r4photobiology.info/ggpp/articles
     ghauthor: aphalo
     short: >
-      Add plots, tables and grobs as plot insets; nudge labels away from a focal
-      point or line; filter observations by local density.
+      Plots, tables and grobs as insets; nudge away from focal
+      point or line; filter by local density.
     description: >
       Package ‘ggpp’ (Grammar Extensions) is a set of extensions to 
       R package ‘ggplot2’ (>= 3.0.0). Provides `geom_plot()`, `geom_grob()`, 
@@ -304,14 +304,14 @@ widgets:
     jslibs: >
     ghuser: aphalo
     ghrepo: ggpmisc
-    tags: visualization,general,model fit,anova,table
+    tags: model equation,anova,summary
     cran: true
     release:
     examples: https://docs.r4photobiology.info/ggpmisc/articles
     ghauthor: aphalo
     short: >
-      Annotate plots with fitted model equations, ANOVA tables, summary tables;
-      find and label peaks and valleys; annotations support grouping and facets.
+      Annotate with fitted model equations, ANOVA tables, summary tables;
+      find and label peaks and valleys.
     description: >
       Package ‘ggpmisc’ (Miscellaneous Extensions to ‘ggplot2’) is a set of
       extensions to R package ‘ggplot2’ (>= 3.0.0) with emphasis on annotations
