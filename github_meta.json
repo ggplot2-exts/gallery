@@ -114,7 +114,7 @@
   "ggpmisc_stars": {
     "cran": true,
     "stargazers_count": 15,
-    "open_issues_count": 3,
+    "open_issues_count": 4,
     "forks_count": 1,
     "watchers_count": 15
   },
@@ -233,7 +233,7 @@
   "survminer_stars": {
     "cran": true,
     "stargazers_count": 335,
-    "open_issues_count": 179,
+    "open_issues_count": 181,
     "forks_count": 118,
     "watchers_count": 335
   },
