@@ -639,6 +639,48 @@ widgets:
       Contains the function 'ggsurvplot()' for drawing easily beautiful and 'ready-to-publish' survival curves with the 'number at risk' table. Other functions are also available for visual examinations of 'cox' model assumptions.
 
  -
+    name: ggcorrplot
+    thumbnail: images/ggcorrplot.png
+    url: https://rpkgs.datanovia.com/ggcorrplot/
+    jslibs: >
+    ghuser: kassambara
+    ghrepo: ggcorrplot
+    tags: visualization,correlation
+    cran: true
+    release:
+    examples: https://rpkgs.datanovia.com/ggcorrplot/
+    ghauthor: kassambara
+    short: >
+      Visualization of a correlation matrix using 'ggplot2'
+    description: >
+      The 'ggcorrplot' package can be used to visualize easily a
+      correlation matrix using 'ggplot2'. It provides a solution for reordering the
+      correlation matrix and displays the significance level on the plot. It also
+      includes a function for computing a matrix of correlation p-values.
+
+ -
+    name: ggpubr
+    thumbnail: images/ggpubr.png
+    url: https://rpkgs.datanovia.com/ggpubr/
+    jslibs: >
+    ghuser: kassambara
+    ghrepo: ggpubr
+    tags: visualization,statistics
+    cran: true
+    release:
+    examples: https://rpkgs.datanovia.com/ggpubr/
+    ghauthor: kassambara
+    short: >
+      ‘ggplot2’ Based Publication Ready Plots
+    description: >
+      The 'ggplot2' package is excellent and flexible for elegant data
+      visualization in R. However the default generated plots requires some formatting
+      before we can send them for publication. Furthermore, to customize a 'ggplot',
+      the syntax is opaque and this raises the level of difficulty for researchers
+      with no advanced R programming skills. 'ggpubr' provides some easy-to-use
+      functions for creating and customizing 'ggplot2'- based publication ready plots.
+
+ -
     name: ggthemr
     thumbnail: images/cttobin-ggthemr.png
     url: https://github.com/cttobin/ggthemr
