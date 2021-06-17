@@ -402,12 +402,37 @@ widgets:
     tags: visualization,general
     cran: true
     release:
-    examples:
+    examples: https://gganimate.com
     ghauthor: thomasp85
     short: >
       A Grammar of Animated Graphics.
     description: >
-
+      The grammar of graphics as implemented in the 'ggplot2' package has
+      been successful in providing a powerful API for creating static 
+      visualisation. In order to extend the API for animated graphics this package
+      provides a completely new set of grammar, fully compatible with 'ggplot2' 
+      for specifying transitions and animations in a flexible and extensible way.
+ 
+  -
+    name: ggfx
+    thumbnail: images/ggfx.png
+    url: https://ggfx.data-imaginist.com/
+    jslibs: >
+    ghuser: thomasp85
+    ghrepo: ggfx
+    tags: visualization,general
+    cran: true
+    release:
+    examples: https://ggfx.data-imaginist.com/
+    ghauthor: thomasp85
+    short: >
+      Pixel Filters for 'ggplot2' and 'grid'
+    description: >
+      Provides a range of filters that can be applied to layers from the 
+      'ggplot2' package and its extensions, along with other graphic elements such 
+      as guides and theme elements. The filters are applied at render time and 
+      thus uses the exact pixel dimensions needed.
+ 
  -
     name: plotROC
     thumbnail: images/plotROC.png
@@ -421,9 +446,28 @@ widgets:
     examples:
     ghauthor: sachsmc
     short: >
-      plotROC provides functions to generate an interactive ROC curve plot for web use, and print versions.
+      plotROC provides functions to generate an interactive ROC curve plot 
+      for web use, and print versions.
     description: >
 
+ -
+    name: ggbump
+    thumbnail: images/ggbump.png
+    url: https://github.com/davidsjoberg/ggbump
+    jslibs: >
+    ghuser: davidsjoberg
+    ghrepo: ggbump
+    tags: visualization,general,geoms
+    cran: true
+    release:
+    examples:
+    ghauthor: davidsjoberg
+    short: >
+      Bump Chart and Sigmoid Curves.
+    description: >
+      A geom for ggplot to create bump plots. Can be good to use for showing 
+      rank over time.
+      
  -
     name: ggthemes
     thumbnail: images/ggthemes.png
@@ -474,23 +518,22 @@ widgets:
     ghrepo: ggstatsplot
     tags: visualization,statistics
     cran: true
-    release: 0.0.8
+    release: 
     examples: https://indrajeetpatil.github.io/ggstatsplot/
     ghauthor: IndrajeetPatil
     short: >
       'ggstatsplot' provides a collection of functions to enhance 'ggplot2'
       plots with results from statistical tests.
     description: >
-      Extension of 'ggplot2', 'ggstatsplot' creates
-      graphics with details from statistical tests included in the plots
-      themselves. It is targeted primarily at behavioral sciences community
-      to provide a one-line code to generate information-rich plots for
-      statistical analysis. of continuous (violin plots, scatterplots,
-      histograms) or categorical (pie and bar charts) data. Currently, it
-      supports only the most common types of statistical tests: parametric,
-      nonparametric, robust, and bayesian versions of t-test/anova,
-      correlation analyses, contingency table analysis, and regression
-      analyses.
+      Extension of 'ggplot2', 'ggstatsplot' creates graphics with
+      details from statistical tests included in the plots themselves. It
+      provides an easier syntax to generate information-rich plots for
+      statistical analysis of continuous (violin plots, scatterplots,
+      histograms, dot plots, dot-and-whisker plots) or categorical (pie and
+      bar charts) data. Currently, it supports the most common types of
+      statistical approaches and tests: parametric, nonparametric, robust,
+      and Bayesian versions of t-test/ANOVA, correlation analyses,
+      contingency table analysis, meta-analysis, and regression analyses.
 
  -
     name: ggnetwork
@@ -539,6 +582,30 @@ widgets:
     short: >
       ggradar allows you to build radar charts with ggplot2.
     description: >
+
+ -
+    name: ggx
+    thumbnail: images/ggx.png
+    url: https://github.com/brandmaier/ggx
+    jslibs: >
+    ghuser: brandmaier
+    ghrepo: ggx
+    tags: visualization,nlp
+    cran: true
+    release:
+    examples:
+    ghauthor: brandmaier
+    short: >
+      A Natural Language Interface to 'ggplot2'.
+    description: >
+      The 'ggplot2' package is the state-of-the-art toolbox for 
+      creating and formatting graphs. However, it is easy to forget 
+      how certain formatting commands are named and sometimes users 
+      find themselves asking: How do you rotate the x-axis labels again? 
+      Or how do you hide the legend...? This package allows users to issue 
+      natural language commands related to theme-related styling of plots 
+      (colors, font size and such), which then are translated into valid 
+      'ggplot2' commands.
 
  -
     name: ggTimeSeries
