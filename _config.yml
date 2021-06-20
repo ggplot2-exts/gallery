@@ -119,6 +119,65 @@ widgets:
       ggedit is aimed to allows novice and expert ggplot2 users to interactively edit ggplot layers, scales and themes aesthetics, while returning objects and scripts of updated plots using shiny gadgets and modules.
 
  -
+    name: ggpage
+    thumbnail: images/ggpage.png
+    url: https://emilhvitfeldt.github.io/ggpage/
+    jslibs: >
+    ghuser: emilhvitfeldt
+    ghrepo: ggpage
+    tags: visualization,text
+    cran: true
+    release:
+    examples: https://emilhvitfeldt.github.io/ggpage/
+    ghauthor: emilhvitfeldt
+    short: >
+      Creates Page Layout Visualizations.
+    description: >
+      Facilitates the creation of page layout
+      visualizations in which words are represented as rectangles with sizes
+      relating to the length of the words. Which then is divided in lines
+      and pages for easy overview of up to quite large texts.
+
+ -
+    name: ggbreak
+    thumbnail: images/ggbreak.png
+    url: https://github.com/YuLab-SMU/ggbreak
+    jslibs: >
+    ghuser: YuLab-SMU
+    ghrepo: ggbreak
+    tags: visualization, geoms
+    cran: true
+    release:
+    examples: https://cran.r-project.org/web/packages/ggbreak/vignettes/ggbreak.html
+    ghauthor: YuLab-SMU
+    short: >
+      Set Axis Break for 'ggplot2'
+    description: >
+      An implementation of scale functions for setting axis breaks of a 'gg' plot.
+
+ -
+    name: ggimg
+    thumbnail: images/ggimg.png
+    url: https://github.com/statsmaths/ggimg
+    jslibs: >
+    ghuser: statsmaths
+    ghrepo: ggimg
+    tags: visualization, geoms
+    cran: true
+    release:
+    examples: 
+    ghauthor: statsmaths
+    short: >
+      Graphics Layers for Plotting Image Data with ggplot2.
+    description: >
+      Provides two new layer types for displaying image data as layers
+      within the Grammar of Graphics framework. Displays images using either a
+      rectangle interface, with a fixed bounding box, or a point interface using a
+      central point and general size parameter. Images can be given as local
+      JPEG or PNG files, external resources, or as a list column containing
+      raster image data.
+
+ -
     name: gganatogram
     thumbnail: images/gganatogram.png
     url: https://github.com/jespermaag/gganatogram
@@ -131,9 +190,13 @@ widgets:
     examples:
     ghauthor: jespermaag
     short: >
-      gganatogram makes it possible to visualise tissues for different organisms or cell compartments.
+      gganatogram makes it possible to visualise tissues for different organisms 
+      or cell compartments.
     description: >
-      gganatogram is aimed to users who would like to visualise certain organs or cell compartments based on values, or to highlight tissues. This can be useful when the user easily want to display tissue information e.g. RNA-seq, pharmacology or mutations per tissue.
+      gganatogram is aimed to users who would like to visualise certain organs 
+      or cell compartments based on values, or to highlight tissues. This can be 
+      useful when the user easily want to display tissue information e.g. RNA-seq, 
+      pharmacology or mutations per tissue.
 
 
  -
