@@ -766,7 +766,68 @@ widgets:
     short: >
       Drawing Survival Curves using 'ggplot2'
     description: >
-      Contains the function 'ggsurvplot()' for drawing easily beautiful and 'ready-to-publish' survival curves with the 'number at risk' table. Other functions are also available for visual examinations of 'cox' model assumptions.
+      Contains the function 'ggsurvplot()' for drawing easily beautiful and 
+      'ready-to-publish' survival curves with the 'number at risk' table. 
+      Other functions are also available for visual examinations of 'cox' model 
+      assumptions.
+
+ -
+    name: ggeasy
+    thumbnail: images/ggeasy.png
+    url: https://jonocarroll.github.io/ggeasy/
+    jslibs: >
+    ghuser: jonocarroll
+    ghrepo: ggeasy
+    tags: visualization,teaching
+    cran: true
+    release:
+    examples: https://jonocarroll.github.io/ggeasy/
+    ghauthor: jonocarroll
+    short: >
+      Easy Access to 'ggplot2' Commands
+    description: >
+      Provides a series of aliases to commonly used but difficult 
+      to remember 'ggplot2' sequences.
+
+ -
+    name: simplevis
+    thumbnail: images/simplevis.png
+    url: https://statisticsnz.github.io/simplevis/index.html
+    jslibs: >
+    ghuser: statisticsnz
+    ghrepo: simplevis
+    tags: visualization,teaching
+    cran: true
+    release:
+    examples: https://statisticsnz.github.io/simplevis/index.html
+    ghauthor: statisticsnz
+    short: >
+      Simple 'ggplot2' Visualisation with Less Brainpower and Typing
+    description: >
+      Wrapper functions to make 'ggplot2' visualisation easier with 
+      less brainpower and typing.
+
+ -
+    name: ggside
+    thumbnail: images/ggside.png
+    url: https://github.com/jtlandis/ggside
+    jslibs: >
+    ghuser: jtlandis
+    ghrepo: ggside
+    tags: visualization,correlation
+    cran: true
+    release:
+    examples: https://cran.r-project.org/web/packages/ggside/index.html
+    ghauthor: jtlandis
+    short: >
+      Side Grammar Graphics
+    description: >
+      The grammar of graphics as shown in 'ggplot2' has provided
+      an expressive API for users to build plots. 'ggside' extends 'ggplot2' 
+      by allowing users to add graphical information about one of the main panel's
+      axis using a familiar 'ggplot2' style API with tidy data. This package is
+      particularly useful for visualizing metadata on a discrete axis, or summary
+      graphics on a continuous axis such as a boxplot or a density distribution.
 
  -
     name: ggcorrplot
