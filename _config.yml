@@ -1808,3 +1808,23 @@ widgets:
       easystats-packages (<https://github.com/easystats/easystats>) and some
       extra themes, geoms, and scales for 'ggplot2'. Color scales are based
       on <https://www.materialui.co/colors>.
+
+ -
+    name: directlabels
+    thumbnail: images/directlabels.png
+    url: http://tdhock.github.io/directlabels
+    jslibs: >
+    ghuser: tdhock
+    ghrepo: directlabels
+    tags: visualization, direct-labels, positioning, general, plot-labelling
+    cran: true
+    examples: https://tdhock.github.io/directlabels/docs/index.html, https://tdhock.github.io/directlabels/examples.html
+    ghauthor: tdhock
+    short: Framework for adding direct labels to lattice or ggplot2 plots.
+    description: >
+      Modern plotting packages like lattice and ggplot2 show automatic legends 
+      based on the variable specified for color, but these legends can be often
+      confusing if there are too many colors. To help with this, the directlabels
+      package provides direct variable-labelling on intuitively placed positions
+      which are a useful, clear and more attractive alternative to those confusing 
+      legends observed in many common plots.
