@@ -1818,7 +1818,7 @@ widgets:
     ghrepo: directlabels
     tags: visualization, direct-labels, positioning, general, plot-labelling
     cran: true
-    examples: https://tdhock.github.io/directlabels/docs/index.html
+    examples: https://tdhock.github.io/directlabels/docs/index.html, https://tdhock.github.io/directlabels/examples.html
     ghauthor: tdhock
     short: Framework for adding direct labels to lattice or ggplot2 plots.
     description: >
