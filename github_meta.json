@@ -9,7 +9,7 @@
   "xmrr_stars": {
     "cran": true,
     "stargazers_count": 2,
-    "open_issues_count": 2,
+    "open_issues_count": 3,
     "forks_count": 0,
     "watchers_count": 2
   },
@@ -30,7 +30,7 @@
   "ggdist_stars": {
     "cran": true,
     "stargazers_count": 257,
-    "open_issues_count": 26,
+    "open_issues_count": 28,
     "forks_count": 9,
     "watchers_count": 257
   },
@@ -72,7 +72,7 @@
   "ggforce_stars": {
     "cran": true,
     "stargazers_count": 669,
-    "open_issues_count": 109,
+    "open_issues_count": 110,
     "forks_count": 81,
     "watchers_count": 669
   },
@@ -85,10 +85,10 @@
   },
   "ggiraph_stars": {
     "cran": true,
-    "stargazers_count": 516,
+    "stargazers_count": 517,
     "open_issues_count": 10,
     "forks_count": 58,
-    "watchers_count": 516
+    "watchers_count": 517
   },
   "ggmuller_stars": {
     "cran": true,
@@ -107,16 +107,16 @@
   "ggrepel_stars": {
     "cran": true,
     "stargazers_count": 889,
-    "open_issues_count": 27,
+    "open_issues_count": 28,
     "forks_count": 84,
     "watchers_count": 889
   },
   "ggraph_stars": {
     "cran": true,
-    "stargazers_count": 845,
-    "open_issues_count": 63,
+    "stargazers_count": 846,
+    "open_issues_count": 64,
     "forks_count": 93,
-    "watchers_count": 845
+    "watchers_count": 846
   },
   "gginnards_stars": {
     "cran": true,
@@ -169,10 +169,10 @@
   },
   "gganimate_stars": {
     "cran": true,
-    "stargazers_count": 1686,
+    "stargazers_count": 1687,
     "open_issues_count": 73,
     "forks_count": 299,
-    "watchers_count": 1686
+    "watchers_count": 1687
   },
   "ggfx_stars": {
     "cran": true,
@@ -190,24 +190,24 @@
   },
   "ggbump_stars": {
     "cran": true,
-    "stargazers_count": 330,
+    "stargazers_count": 331,
     "open_issues_count": 1,
     "forks_count": 22,
-    "watchers_count": 330
+    "watchers_count": 331
   },
   "ggthemes_stars": {
     "cran": true,
-    "stargazers_count": 1126,
+    "stargazers_count": 1128,
     "open_issues_count": 3,
     "forks_count": 213,
-    "watchers_count": 1126
+    "watchers_count": 1128
   },
   "ggstatsplot_stars": {
     "cran": true,
-    "stargazers_count": 1221,
+    "stargazers_count": 1222,
     "open_issues_count": 16,
     "forks_count": 154,
-    "watchers_count": 1221
+    "watchers_count": 1222
   },
   "ggnetwork_stars": {
     "cran": true,
@@ -226,7 +226,7 @@
   "ggradar_stars": {
     "cran": false,
     "stargazers_count": 237,
-    "open_issues_count": 21,
+    "open_issues_count": 22,
     "forks_count": 75,
     "watchers_count": 237
   },
@@ -289,7 +289,7 @@
   "simplevis_stars": {
     "cran": true,
     "stargazers_count": 26,
-    "open_issues_count": 16,
+    "open_issues_count": 17,
     "forks_count": 5,
     "watchers_count": 26
   },
@@ -379,10 +379,10 @@
   },
   "patchwork_stars": {
     "cran": true,
-    "stargazers_count": 1890,
+    "stargazers_count": 1891,
     "open_issues_count": 44,
     "forks_count": 141,
-    "watchers_count": 1890
+    "watchers_count": 1891
   },
   "ggquiver_stars": {
     "cran": true,
@@ -442,10 +442,10 @@
   },
   "esquisse_stars": {
     "cran": true,
-    "stargazers_count": 1207,
+    "stargazers_count": 1209,
     "open_issues_count": 47,
     "forks_count": 160,
-    "watchers_count": 1207
+    "watchers_count": 1209
   },
   "ggdark_stars": {
     "cran": true,
@@ -478,7 +478,7 @@
   "ggparty_stars": {
     "cran": true,
     "stargazers_count": 127,
-    "open_issues_count": 7,
+    "open_issues_count": 8,
     "forks_count": 11,
     "watchers_count": 127
   },
@@ -533,17 +533,17 @@
   },
   "ggnewsccale_stars": {
     "cran": false,
-    "stargazers_count": 250,
+    "stargazers_count": 251,
     "open_issues_count": 1,
     "forks_count": 16,
-    "watchers_count": 250
+    "watchers_count": 251
   },
   "ggh4x_stars": {
     "cran": true,
-    "stargazers_count": 183,
+    "stargazers_count": 184,
     "open_issues_count": 0,
     "forks_count": 12,
-    "watchers_count": 183
+    "watchers_count": 184
   },
   "ggcharts_stars": {
     "cran": true,
