@@ -721,17 +721,18 @@ widgets:
  -
     name: ggsci
     thumbnail: images/ggsci.png
-    url: http://ggsci.net
+    url: https://nanx.me/ggsci/
     jslibs: >
     ghuser: road2stat
     ghrepo: ggsci
     tags: visualization,general
     cran: true
     release:
-    examples: http://ggsci.net/doc/
+    examples: https://nanx.me/ggsci/
     ghauthor: road2stat
     short: >
-      A collection of ‘ggplot2’ color palettes inspired by scientific journals and science fiction TV shows.
+      A collection of ‘ggplot2’ color palettes inspired by scientific journals 
+      and science fiction TV shows.
     description: >
 
 
