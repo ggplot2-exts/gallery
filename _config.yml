@@ -721,14 +721,14 @@ widgets:
  -
     name: ggsci
     thumbnail: images/ggsci.png
-    url: http://ggsci.net
+    url: https://cran.r-project.org/web/packages/ggsci/index.html
     jslibs: >
     ghuser: road2stat
     ghrepo: ggsci
     tags: visualization,general
     cran: true
     release:
-    examples: http://ggsci.net/doc/
+    examples: https://cran.r-project.org/web/packages/ggsci/vignettes/ggsci.html
     ghauthor: road2stat
     short: >
       A collection of ‘ggplot2’ color palettes inspired by scientific journals and science fiction TV shows.
