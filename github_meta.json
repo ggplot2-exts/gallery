@@ -71,24 +71,24 @@
   },
   "ggforce_stars": {
     "cran": true,
-    "stargazers_count": 671,
+    "stargazers_count": 672,
     "open_issues_count": 110,
     "forks_count": 81,
-    "watchers_count": 671
+    "watchers_count": 672
   },
   "ggalt_stars": {
     "cran": true,
-    "stargazers_count": 572,
+    "stargazers_count": 573,
     "open_issues_count": 44,
     "forks_count": 90,
-    "watchers_count": 572
+    "watchers_count": 573
   },
   "ggiraph_stars": {
     "cran": true,
-    "stargazers_count": 517,
+    "stargazers_count": 518,
     "open_issues_count": 10,
     "forks_count": 58,
-    "watchers_count": 517
+    "watchers_count": 518
   },
   "ggmuller_stars": {
     "cran": true,
@@ -204,10 +204,10 @@
   },
   "ggstatsplot_stars": {
     "cran": true,
-    "stargazers_count": 1228,
-    "open_issues_count": 18,
+    "stargazers_count": 1229,
+    "open_issues_count": 17,
     "forks_count": 152,
-    "watchers_count": 1228
+    "watchers_count": 1229
   },
   "ggnetwork_stars": {
     "cran": true,
@@ -247,7 +247,7 @@
   "ggtree_stars": {
     "cran": false,
     "stargazers_count": 536,
-    "open_issues_count": 70,
+    "open_issues_count": 71,
     "forks_count": 131,
     "watchers_count": 536
   },
@@ -260,10 +260,10 @@
   },
   "ggsci_stars": {
     "cran": true,
-    "stargazers_count": 416,
+    "stargazers_count": 417,
     "open_issues_count": 2,
-    "forks_count": 44,
-    "watchers_count": 416
+    "forks_count": 45,
+    "watchers_count": 417
   },
   "ggmosaic_stars": {
     "cran": true,
@@ -290,7 +290,7 @@
     "cran": true,
     "stargazers_count": 31,
     "open_issues_count": 15,
-    "forks_count": 6,
+    "forks_count": 7,
     "watchers_count": 31
   },
   "ggside_stars": {
@@ -442,10 +442,10 @@
   },
   "esquisse_stars": {
     "cran": true,
-    "stargazers_count": 1213,
-    "open_issues_count": 48,
+    "stargazers_count": 1214,
+    "open_issues_count": 49,
     "forks_count": 160,
-    "watchers_count": 1213
+    "watchers_count": 1214
   },
   "ggdark_stars": {
     "cran": true,
