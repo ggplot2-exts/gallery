@@ -27,6 +27,28 @@ widgets:
       This package computes where all the points would go in the naive implementation, then thins them strategically to greatly reduce overplotting, resulting in much faster plotting.
 
  -
+    name: ggupset
+    thumbnail: images/ggupset.png
+    url: https://github.com/const-ae/ggupset
+    jslibs: >
+    ghuser: const-ae
+    ghrepo: ggupset
+    tags: visualization,upset,combination matrix
+    cran: true
+    release:
+    examples: https://github.com/const-ae/ggupset#example
+    ghauthor: const-ae
+    short: >
+      Combination Matrix Axis for 'ggplot2' to Create 'UpSet' Plots
+    description: >
+      Replace the standard x-axis in 'ggplots' with a combination matrix
+      to visualize complex set overlaps. 'UpSet' has introduced a new way to visualize
+      the overlap of sets as an alternative to Venn diagrams. 
+      This package provides a simple way to produce such plots using 'ggplot2'. 
+      In addition it can convert any categorical axis into a combination
+      matrix axis.
+
+ -
     name: xmrr
     thumbnail: images/xmr_chart.png
     url: https://github.com/Zanidean/xmrr
