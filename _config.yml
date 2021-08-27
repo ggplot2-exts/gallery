@@ -27,6 +27,30 @@ widgets:
       This package computes where all the points would go in the naive implementation, then thins them strategically to greatly reduce overplotting, resulting in much faster plotting.
 
  -
+    name: ggsignif
+    thumbnail: images/ggsignif.png
+    url: https://const-ae.github.io/ggsignif/
+    jslibs: >
+    ghuser: const-ae
+    ghrepo: ggsignif
+    tags: significance,statistics,annotation
+    cran: true
+    release:
+    examples: https://const-ae.github.io/ggsignif/articles/intro.html
+    ghauthor: const-ae
+    short: >
+      Easily add significance brackets to your ggplots
+    description: >
+      Enrich your 'ggplots' with group-wise comparisons.
+      This package provides an easy way to indicate if two groups are
+      significantly different. Commonly this is shown by a bracket on top
+      connecting the groups of interest which itself is annotated with the
+      level of significance (NS, *, **, ***).  The package provides a single
+      layer (geom_signif()) that takes the groups for comparison and the
+      test (t.test(), wilcox.text() etc.) as arguments and adds the
+      annotation to the plot.
+
+ -
     name: xmrr
     thumbnail: images/xmr_chart.png
     url: https://github.com/Zanidean/xmrr
