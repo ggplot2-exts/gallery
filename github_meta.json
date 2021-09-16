@@ -282,7 +282,7 @@
   "survminer_stars": {
     "cran": true,
     "stargazers_count": 352,
-    "open_issues_count": 198,
+    "open_issues_count": 199,
     "forks_count": 123,
     "watchers_count": 352
   },
@@ -450,7 +450,7 @@
   "esquisse_stars": {
     "cran": true,
     "stargazers_count": 1247,
-    "open_issues_count": 52,
+    "open_issues_count": 53,
     "forks_count": 161,
     "watchers_count": 1247
   },
@@ -694,9 +694,9 @@
   },
   "ggHoriPlot_stars": {
     "cran": true,
-    "stargazers_count": 53,
+    "stargazers_count": 55,
     "open_issues_count": 0,
     "forks_count": 0,
-    "watchers_count": 53
+    "watchers_count": 55
   }
 }
