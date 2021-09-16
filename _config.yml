@@ -1851,3 +1851,22 @@ widgets:
       package provides direct variable-labelling on intuitively placed positions
       which are a useful, clear and more attractive alternative to those confusing 
       legends observed in many common plots.
+      
+ -
+    name: ggHoriPlot
+    thumbnail: images/ggHoriPlot.png
+    url: https://github.com/rivasiker/ggHoriPlot
+    jslibs: >
+    ghuser: rivasiker
+    ghrepo: ggHoriPlot
+    tags: visualization,general,horizon-plot,time-series
+    cran: true
+    examples: https://rivasiker.github.io/ggHoriPlot/articles/examples.html
+    ghauthor: rivasiker
+    short: >
+      Horizon Plots for `ggplot2`
+    description: >
+      `ggHoriPlot` is a user-friendly, highly customizable R package for building
+      horizon plots in `ggplot2`, where both the origin of the horizon plot and the 
+      cutpoints of the different intervals can be user-speficied for greater 
+      flexibility. 
