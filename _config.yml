@@ -1319,6 +1319,22 @@ widgets:
       maps, including labelling genes and highlighting subgene regions.
 
  -
+    name: gggenomes
+    thumbnail: images/gggenomes.png
+    url: https://thackl.github.io/gggenomes
+    jslibs: >
+    ghuser: thackl
+    ghrepo: gggenomes
+    tags: visualization,genetics,genomics
+    cran: false
+    examples: https://thackl.github.io/gggenomes/index.html
+    ghauthor: thackl
+    short: >
+      a grammar of graphics for comparative genomics
+    description: >
+      a `ggplot2`-based versatile graphics package for comparative genomics adding dedicated layers for genes, mappings, syntenic regions, ..., and verbs to for example quickly zoom into gene neighborhoods.
+
+ -
     name: treemapify
     thumbnail: images/treemapify.png
     url: https://wilkox.org/treemapify
