@@ -37,7 +37,7 @@
   "ggdist_stars": {
     "cran": true,
     "stargazers_count": 324,
-    "open_issues_count": 32,
+    "open_issues_count": 33,
     "forks_count": 13,
     "watchers_count": 324
   },
@@ -148,10 +148,10 @@
   },
   "geomnet_stars": {
     "cran": false,
-    "stargazers_count": 84,
+    "stargazers_count": 85,
     "open_issues_count": 9,
     "forks_count": 22,
-    "watchers_count": 84
+    "watchers_count": 85
   },
   "ggExtra_stars": {
     "cran": true,
@@ -211,10 +211,10 @@
   },
   "ggstatsplot_stars": {
     "cran": true,
-    "stargazers_count": 1310,
+    "stargazers_count": 1311,
     "open_issues_count": 22,
     "forks_count": 152,
-    "watchers_count": 1310
+    "watchers_count": 1311
   },
   "ggnetwork_stars": {
     "cran": true,
@@ -379,17 +379,17 @@
   },
   "ggalluvial_stars": {
     "cran": true,
-    "stargazers_count": 355,
+    "stargazers_count": 356,
     "open_issues_count": 11,
     "forks_count": 20,
-    "watchers_count": 355
+    "watchers_count": 356
   },
   "patchwork_stars": {
     "cran": true,
-    "stargazers_count": 1944,
+    "stargazers_count": 1945,
     "open_issues_count": 53,
     "forks_count": 147,
-    "watchers_count": 1944
+    "watchers_count": 1945
   },
   "ggquiver_stars": {
     "cran": true,
@@ -449,10 +449,10 @@
   },
   "esquisse_stars": {
     "cran": true,
-    "stargazers_count": 1268,
+    "stargazers_count": 1269,
     "open_issues_count": 53,
     "forks_count": 166,
-    "watchers_count": 1268
+    "watchers_count": 1269
   },
   "ggdark_stars": {
     "cran": true,
@@ -554,10 +554,10 @@
   },
   "ggh4x_stars": {
     "cran": true,
-    "stargazers_count": 231,
+    "stargazers_count": 232,
     "open_issues_count": 2,
     "forks_count": 15,
-    "watchers_count": 231
+    "watchers_count": 232
   },
   "ggcharts_stars": {
     "cran": true,
@@ -659,10 +659,10 @@
   },
   "econocharts_stars": {
     "cran": false,
-    "stargazers_count": 193,
+    "stargazers_count": 194,
     "open_issues_count": 7,
     "forks_count": 39,
-    "watchers_count": 193
+    "watchers_count": 194
   },
   "ComplexUpset_stars": {
     "cran": true,
