@@ -36,10 +36,10 @@
   },
   "ggdist_stars": {
     "cran": true,
-    "stargazers_count": 324,
+    "stargazers_count": 325,
     "open_issues_count": 33,
     "forks_count": 13,
-    "watchers_count": 324
+    "watchers_count": 325
   },
   "ggedit_stars": {
     "cran": true,
@@ -78,10 +78,10 @@
   },
   "ggforce_stars": {
     "cran": true,
-    "stargazers_count": 693,
+    "stargazers_count": 694,
     "open_issues_count": 113,
     "forks_count": 82,
-    "watchers_count": 693
+    "watchers_count": 694
   },
   "ggalt_stars": {
     "cran": true,
@@ -92,10 +92,10 @@
   },
   "ggiraph_stars": {
     "cran": true,
-    "stargazers_count": 535,
+    "stargazers_count": 536,
     "open_issues_count": 10,
     "forks_count": 57,
-    "watchers_count": 535
+    "watchers_count": 536
   },
   "ggmuller_stars": {
     "cran": true,
@@ -211,10 +211,10 @@
   },
   "ggstatsplot_stars": {
     "cran": true,
-    "stargazers_count": 1311,
+    "stargazers_count": 1312,
     "open_issues_count": 22,
     "forks_count": 152,
-    "watchers_count": 1311
+    "watchers_count": 1312
   },
   "ggnetwork_stars": {
     "cran": true,
@@ -402,7 +402,7 @@
     "cran": true,
     "stargazers_count": 396,
     "open_issues_count": 10,
-    "forks_count": 40,
+    "forks_count": 39,
     "watchers_count": 396
   },
   "ggdag_stars": {
@@ -492,16 +492,16 @@
   "gggenes_stars": {
     "cran": true,
     "stargazers_count": 252,
-    "open_issues_count": 9,
+    "open_issues_count": 10,
     "forks_count": 34,
     "watchers_count": 252
   },
   "gggenomes_stars": {
     "cran": false,
-    "stargazers_count": 206,
+    "stargazers_count": 207,
     "open_issues_count": 21,
     "forks_count": 23,
-    "watchers_count": 206
+    "watchers_count": 207
   },
   "treemapify_stars": {
     "cran": true,
@@ -554,10 +554,10 @@
   },
   "ggh4x_stars": {
     "cran": true,
-    "stargazers_count": 232,
+    "stargazers_count": 233,
     "open_issues_count": 2,
     "forks_count": 15,
-    "watchers_count": 232
+    "watchers_count": 233
   },
   "ggcharts_stars": {
     "cran": true,
