@@ -17,7 +17,7 @@ widgets:
     tags: visualization
     cran: false
     release: 0.1.0
-    examples:
+    examples: https://rnabioco.github.io/ggtrace/articles/geom-point-trace.html
     ghauthor: sheridar
     short: >
       Outline groups of data points using ggplot2
