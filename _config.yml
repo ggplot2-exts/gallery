@@ -7,6 +7,22 @@ sass:
   style: compressed
 
 widgets:
+-
+    name: ggtrace
+    thumbnail: images/ggtrace.png
+    url: https://rnabioco.github.io/ggtrace/
+    jslibs: >
+    ghuser: rnabioco
+    ghrepo: ggtrace
+    tags: visualization
+    cran: false
+    release: 0.1.0
+    examples:
+    ghauthor: sheridar
+    short: >
+      Outline groups of data points using ggplot2
+    description: >
+    
  -
     name: ggQQunif
     thumbnail: images/ggQQunif.png
