@@ -16,7 +16,7 @@ widgets:
     ghrepo: ggtrace
     tags: visualization
     cran: false
-    release: 0.1.0
+    release:
     examples: https://rnabioco.github.io/ggtrace/articles/geom-point-trace.html
     ghauthor: sheridar
     short: >
