@@ -7,22 +7,6 @@ sass:
   style: compressed
 
 widgets:
--
-    name: ggtrace
-    thumbnail: images/ggtrace.png
-    url: https://rnabioco.github.io/ggtrace/
-    jslibs: >
-    ghuser: rnabioco
-    ghrepo: ggtrace
-    tags: visualization
-    cran: false
-    release:
-    examples: https://rnabioco.github.io/ggtrace/articles/geom-point-trace.html
-    ghauthor: sheridar
-    short: >
-      Outline groups of data points using ggplot2
-    description: >
-    
  -
     name: ggQQunif
     thumbnail: images/ggQQunif.png
@@ -1902,3 +1886,20 @@ widgets:
       horizon plots in `ggplot2`, where both the origin of the horizon plot and the 
       cutpoints of the different intervals can be user-speficied for greater 
       flexibility. 
+
+ -
+    name: ggtrace
+    thumbnail: images/ggtrace.png
+    url: https://rnabioco.github.io/ggtrace/
+    jslibs: >
+    ghuser: rnabioco
+    ghrepo: ggtrace
+    tags: visualization
+    cran: false
+    release:
+    examples: https://rnabioco.github.io/ggtrace/articles/geom-point-trace.html
+    ghauthor: sheridar
+    short: >
+      Outline groups of data points using ggplot2
+    description: >
+    
