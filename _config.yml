@@ -1901,5 +1901,24 @@ widgets:
     ghauthor: sheridar
     short: >
       Outline groups of data points using ggplot2
-    description: >
+    description: >    
     
+ - 
+    name: ggESDA
+    thumbnail: images/ggESDA.png
+    url: https://github.com/kiangkiangkiang/ggESDA
+    jslibs: >
+    ghuser: kiangkiangkiang
+    ghrepo: ggESDA
+    tags: visualization,symbolic data,interval-valued data
+    cran: true
+    release: 0.1.0
+    examples: https://github.com/kiangkiangkiang/ggESDA#readme
+    ghauthor: kiangkiangkiang
+    short: >
+      Exploratory Symbolic Data Analysis with 'ggplot2'.
+    description: >
+       The 'ggESDA' package provides the advanced graphic techniques including the 
+       multivariate visualization, exhibition with modal multi-valued and interval-valued,
+       and classification by color mapping. Also, summarize the classical data into
+       symbolic data by various customized method.
