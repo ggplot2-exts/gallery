@@ -13,7 +13,7 @@ widgets:
     url: https://allancameron.github.io/geomtextpath/
     jslibs: >
     ghuser: AllanCameron
-    ghrepo: xmrr
+    ghrepo: geomtextpath
     tags: typography,plot-labelling,visualization
     cran: true
     release: 0.0.1
