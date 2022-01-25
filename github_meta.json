@@ -267,10 +267,10 @@
   },
   "ggsci_stars": {
     "cran": true,
-    "stargazers_count": 458,
+    "stargazers_count": 459,
     "open_issues_count": 4,
     "forks_count": 47,
-    "watchers_count": 458
+    "watchers_count": 459
   },
   "ggmosaic_stars": {
     "cran": true,
@@ -721,6 +721,10 @@
     "watchers_count": 1
   },
   "geomtextpath_stars": {
-    "stargazers_count": 0
+    "cran": true,
+    "stargazers_count": 428,
+    "open_issues_count": 2,
+    "forks_count": 14,
+    "watchers_count": 428
   }
 }
