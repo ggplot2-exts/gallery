@@ -8,28 +8,6 @@ sass:
 
 widgets:
  -
-    name: geomtextpath
-    thumbnail: images/geomtextpath.png
-    url: https://allancameron.github.io/geomtextpath/
-    jslibs: >
-    ghuser: AllanCameron
-    ghrepo: xmrr
-    tags: typography,plot-labelling,visualization
-    cran: true
-    release: 0.0.1
-    examples: https://github.com/AllanCameron/geomtextpath
-    ghauthor: Allan Cameron
-    short: >
-      Create curved text and directly label lines in `ggplot`
-    description: >
-      Directly labelling your plots with text that follows the curves of your 
-      data not only makes for a pretty plot. It can function as an alternative 
-      to a legend, freeing up valuable space, and makes plots easier for a 
-      general audience to understand. With support for bidirectional text,
-      richtext, plotmath and even simple feature (sf) maps, `geomtextpath`
-      aims to make annotating plots simple and accessible.
-
- -
     name: ggQQunif
     thumbnail: images/ggQQunif.png
     url: https://github.com/rcorty/ggQQunif
@@ -1944,3 +1922,26 @@ widgets:
        multivariate visualization, exhibition with modal multi-valued and interval-valued,
        and classification by color mapping. Also, summarize the classical data into
        symbolic data by various customized method.
+
+ -
+    name: geomtextpath
+    thumbnail: images/geomtextpath.png
+    url: https://allancameron.github.io/geomtextpath/
+    jslibs: >
+    ghuser: AllanCameron
+    ghrepo: xmrr
+    tags: typography,plot-labelling,visualization
+    cran: true
+    release: 0.0.1
+    examples: https://github.com/AllanCameron/geomtextpath
+    ghauthor: Allan Cameron
+    short: >
+      Create curved text and directly label lines in `ggplot`
+    description: >
+      Directly labelling your plots with text that follows the curves of your 
+      data not only makes for a pretty plot. It can function as an alternative 
+      to a legend, freeing up valuable space, and makes plots easier for a 
+      general audience to understand. With support for bidirectional text,
+      richtext, plotmath and even simple feature (sf) maps, `geomtextpath`
+      aims to make annotating plots simple and accessible.
+
