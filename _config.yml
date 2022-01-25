@@ -1929,12 +1929,12 @@ widgets:
     url: https://allancameron.github.io/geomtextpath/
     jslibs: >
     ghuser: AllanCameron
-    ghrepo: xmrr
+    ghrepo: geomtextpath
     tags: typography,plot-labelling,visualization
     cran: true
-    release: 0.0.1
+    release: 0.1.0
     examples: https://github.com/AllanCameron/geomtextpath
-    ghauthor: Allan Cameron
+    ghauthor: AllanCameron
     short: >
       Create curved text and directly label lines in `ggplot`
     description: >
