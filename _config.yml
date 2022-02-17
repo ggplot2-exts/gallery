@@ -1944,4 +1944,28 @@ widgets:
       general audience to understand. With support for bidirectional text,
       richtext, plotmath and even simple feature (sf) maps, `geomtextpath`
       aims to make annotating plots simple and accessible.
+      
+ -
+    name: ggdensity
+    thumbnail: images/ggdensity.png
+    url: https://jamesotto852.github.io/ggdensity
+    jslibs: >
+    ghuser: jamesotto852
+    ghrepo: ggdensity
+    tags: visualization,density-estimation
+    cran: true
+    release: 
+    examples: https://jamesotto852.github.io/ggdensity
+    ghauthor: jamesotto852
+    short: >
+      Interpretable bivariate density visualization with highest density regions
+    description: >
+      `ggdensity` provides `geom_hdr()` and `geom_hdr_lines()` as drop-in
+      replacements for `ggplot2` functions `geom_density_2d_filled()` and
+      `geom_density_2d()`, facilitating the plotting of highest density regions 
+      (HDRs) in place of arbitrary density contours. A variety of statistically
+      rigorous density estimators are available, as well as helper functions
+      `geom_hdr_fun()` and `geom_hdr_lines_fun()` for plotting HDRs of 
+      (potentially un-normalized) user-specified bivariate probability 
+      density functions.
 
