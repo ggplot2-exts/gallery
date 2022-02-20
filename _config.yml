@@ -1945,3 +1945,27 @@ widgets:
       richtext, plotmath and even simple feature (sf) maps, `geomtextpath`
       aims to make annotating plots simple and accessible.
 
+ -
+    name: ggtranscript
+    thumbnail: images/dzhang32-ggtranscript.png
+    url: https://dzhang32.github.io/ggtranscript/
+    jslibs: >
+    ghuser: dzhang32
+    ghrepo: ggtranscript
+    tags: visualization,genetics,genomics,transcripts,annotation
+    cran: false
+    examples: https://github.com/dzhang32/ggtranscript#readme
+    ghauthor: dzhang32
+    short: >
+      Visualizing transcript structure and annotation using `ggplot2`
+    description: >
+      The goal of ggtranscript is the simplify the process of visualizing 
+      transcript structure and annotation. To achieve this, ggtranscript 
+      introduces 5 new geoms (geom_range(), geom_half_range(), geom_intron(), 
+      geom_junction() and geom_junction_label_repel()) as well as several helper
+      functions. As a ggplot2 extension, ggtranscript inherits ggplot2's 
+      familiarity and flexibility, enabling users to intuitively adjust 
+      aesthetics, parameters, scales etc as well as complement ggtranscript 
+      geoms with existing ggplot2 geoms to create informative, publication-ready 
+      plots.
+
