@@ -1993,3 +1993,18 @@ widgets:
       geoms with existing ggplot2 geoms to create informative, publication-ready 
       plots.
 
+ -
+    name: piecepackr
+    thumbnail: images/piecepackr-piecepackr.png
+    url: https://trevorldavis.com/piecepackr
+    jslibs: >
+    ghuser: piecepackr
+    ghrepo: piecepackr
+    tags: board games
+    cran: true
+    examples: https://github.com/piecepackr/piecepackr#geom-piece-ggplot2
+    ghauthor: trevorld
+    short: >
+      Board game graphics
+    description: >
+        Functions to make board game graphics with the 'ggplot2', 'grid', 'rayrender', 'rayvertex', and 'rgl' packages.  Specializes in game diagrams, animations, and "Print & Play" layouts for the 'piecepack' <https://www.ludism.org/ppwiki> but can make graphics for other board game systems.  Includes configurations for several public domain game systems such as checkers, (double-18) dominoes, go, 'piecepack', playing cards, etc.
