@@ -1661,7 +1661,7 @@ widgets:
     ghuser: coolbutuseless
     ghrepo: ggpattern
     tags: visualization,pattern
-    cran: false
+    cran: true
     examples: https://coolbutuseless.github.io/package/ggpattern/
     ghauthor: coolbutuseless
     short: Pattern fills for ggplot2 geoms.
