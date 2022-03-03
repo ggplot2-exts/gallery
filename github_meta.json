@@ -747,5 +747,12 @@
     "open_issues_count": 36,
     "forks_count": 1,
     "watchers_count": 25
+  },
+  "ggDoubleHeat_stars": {
+    "cran": true,
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0,
+    "watchers_count": 1
   }
 }
