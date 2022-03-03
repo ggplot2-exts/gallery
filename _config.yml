@@ -2008,3 +2008,23 @@ widgets:
       Board game graphics
     description: >
         Functions to make board game graphics with the 'ggplot2', 'grid', 'rayrender', 'rayvertex', and 'rgl' packages.  Specializes in game diagrams, animations, and "Print & Play" layouts for the 'piecepack' <https://www.ludism.org/ppwiki> but can make graphics for other board game systems.  Includes configurations for several public domain game systems such as checkers, (double-18) dominoes, go, 'piecepack', playing cards, etc.
+
+-
+    name: ggDoubleHeat
+    thumbnail: images/ggdoubleheat.png
+    url: https://github.com/PursuitOfDataScience/ggDoubleHeat
+    jslibs: >
+    ghuser: PursuitOfDataScience
+    ghrepo: ggDoubleHeat
+    tags: visualization, geoms
+    cran: true
+    release:
+    examples: https://pursuitofdatascience.github.io/ggDoubleHeat/articles/introduction.html
+    ghauthor: PursuitOfDataScience
+    short: >
+      A heatmap-like visualization tool
+    description: >
+      A data visualization design that provides comparison between 
+      two (Double) data sources (usually on a par with each other) on one 
+      reformed heatmap, while inheriting 'ggplot2' features.  
+
