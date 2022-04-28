@@ -2028,3 +2028,21 @@ widgets:
       two (Double) data sources (usually on a par with each other) on one 
       reformed heatmap, while inheriting 'ggplot2' features.  
 
+ -
+    name: nflplotR
+    thumbnail: images/nflplotR.png
+    url: https://nflplotr.nflverse.com
+    jslibs: >
+    ghuser: nflverse
+    ghrepo: nflplotR
+    tags: general,scales,geoms,images,theme,elements
+    cran: true
+    examples: https://nflplotr.nflverse.com/articles/nflplotR.html
+    ghauthor: mrcaseb
+    short: >
+      'nflplotR' provides a set of functions to visualize National Football League analysis in 'ggplot2'.
+    description: >
+      The goal of 'nflplotR' is to provide functions and geoms that help 
+      visualization of images and NFL related analysis. It provides 'ggplot2' 
+      geoms and theme elements that do the heavy lifting of plotting images in 
+      high quality, with correct aspect ratio and other image modification functions.
