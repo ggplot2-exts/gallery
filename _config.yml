@@ -2046,3 +2046,22 @@ widgets:
       visualization of images and NFL related analysis. It provides 'ggplot2' 
       geoms and theme elements that do the heavy lifting of plotting images in 
       high quality, with correct aspect ratio and other image modification functions.
+      
+ -
+    name: ggbraid
+    thumbnail: images/ggbraid.png
+    url: https://nsgrantham.github.io/ggbraid
+    jslibs: >
+    ghuser: nsgrantham
+    ghrepo: ggbraid
+    tags: visualization,general,geoms
+    cran: true
+    release: 0.2.2
+    examples: https://nsgrantham.github.io/ggbraid/articles/temps.html
+    ghauthor: nsgrantham
+    short: >
+      Braid ribbons in `ggplot2`.
+    description: >
+      ggbraid provides a new stat, `stat_braid()`, that extends the functionality of `geom_ribbon()` to correctly
+      fill the area between two alternating lines (or steps) with two different colors. ggbraid also provides
+      a geom, `geom_braid()`, that wraps `geom_ribbon()` and uses `stat_braid()` by default.
