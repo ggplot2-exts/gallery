@@ -2046,8 +2046,8 @@ widgets:
       visualization of images and NFL related analysis. It provides 'ggplot2' 
       geoms and theme elements that do the heavy lifting of plotting images in 
       high quality, with correct aspect ratio and other image modification functions.
-      
--
+
+ -
     name: ggblanket
     thumbnail: images/ggblanket.png
     url: https://github.com/davidhodge931/ggblanket
@@ -2062,6 +2062,4 @@ widgets:
       Wrappers to simplify beautiful ggplot2 visualisation
     description: >
       Wrapper functions around the amazing 'ggplot2' package with the 
-      objective to simplify beautiful 'ggplot2' visualisation. 
-
- -
+      objective to simplify beautiful 'ggplot2' visualisation.
