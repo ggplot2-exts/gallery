@@ -520,7 +520,7 @@
   "gghalves_stars": {
     "cran": true,
     "stargazers_count": 209,
-    "open_issues_count": 6,
+    "open_issues_count": 5,
     "forks_count": 11,
     "watchers_count": 209
   },
@@ -761,5 +761,12 @@
     "open_issues_count": 1,
     "forks_count": 0,
     "watchers_count": 7
+  },
+  "ggblanket_stars": {
+    "cran": true,
+    "stargazers_count": 36,
+    "open_issues_count": 9,
+    "forks_count": 0,
+    "watchers_count": 36
   }
 }
