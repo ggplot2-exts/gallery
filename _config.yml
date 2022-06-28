@@ -2063,3 +2063,25 @@ widgets:
     description: >
       Wrapper functions around the amazing 'ggplot2' package with the 
       objective to simplify beautiful 'ggplot2' visualisation.
+      
+ -
+    name: ggpie
+    thumbnail: images/ggpie.png
+    url: https://github.com/showteeth/ggpie
+    jslibs: >
+    ghuser: showteeth
+    ghrepo: ggpie
+    tags: visualization,general,pie,donut,rose pie
+    cran: true
+    examples: https://cran.r-project.org/web/packages/ggpie/vignettes/ggpie.html
+    ghauthor: showteeth
+    short: >
+      Create pie and donut plot using `ggplot2`.
+    description: >
+      `ggpie` aims to create **pie (2D and 3D)**, **donut** and **rose pie** plot with the `ggplot2` plotting system 
+      which implemented the grammar of graphics. It contains four main functions:
+      1. `ggpie`: Create 2D pie plot with single group variable.
+      2. `ggdonut`: Create 2D donut plot with single group variable.
+      3. `ggnestedpie`: Create 2D nested pie plot with two group variables.
+      4. `ggpie3D`: Create 3D pie plot with single group variable. 
+      5. `ggrosepie`: Create rose pie plot with single or two group variables.
