@@ -36,10 +36,10 @@
   },
   "ggdist_stars": {
     "cran": true,
-    "stargazers_count": 517,
+    "stargazers_count": 523,
     "open_issues_count": 36,
     "forks_count": 15,
-    "watchers_count": 517
+    "watchers_count": 523
   },
   "ggedit_stars": {
     "cran": true,
@@ -78,10 +78,10 @@
   },
   "ggforce_stars": {
     "cran": true,
-    "stargazers_count": 782,
+    "stargazers_count": 783,
     "open_issues_count": 128,
     "forks_count": 93,
-    "watchers_count": 782
+    "watchers_count": 783
   },
   "ggalt_stars": {
     "cran": true,
@@ -120,10 +120,10 @@
   },
   "ggraph_stars": {
     "cran": true,
-    "stargazers_count": 910,
+    "stargazers_count": 911,
     "open_issues_count": 76,
     "forks_count": 98,
-    "watchers_count": 910
+    "watchers_count": 911
   },
   "gginnards_stars": {
     "cran": true,
@@ -178,7 +178,7 @@
     "cran": true,
     "stargazers_count": 1788,
     "open_issues_count": 86,
-    "forks_count": 310,
+    "forks_count": 309,
     "watchers_count": 1788
   },
   "ggfx_stars": {
@@ -197,10 +197,10 @@
   },
   "ggbump_stars": {
     "cran": true,
-    "stargazers_count": 409,
+    "stargazers_count": 410,
     "open_issues_count": 6,
     "forks_count": 27,
-    "watchers_count": 409
+    "watchers_count": 410
   },
   "ggthemes_stars": {
     "cran": true,
@@ -211,10 +211,10 @@
   },
   "ggstatsplot_stars": {
     "cran": true,
-    "stargazers_count": 1527,
+    "stargazers_count": 1528,
     "open_issues_count": 38,
-    "forks_count": 164,
-    "watchers_count": 1527
+    "forks_count": 165,
+    "watchers_count": 1528
   },
   "ggnetwork_stars": {
     "cran": true,
@@ -317,7 +317,7 @@
   "ggpubr_stars": {
     "cran": true,
     "stargazers_count": 858,
-    "open_issues_count": 171,
+    "open_issues_count": 173,
     "forks_count": 143,
     "watchers_count": 858
   },
@@ -625,7 +625,7 @@
   "ggpattern_stars": {
     "cran": true,
     "stargazers_count": 294,
-    "open_issues_count": 11,
+    "open_issues_count": 12,
     "forks_count": 15,
     "watchers_count": 294
   },
@@ -708,10 +708,10 @@
   },
   "ggtrace_stars": {
     "cran": true,
-    "stargazers_count": 7,
+    "stargazers_count": 8,
     "open_issues_count": 3,
     "forks_count": 1,
-    "watchers_count": 7
+    "watchers_count": 8
   },
   "ggESDA_stars": {
     "cran": true,
@@ -736,10 +736,10 @@
   },
   "ggtranscript_stars": {
     "cran": false,
-    "stargazers_count": 55,
+    "stargazers_count": 56,
     "open_issues_count": 4,
     "forks_count": 5,
-    "watchers_count": 55
+    "watchers_count": 56
   },
   "piecepackr_stars": {
     "cran": true,
@@ -765,7 +765,7 @@
   "ggblanket_stars": {
     "cran": true,
     "stargazers_count": 41,
-    "open_issues_count": 16,
+    "open_issues_count": 14,
     "forks_count": 2,
     "watchers_count": 41
   },
