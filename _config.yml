@@ -2085,3 +2085,21 @@ widgets:
       3. `ggnestedpie`: Create 2D nested pie plot with two group variables.
       4. `ggpie3D`: Create 3D pie plot with single group variable. 
       5. `ggrosepie`: Create rose pie plot with single or two group variables.
+
+ -
+    name: ggstar
+    thumbnail: images/ggstar.png
+    url: https://github.com/xiangpin/ggstar
+    jslibs: >
+    ghuser: xiangpin
+    ghrepo: ggstar
+    tags: visualization, different shape points
+    cran: true
+    examples: https://cran.r-project.org/web/packages/ggstar/vignettes/ggstar.html
+    ghauther: xiangpin
+    short: >
+      Multiple Geometric Shape Point Layer for 'ggplot2'
+    description: >
+      To create the multiple polygonal point layer for easily discernible shapes,
+      we developed the package, it is like the 'geom_point' of 'ggplot2'.
+
