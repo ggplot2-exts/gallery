@@ -177,7 +177,7 @@
   "gganimate_stars": {
     "cran": true,
     "stargazers_count": 1791,
-    "open_issues_count": 87,
+    "open_issues_count": 88,
     "forks_count": 309,
     "watchers_count": 1791
   },
@@ -775,5 +775,12 @@
     "open_issues_count": 0,
     "forks_count": 0,
     "watchers_count": 11
+  },
+  "ggstar_stars": {
+    "cran": true,
+    "stargazers_count": 66,
+    "open_issues_count": 0,
+    "forks_count": 4,
+    "watchers_count": 66
   }
 }
