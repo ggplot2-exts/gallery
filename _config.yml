@@ -813,24 +813,6 @@ widgets:
       to remember 'ggplot2' sequences.
 
  -
-    name: simplevis
-    thumbnail: images/simplevis.png
-    url: https://statisticsnz.github.io/simplevis/index.html
-    jslibs: >
-    ghuser: statisticsnz
-    ghrepo: simplevis
-    tags: visualization,teaching
-    cran: true
-    release:
-    examples: https://statisticsnz.github.io/simplevis/index.html
-    ghauthor: statisticsnz
-    short: >
-      Simple 'ggplot2' Visualisation with Less Brainpower and Typing
-    description: >
-      Wrapper functions to make 'ggplot2' visualisation easier with 
-      less brainpower and typing.
-
- -
     name: ggside
     thumbnail: images/ggside.png
     url: https://github.com/jtlandis/ggside
@@ -2065,3 +2047,59 @@ widgets:
       ggbraid provides a new stat, `stat_braid()`, that extends the functionality of `geom_ribbon()` to correctly
       fill the area between two alternating lines (or steps) with two different colors. ggbraid also provides
       a geom, `geom_braid()`, that wraps `geom_ribbon()` and uses `stat_braid()` by default.
+
+ -
+    name: ggblanket
+    thumbnail: images/ggblanket.png
+    url: https://github.com/davidhodge931/ggblanket
+    jslibs: >
+    ghuser: davidhodge931
+    ghrepo: ggblanket
+    tags: visualization
+    cran: true
+    examples: https://davidhodge931.github.io/ggblanket/reference/index.html
+    ghauthor: davidhodge931
+    short: >
+      Wrappers to simplify beautiful ggplot2 visualisation
+    description: >
+      Wrapper functions around the amazing 'ggplot2' package with the 
+      objective to simplify beautiful 'ggplot2' visualisation.
+      
+ -
+    name: ggpie
+    thumbnail: images/ggpie.png
+    url: https://github.com/showteeth/ggpie
+    jslibs: >
+    ghuser: showteeth
+    ghrepo: ggpie
+    tags: visualization,general,pie,donut,rose pie
+    cran: true
+    examples: https://cran.r-project.org/web/packages/ggpie/vignettes/ggpie.html
+    ghauthor: showteeth
+    short: >
+      Create pie and donut plot using `ggplot2`.
+    description: >
+      `ggpie` aims to create **pie (2D and 3D)**, **donut** and **rose pie** plot with the `ggplot2` plotting system 
+      which implemented the grammar of graphics. It contains four main functions:
+      1. `ggpie`: Create 2D pie plot with single group variable.
+      2. `ggdonut`: Create 2D donut plot with single group variable.
+      3. `ggnestedpie`: Create 2D nested pie plot with two group variables.
+      4. `ggpie3D`: Create 3D pie plot with single group variable. 
+      5. `ggrosepie`: Create rose pie plot with single or two group variables.
+
+ -
+    name: ggstar
+    thumbnail: images/ggstar.png
+    url: https://github.com/xiangpin/ggstar
+    jslibs: >
+    ghuser: xiangpin
+    ghrepo: ggstar
+    tags: visualization, different shape points
+    cran: true
+    examples: https://cran.r-project.org/web/packages/ggstar/vignettes/ggstar.html
+    ghauther: xiangpin
+    short: >
+      Multiple Geometric Shape Point Layer for 'ggplot2'
+    description: >
+      To create the multiple polygonal point layer for easily discernible shapes,
+      we developed the package, it is like the 'geom_point' of 'ggplot2'.
