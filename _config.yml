@@ -813,24 +813,6 @@ widgets:
       to remember 'ggplot2' sequences.
 
  -
-    name: simplevis
-    thumbnail: images/simplevis.png
-    url: https://statisticsnz.github.io/simplevis/index.html
-    jslibs: >
-    ghuser: statisticsnz
-    ghrepo: simplevis
-    tags: visualization,teaching
-    cran: true
-    release:
-    examples: https://statisticsnz.github.io/simplevis/index.html
-    ghauthor: statisticsnz
-    short: >
-      Simple 'ggplot2' Visualisation with Less Brainpower and Typing
-    description: >
-      Wrapper functions to make 'ggplot2' visualisation easier with 
-      less brainpower and typing.
-
- -
     name: ggside
     thumbnail: images/ggside.png
     url: https://github.com/jtlandis/ggside
