@@ -2103,3 +2103,19 @@ widgets:
     description: >
       To create the multiple polygonal point layer for easily discernible shapes,
       we developed the package, it is like the 'geom_point' of 'ggplot2'.
+
+ -
+    name: ggarchery
+    thumbnail: images/ggarchery.png
+    url: https://github.com/mdhall272/ggarchery
+    jslibs: >
+    ghuser: mdhall272
+    ghrepo: ggarchery
+    tags: visualization, arrows
+    cran: true
+    examples: https://github.com/mdhall272/ggarchery#readme
+    ghauther: mdhall272
+    short: >
+      Flexible segment geoms with arrows for 'ggplot2'
+    description: >
+      Enhanced arrow segments for control of the position of the arrowhead on the line, multiple arrowheads, and shrinkage of segments to prevent arrows colliding with their 'targets' without alterations to coordinates
