@@ -2103,3 +2103,20 @@ widgets:
     description: >
       To create the multiple polygonal point layer for easily discernible shapes,
       we developed the package, it is like the 'geom_point' of 'ggplot2'.
+
+ -
+    name: tidyterra
+    thumbnail: images/tidyterra.png
+    url: https://github.com/dieghernan/tidyterra
+    jslibs: >
+    ghuser: dieghernan
+    ghrepo: tidyterra
+    tags: visualization, raster, spatial
+    cran: true
+    examples: https://dieghernan.github.io/tidyterra/articles/tidyterra.html
+    ghauther: dieghernan
+    short: >
+      'ggplot2' geoms for  'terra' rasters and vectors
+    description: >
+      'geom_' functions that provide a convenient way of visualizing SpatRasters
+      and SpatVectors generated with the 'terra' package.
