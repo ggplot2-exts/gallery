@@ -2114,7 +2114,7 @@ widgets:
     tags: visualization, raster, spatial
     cran: true
     examples: https://dieghernan.github.io/tidyterra/articles/tidyterra.html
-    ghauther: dieghernan
+    ghauthor: dieghernan
     short: >
       'ggplot2' geoms for  'terra' rasters and vectors
     description: >
