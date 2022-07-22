@@ -2119,3 +2119,20 @@ widgets:
       Flexible segment geoms with arrows for 'ggplot2'
     description: >
       Enhanced arrow segments for control of the position of the arrowhead on the line, multiple arrowheads, and shrinkage of segments to prevent arrows colliding with their 'targets' without alterations to coordinates
+
+ -
+    name: tidyterra
+    thumbnail: images/tidyterra.png
+    url: https://github.com/dieghernan/tidyterra
+    jslibs: >
+    ghuser: dieghernan
+    ghrepo: tidyterra
+    tags: visualization, raster, spatial
+    cran: true
+    examples: https://dieghernan.github.io/tidyterra/articles/tidyterra.html
+    ghauthor: dieghernan
+    short: >
+      'ggplot2' geoms for  'terra' rasters and vectors
+    description: >
+      'geom_' functions that provide a convenient way of visualizing SpatRasters
+      and SpatVectors generated with the 'terra' package.

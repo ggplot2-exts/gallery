@@ -789,5 +789,12 @@
     "open_issues_count": 0,
     "forks_count": 1,
     "watchers_count": 13
+  },
+  "tidyterra_stars": {
+    "cran": true,
+    "stargazers_count": 78,
+    "open_issues_count": 2,
+    "forks_count": 1,
+    "watchers_count": 78
   }
 }
