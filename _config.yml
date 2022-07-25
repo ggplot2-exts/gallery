@@ -1796,7 +1796,7 @@ widgets:
     cran: true
     release: 1.0
     examples: https://github.com/XiaoLuo-boy/ggheatmap
-    ghauther: XiaoLuo-boy
+    ghauthor: XiaoLuo-boy
     short: >
       ggplot2 version of heatmap
     description: >
@@ -2097,7 +2097,7 @@ widgets:
     tags: visualization, different shape points
     cran: true
     examples: https://cran.r-project.org/web/packages/ggstar/vignettes/ggstar.html
-    ghauther: xiangpin
+    ghauthor: xiangpin
     short: >
       Multiple Geometric Shape Point Layer for 'ggplot2'
     description: >
@@ -2114,7 +2114,7 @@ widgets:
     tags: visualization, arrows
     cran: true
     examples: https://github.com/mdhall272/ggarchery#readme
-    ghauther: mdhall272
+    ghauthor: mdhall272
     short: >
       Flexible segment geoms with arrows for 'ggplot2'
     description: >
