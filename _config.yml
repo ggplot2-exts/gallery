@@ -8,27 +8,6 @@ sass:
 
 widgets:
  -
-    name: ggseqplot
-    thumbnail: images/ggseqplot.png
-    url: https://maraab23.github.io/ggseqplot
-    jslibs: >
-    ghuser: maraab23
-    ghrepo: ggseqplot
-    tags: visualization,sequence analysis
-    cran: true
-    release: 
-    examples: https://maraab23.github.io/ggseqplot/articles/ggseqplot.html
-    ghauthor: maraab23
-    short: >
-      'ggseqplot' renders sequence plots using ggplot2.
-    description: >
-      'ggseqplot' provides a set of functions that reproduce some of the sequence plots from 
-      'TraMineR::seqplot' and 'TraMineRextras' using 'ggplot2'. These plots are produced on 
-      the basis of a sequence object defined with 'TraMineR::seqdef'. The package automates 
-      the reshaping and plotting of sequence data. Resulting plots are of class ggplot, i.e. 
-      components can be added and tweaked using '+' and regular ggplot2 functions.
-      
- -
     name: ggQQunif
     thumbnail: images/ggQQunif.png
     url: https://github.com/rcorty/ggQQunif
@@ -2157,3 +2136,24 @@ widgets:
     description: >
       'geom_' functions that provide a convenient way of visualizing SpatRasters
       and SpatVectors generated with the 'terra' package.
+
+ -
+    name: ggseqplot
+    thumbnail: images/ggseqplot.png
+    url: https://maraab23.github.io/ggseqplot
+    jslibs: >
+    ghuser: maraab23
+    ghrepo: ggseqplot
+    tags: visualization,sequence analysis
+    cran: true
+    release: 
+    examples: https://maraab23.github.io/ggseqplot/articles/ggseqplot.html
+    ghauthor: maraab23
+    short: >
+      'ggseqplot' renders sequence plots using ggplot2.
+    description: >
+      'ggseqplot' provides a set of functions that reproduce some of the sequence plots from 
+      'TraMineR::seqplot' and 'TraMineRextras' using 'ggplot2'. These plots are produced on 
+      the basis of a sequence object defined with 'TraMineR::seqdef'. The package automates 
+      the reshaping and plotting of sequence data. Resulting plots are of class ggplot, i.e. 
+      components can be added and tweaked using '+' and regular ggplot2 functions.
