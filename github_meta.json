@@ -36,10 +36,10 @@
   },
   "ggdist_stars": {
     "cran": true,
-    "stargazers_count": 547,
+    "stargazers_count": 548,
     "open_issues_count": 37,
     "forks_count": 16,
-    "watchers_count": 547
+    "watchers_count": 548
   },
   "ggedit_stars": {
     "cran": true,
@@ -162,10 +162,10 @@
   },
   "ggfortify_stars": {
     "cran": true,
-    "stargazers_count": 496,
+    "stargazers_count": 497,
     "open_issues_count": 20,
     "forks_count": 62,
-    "watchers_count": 496
+    "watchers_count": 497
   },
   "autoplotly_stars": {
     "cran": true,
@@ -211,10 +211,10 @@
   },
   "ggstatsplot_stars": {
     "cran": true,
-    "stargazers_count": 1555,
+    "stargazers_count": 1554,
     "open_issues_count": 39,
     "forks_count": 166,
-    "watchers_count": 1555
+    "watchers_count": 1554
   },
   "ggnetwork_stars": {
     "cran": true,
@@ -225,10 +225,10 @@
   },
   "ggtech_stars": {
     "cran": false,
-    "stargazers_count": 309,
+    "stargazers_count": 310,
     "open_issues_count": 2,
     "forks_count": 53,
-    "watchers_count": 309
+    "watchers_count": 310
   },
   "ggradar_stars": {
     "cran": false,
@@ -484,10 +484,10 @@
   },
   "gggenes_stars": {
     "cran": true,
-    "stargazers_count": 310,
+    "stargazers_count": 312,
     "open_issues_count": 14,
     "forks_count": 41,
-    "watchers_count": 310
+    "watchers_count": 312
   },
   "gggenomes_stars": {
     "cran": false,
@@ -547,10 +547,10 @@
   },
   "ggh4x_stars": {
     "cran": true,
-    "stargazers_count": 337,
-    "open_issues_count": 2,
+    "stargazers_count": 338,
+    "open_issues_count": 3,
     "forks_count": 22,
-    "watchers_count": 337
+    "watchers_count": 338
   },
   "ggcharts_stars": {
     "cran": true,
@@ -764,10 +764,10 @@
   },
   "ggblanket_stars": {
     "cran": true,
-    "stargazers_count": 63,
-    "open_issues_count": 15,
+    "stargazers_count": 65,
+    "open_issues_count": 17,
     "forks_count": 2,
-    "watchers_count": 63
+    "watchers_count": 65
   },
   "ggpie_stars": {
     "cran": true,
