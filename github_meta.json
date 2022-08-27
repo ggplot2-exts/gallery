@@ -78,10 +78,10 @@
   },
   "ggforce_stars": {
     "cran": true,
-    "stargazers_count": 797,
+    "stargazers_count": 798,
     "open_issues_count": 118,
     "forks_count": 95,
-    "watchers_count": 797
+    "watchers_count": 798
   },
   "ggalt_stars": {
     "cran": true,
@@ -310,7 +310,7 @@
   "ggpubr_stars": {
     "cran": true,
     "stargazers_count": 876,
-    "open_issues_count": 183,
+    "open_issues_count": 184,
     "forks_count": 146,
     "watchers_count": 876
   },
@@ -400,10 +400,10 @@
   },
   "ggdag_stars": {
     "cran": true,
-    "stargazers_count": 356,
+    "stargazers_count": 355,
     "open_issues_count": 8,
     "forks_count": 19,
-    "watchers_count": 356
+    "watchers_count": 355
   },
   "ggformula_stars": {
     "cran": true,
@@ -442,10 +442,10 @@
   },
   "esquisse_stars": {
     "cran": true,
-    "stargazers_count": 1517,
+    "stargazers_count": 1518,
     "open_issues_count": 54,
     "forks_count": 205,
-    "watchers_count": 1517
+    "watchers_count": 1518
   },
   "ggdark_stars": {
     "cran": true,
@@ -484,10 +484,10 @@
   },
   "gggenes_stars": {
     "cran": true,
-    "stargazers_count": 312,
+    "stargazers_count": 313,
     "open_issues_count": 15,
     "forks_count": 41,
-    "watchers_count": 312
+    "watchers_count": 313
   },
   "gggenomes_stars": {
     "cran": false,
@@ -519,10 +519,10 @@
   },
   "ggrastr_stars": {
     "cran": true,
-    "stargazers_count": 184,
+    "stargazers_count": 185,
     "open_issues_count": 1,
     "forks_count": 17,
-    "watchers_count": 184
+    "watchers_count": 185
   },
   "ggpointdensity_stars": {
     "cran": true,
@@ -660,7 +660,7 @@
   "ComplexUpset_stars": {
     "cran": true,
     "stargazers_count": 310,
-    "open_issues_count": 36,
+    "open_issues_count": 37,
     "forks_count": 22,
     "watchers_count": 310
   },
@@ -765,7 +765,7 @@
   "ggblanket_stars": {
     "cran": true,
     "stargazers_count": 69,
-    "open_issues_count": 14,
+    "open_issues_count": 13,
     "forks_count": 3,
     "watchers_count": 69
   },
