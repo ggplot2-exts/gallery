@@ -1982,7 +1982,7 @@ widgets:
     jslibs: >
     ghuser: piecepackr
     ghrepo: piecepackr
-    tags: board games
+    tags: board games, geoms
     cran: true
     examples: https://github.com/piecepackr/piecepackr#geom-piece-ggplot2
     ghauthor: trevorld
@@ -1990,6 +1990,22 @@ widgets:
       Board game graphics
     description: >
         Functions to make board game graphics with the 'ggplot2', 'grid', 'rayrender', 'rayvertex', and 'rgl' packages.  Specializes in game diagrams, animations, and "Print & Play" layouts for the 'piecepack' <https://www.ludism.org/ppwiki> but can make graphics for other board game systems.  Includes configurations for several public domain game systems such as checkers, (double-18) dominoes, go, 'piecepack', playing cards, etc.
+
+ -
+    name: oblicubes
+    thumbnail: images/trevorld-oblicubes.png
+    url: https://trevorldavis.com/R/oblicubes
+    jslibs: >
+    ghuser: trevorld
+    ghrepo: oblicubes
+    tags: visualization, geoms
+    cran: true
+    examples: https://trevorldavis.com/R/oblicubes/reference/geom_oblicubes.html
+    ghauthor: trevorld
+    short: >
+      3D Rendering Using Obliquely Projected Cubes and Cuboids
+    description: >
+        Three-dimensional rendering for 'grid' and 'ggplot2' graphics using cubes and cuboids drawn with an oblique projection.  As a special case also supports primary view orthographic projections.  Can be viewed as an extension to the 'isocubes' package <https://github.com/coolbutuseless/isocubes>.
 
  -
     name: ggDoubleHeat
