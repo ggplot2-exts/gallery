@@ -2067,7 +2067,7 @@ widgets:
  -
     name: ggblanket
     thumbnail: images/ggblanket.png
-    url: https://github.com/davidhodge931/ggblanket
+    url: https://davidhodge931.github.io/ggblanket/articles/ggblanket.html
     jslibs: >
     ghuser: davidhodge931
     ghrepo: ggblanket
@@ -2076,11 +2076,9 @@ widgets:
     examples: https://davidhodge931.github.io/ggblanket/reference/index.html
     ghauthor: davidhodge931
     short: >
-      Wrappers to simplify beautiful ggplot2 visualisation
+      Simplify ggplot2 visualisation
     description: >
-      Wrapper functions around the amazing 'ggplot2' package with the 
-      objective to simplify beautiful 'ggplot2' visualisation.
-      
+      Simplify ggplot2 visualisation with ggblanket wrapper functions.  
  -
     name: ggpie
     thumbnail: images/ggpie.png
