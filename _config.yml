@@ -8,6 +8,28 @@ sass:
 
 widgets:
  -
+    name: ggsurvfit
+    thumbnail: images/ddsjoberg-ggsurvfit.png
+    url: http://www.danieldsjoberg.com/ggsurvfit/
+    jslibs: >
+    ghuser: ddsjoberg
+    ghrepo: ggsurvfit
+    tags: visualization,survival,statistics
+    cran: true
+    release: 0.2.0
+    examples: http://www.danieldsjoberg.com/ggsurvfit/articles/gallery.html
+    ghauthor: ddsjoberg
+    short: >
+      Flexible Time-to-Event Figures
+    description: >
+      Ease the creation of time-to-event (i.e. survival) endpoint
+      figures. The modular functions create figures ready for publication.
+      Each of the functions that add to or modify the figure are written as
+      proper 'ggplot2' geoms or stat methods, allowing the functions from
+      this package to be combined with any function or customization from
+      'ggplot2' and other 'ggplot2' extension packages.
+      
+ -
     name: ggQQunif
     thumbnail: images/ggQQunif.png
     url: https://github.com/rcorty/ggQQunif
