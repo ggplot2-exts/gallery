@@ -817,5 +817,12 @@
     "open_issues_count": 8,
     "forks_count": 5,
     "watchers_count": 26
+  },
+  "ggsector_stars": {
+    "cran": true,
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0,
+    "watchers_count": 1
   }
 }
