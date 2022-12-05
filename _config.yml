@@ -2196,3 +2196,23 @@ widgets:
       this package to be combined with any function or customization from
       'ggplot2' and other 'ggplot2' extension packages.
       
+
+ -
+    name: ggsector
+    thumbnail: images/ggsector.png
+    url: https://github.com/yanpd01/ggsector
+    jslibs: >
+    ghuser: yanpd01
+    ghrepo: ggsector
+    tags: visualization, geoms, sector, fan
+    cran: true
+    examples: https://cran.r-project.org/web/packages/ggsector/vignettes/ggsector.html
+    ghauthor: yanpd01
+    short: >
+      Create sector plots using `ggplot2`.
+    description: >
+      `ggsector` provides a new geom, `geom_sector()`, a grid-based layer
+      function that conforms to the `ggplot2` layer syntax.
+      `ggsector` mainly provides two sector drawing modes, one is to draw sectors
+      based on `draw_panel` when `individual = FALSE`, and the other is to draw
+      sectors based on `draw_group` when `individual = TRUE`.
