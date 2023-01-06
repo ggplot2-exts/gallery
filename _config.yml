@@ -2214,3 +2214,22 @@ widgets:
       `ggsector` mainly provides two sector drawing modes, one is to draw sectors
       based on `draw_panel` when `individual = FALSE`, and the other is to draw
       sectors based on `draw_group` when `individual = TRUE`.
+
+ -
+    name: ggterror
+    thumbnail: images/mivalek-ggterror.png
+    url: https://github.com/mivaek/ggterror
+    jslibs: >
+    ghuser: mivalek
+    ghrepo: ggterror
+    tags: visualization, geoms
+    cran: false
+    examples: https://mival.netlify.app/blog/2023/01/introducing-geom_terrorbar/
+    ghauthor: mivalek
+    short: >
+      Create T-errorbars like in THAT paper
+    description: >
+      `ggterror` provides a new geom, `geom_terrorbar()` that swaps errorbars for the letter T
+      just like they did in the now retracted legendary paper from July 2022 special issue of
+      Hindawi's journal Advances in Materials Science and Engineering.
+      
