@@ -2232,4 +2232,3 @@ widgets:
       `ggterror` provides a new geom, `geom_terrorbar()` that swaps errorbars for the letter T
       just like they did in the now retracted legendary paper from July 2022 special issue of
       Hindawi's journal Advances in Materials Science and Engineering.
-      
