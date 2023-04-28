@@ -2232,3 +2232,21 @@ widgets:
       `ggterror` provides a new geom, `geom_terrorbar()` that swaps errorbars for the letter T
       just like they did in the now retracted legendary paper from July 2022 special issue of
       Hindawi's journal Advances in Materials Science and Engineering.
+
+-
+    name: ggmapinset
+    thumbnail: images/ggmapinset.png
+    url: https://cidm-ph.github.io/ggmapinset/
+    jslibs: >
+    ghuser: cidm-ph
+    ghrepo: ggmapinset
+    tags: visualization,spatial
+    cran: true
+    examples: https://cidm-ph.github.io/ggmapinset/articles/ggmapinset.html
+    ghauthor: arcresu
+    short: >
+      Add zoomed inset panels to your ggplot maps
+    description: >
+      Helper to add insets based on `geom_sf()` from 'ggplot2'. This package gives you a
+      drop-in replacement for `geom_sf()` that supports adding a zoomed inset map without
+      having to create and embed a separate plot.
