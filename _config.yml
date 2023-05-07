@@ -2248,7 +2248,7 @@ widgets:
       `ggragged` adds new facets to group panels in rows or columns of
       (potentially) varying widths, creating panel layouts with ragged edges.
 
--
+ -
     name: ggmapinset
     thumbnail: images/ggmapinset.png
     url: https://cidm-ph.github.io/ggmapinset/
