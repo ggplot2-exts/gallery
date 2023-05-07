@@ -2247,3 +2247,21 @@ widgets:
     description: >
       `ggragged` adds new facets to group panels in rows or columns of
       (potentially) varying widths, creating panel layouts with ragged edges.
+
+-
+    name: ggmapinset
+    thumbnail: images/ggmapinset.png
+    url: https://cidm-ph.github.io/ggmapinset/
+    jslibs: >
+    ghuser: cidm-ph
+    ghrepo: ggmapinset
+    tags: visualization,spatial
+    cran: true
+    examples: https://cidm-ph.github.io/ggmapinset/articles/ggmapinset.html
+    ghauthor: arcresu
+    short: >
+      Add zoomed inset panels to your ggplot maps
+    description: >
+      Helper to add insets based on `geom_sf()` from 'ggplot2'. This package gives you a
+      drop-in replacement for `geom_sf()` that supports adding a zoomed inset map without
+      having to create and embed a separate plot.
