@@ -2233,6 +2233,21 @@ widgets:
       just like they did in the now retracted legendary paper from July 2022 special issue of
       Hindawi's journal Advances in Materials Science and Engineering.
 
+ -
+    name: ggragged
+    thumbnail: images/mikmart-ggragged.png
+    url: https://mikmart.github.io/ggragged/
+    ghuser: mikmart
+    ghrepo: ggragged
+    tags: facets
+    cran: true
+    ghauthor: mikmart
+    short: >
+      Facets for panel layouts with ragged edges
+    description: >
+      `ggragged` adds new facets to group panels in rows or columns of
+      (potentially) varying widths, creating panel layouts with ragged edges.
+
 -
     name: ggmapinset
     thumbnail: images/ggmapinset.png
