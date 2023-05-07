@@ -8,6 +8,26 @@ sass:
 
 widgets:
  -
+    name: ggmagnify
+    thumbnail: images/hughjonesd-ggmagnify.png
+    url: https://github.com/hughjonesd/ggmagnify
+    jslibs: >
+    ghuser: hughjonesd
+    ghrepo: ggQmagnify
+    tags: visualization,geoms,inset,zoom,magnification
+    cran: false
+    release: 0.1.5
+    examples: https://github.com/hughjonesd/ggmagnify
+    ghauthor: hughjonesd
+    short: >
+      Create a magnified inset of part of a ggplot object. 
+    description: >
+      ggmagnify creates a magnified inset of part of a ggplot object. Borders can be drawn around the target 
+      area and the inset, along with projection lines from one to the other. The inset can have a drop shadow. 
+      The magnified area can be a rectangle, an ellipse or an arbitrary shape. Maps, faceting and non-standard 
+      scales are supported.
+
+ -
     name: ggQQunif
     thumbnail: images/ggQQunif.png
     url: https://github.com/rcorty/ggQQunif
