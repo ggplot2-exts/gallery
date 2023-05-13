@@ -36,10 +36,10 @@
   },
   "ggdist_stars": {
     "cran": true,
-    "stargazers_count": 644,
-    "open_issues_count": 37,
+    "stargazers_count": 645,
+    "open_issues_count": 33,
     "forks_count": 20,
-    "watchers_count": 644
+    "watchers_count": 645
   },
   "ggedit_stars": {
     "cran": true,
@@ -92,10 +92,10 @@
   },
   "ggiraph_stars": {
     "cran": true,
-    "stargazers_count": 679,
+    "stargazers_count": 678,
     "open_issues_count": 17,
     "forks_count": 70,
-    "watchers_count": 679
+    "watchers_count": 678
   },
   "ggmuller_stars": {
     "cran": true,
@@ -211,10 +211,10 @@
   },
   "ggstatsplot_stars": {
     "cran": true,
-    "stargazers_count": 1691,
-    "open_issues_count": 53,
+    "stargazers_count": 1693,
+    "open_issues_count": 54,
     "forks_count": 170,
-    "watchers_count": 1691
+    "watchers_count": 1693
   },
   "ggnetwork_stars": {
     "cran": true,
@@ -253,10 +253,10 @@
   },
   "ggtree_stars": {
     "cran": false,
-    "stargazers_count": 718,
+    "stargazers_count": 719,
     "open_issues_count": 119,
     "forks_count": 163,
-    "watchers_count": 718
+    "watchers_count": 719
   },
   "ggseas_stars": {
     "cran": true,
@@ -302,10 +302,10 @@
   },
   "ggcorrplot_stars": {
     "cran": true,
-    "stargazers_count": 165,
+    "stargazers_count": 166,
     "open_issues_count": 25,
     "forks_count": 35,
-    "watchers_count": 165
+    "watchers_count": 166
   },
   "ggpubr_stars": {
     "cran": true,
@@ -316,10 +316,10 @@
   },
   "ggthemr_stars": {
     "cran": false,
-    "stargazers_count": 839,
+    "stargazers_count": 840,
     "open_issues_count": 13,
     "forks_count": 97,
-    "watchers_count": 839
+    "watchers_count": 840
   },
   "GGally_stars": {
     "cran": true,
@@ -407,17 +407,17 @@
   },
   "ggformula_stars": {
     "cran": true,
-    "stargazers_count": 34,
+    "stargazers_count": 35,
     "open_issues_count": 14,
     "forks_count": 7,
-    "watchers_count": 34
+    "watchers_count": 35
   },
   "ggbeeswarm_stars": {
     "cran": true,
-    "stargazers_count": 491,
+    "stargazers_count": 492,
     "open_issues_count": 4,
     "forks_count": 27,
-    "watchers_count": 491
+    "watchers_count": 492
   },
   "ggperiodic_stars": {
     "cran": true,
@@ -442,17 +442,17 @@
   },
   "esquisse_stars": {
     "cran": true,
-    "stargazers_count": 1641,
+    "stargazers_count": 1642,
     "open_issues_count": 71,
     "forks_count": 212,
-    "watchers_count": 1641
+    "watchers_count": 1642
   },
   "ggdark_stars": {
     "cran": true,
-    "stargazers_count": 173,
+    "stargazers_count": 174,
     "open_issues_count": 1,
     "forks_count": 9,
-    "watchers_count": 173
+    "watchers_count": 174
   },
   "sugrrants_stars": {
     "cran": true,
@@ -485,16 +485,16 @@
   "gggenes_stars": {
     "cran": true,
     "stargazers_count": 358,
-    "open_issues_count": 4,
+    "open_issues_count": 5,
     "forks_count": 46,
     "watchers_count": 358
   },
   "gggenomes_stars": {
     "cran": false,
-    "stargazers_count": 437,
+    "stargazers_count": 438,
     "open_issues_count": 33,
     "forks_count": 59,
-    "watchers_count": 437
+    "watchers_count": 438
   },
   "treemapify_stars": {
     "cran": true,
@@ -526,10 +526,10 @@
   },
   "ggpointdensity_stars": {
     "cran": true,
-    "stargazers_count": 371,
+    "stargazers_count": 372,
     "open_issues_count": 6,
     "forks_count": 23,
-    "watchers_count": 371
+    "watchers_count": 372
   },
   "ggsom_stars": {
     "cran": true,
@@ -631,10 +631,10 @@
   },
   "calendR_stars": {
     "cran": true,
-    "stargazers_count": 225,
+    "stargazers_count": 226,
     "open_issues_count": 5,
     "forks_count": 28,
-    "watchers_count": 225
+    "watchers_count": 226
   },
   "ggip_stars": {
     "cran": true,
@@ -837,10 +837,10 @@
   },
   "ggmapinset_stars": {
     "cran": true,
-    "stargazers_count": 10,
+    "stargazers_count": 11,
     "open_issues_count": 2,
     "forks_count": 0,
-    "watchers_count": 10
+    "watchers_count": 11
   },
   "ggmagnify_stars": {
     "cran": false,
