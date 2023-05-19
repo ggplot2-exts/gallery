@@ -36,10 +36,10 @@
   },
   "ggdist_stars": {
     "cran": true,
-    "stargazers_count": 649,
+    "stargazers_count": 650,
     "open_issues_count": 34,
     "forks_count": 20,
-    "watchers_count": 649
+    "watchers_count": 650
   },
   "ggedit_stars": {
     "cran": true,
@@ -113,10 +113,10 @@
   },
   "ggrepel_stars": {
     "cran": true,
-    "stargazers_count": 1098,
+    "stargazers_count": 1099,
     "open_issues_count": 36,
     "forks_count": 91,
-    "watchers_count": 1098
+    "watchers_count": 1099
   },
   "ggraph_stars": {
     "cran": true,
@@ -211,10 +211,10 @@
   },
   "ggstatsplot_stars": {
     "cran": true,
-    "stargazers_count": 1696,
+    "stargazers_count": 1697,
     "open_issues_count": 55,
     "forks_count": 170,
-    "watchers_count": 1696
+    "watchers_count": 1697
   },
   "ggnetwork_stars": {
     "cran": true,
@@ -269,7 +269,7 @@
     "cran": true,
     "stargazers_count": 567,
     "open_issues_count": 5,
-    "forks_count": 61,
+    "forks_count": 63,
     "watchers_count": 567
   },
   "ggmosaic_stars": {
@@ -379,10 +379,10 @@
   },
   "patchwork_stars": {
     "cran": true,
-    "stargazers_count": 2215,
+    "stargazers_count": 2216,
     "open_issues_count": 83,
     "forks_count": 152,
-    "watchers_count": 2215
+    "watchers_count": 2216
   },
   "ggquiver_stars": {
     "cran": true,
@@ -772,7 +772,7 @@
   "ggblanket_stars": {
     "cran": true,
     "stargazers_count": 92,
-    "open_issues_count": 8,
+    "open_issues_count": 2,
     "forks_count": 6,
     "watchers_count": 92
   },
@@ -792,10 +792,10 @@
   },
   "ggarchery_stars": {
     "cran": true,
-    "stargazers_count": 20,
+    "stargazers_count": 21,
     "open_issues_count": 0,
     "forks_count": 1,
-    "watchers_count": 20
+    "watchers_count": 21
   },
   "tidyterra_stars": {
     "cran": true,
@@ -844,9 +844,9 @@
   },
   "ggmagnify_stars": {
     "cran": false,
-    "stargazers_count": 179,
+    "stargazers_count": 180,
     "open_issues_count": 1,
     "forks_count": 0,
-    "watchers_count": 179
+    "watchers_count": 180
   }
 }
