@@ -2285,3 +2285,27 @@ widgets:
       area and the inset, along with projection lines from one to the other. The inset can have a drop shadow. 
       The magnified area can be a rectangle, an ellipse or an arbitrary shape. Maps, faceting and non-standard 
       scales are supported.
+
+ -
+    name: ggblend
+    thumbnail: images/mjskay-ggblend.png
+    url: https://mjskay.github.io/ggblend/
+    jslibs: >
+    ghuser: mjskay
+    ghrepo: ggblend
+    tags: visualization,blending,affine transformation,layer algebra,compositing
+    cran: true
+    examples: https://mjskay.github.io/ggblend/
+    ghauthor: mjskay
+    short: >
+      Algebra of operations for blending, copying, adjusting, transforming, and
+      compositing ggplot2 layers.
+    description: >
+      ggblend is a small algebra for manipulating ggplot2 layers (e.g., stats
+      and geoms). It supports copying and adjusting the aesthetics or parameters
+      of an existing layer, partitioning a layer into multiple pieces for
+      re-composition, applying affine transformations to layers, and combining
+      layers (or partitions of layers) using blend modes (including commutative
+      blend modes, like multiply and darken). Blend mode support is particularly
+      useful for creating plots with overlapping groups where the layer drawing
+      order does not change the output.
