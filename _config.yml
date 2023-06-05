@@ -2309,3 +2309,26 @@ widgets:
       blend modes, like multiply and darken). Blend mode support is particularly
       useful for creating plots with overlapping groups where the layer drawing
       order does not change the output.
+      
+ -
+    name: ggflowchart
+    thumbnail: images/nrennie-ggflowchart.png
+    url: https://nrennie.github.io/ggflowchart/
+    jslibs: >
+    ghuser: nrennie
+    ghrepo: ggflowchart
+    tags: visualization,flowchart,network,diagram
+    cran: true
+    examples: https://nrennie.github.io/ggflowchart/articles/minimal-example.html
+    ghauthor: nrennie
+    short: >
+      Create flowcharts using `ggplot2`.
+    description: >
+      Flowcharts can be a useful way to visualise complex processes. This package 
+      uses the layered grammar of graphics of 'ggplot2' to create simple flowcharts. 
+      It supports changing the outline and fill colour of nodes based on node 
+      attributes, custom node labels, ability to add arrow labels, and tree-based 
+      or user-specified layouts. It is compatible with 'ggplot2' 
+      functions, and those from existing 'ggplot2' extension packages, 
+      allowing extensive customisation.
+
