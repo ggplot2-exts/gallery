@@ -2332,3 +2332,21 @@ widgets:
       functions, and those from existing 'ggplot2' extension packages, 
       allowing extensive customisation.
 
+ -
+    name: ggrain
+    thumbnail: images/ggrain.png
+    url: https://github.com/njudd/ggrain
+    jslibs: >
+    ghuser: njudd
+    ghrepo: ggrain
+    tags: visualization, general
+    cran: true
+    release: 0.0.3
+    examples: https://github.com/const-ae/ggupset#example 
+    ghauthor: njudd
+    short: >
+      Raincloud geom for 'ggplot2'
+    description: >
+      Raincloud plots are a visualization tool which puts the raw data next to a box plot and a violin plot.
+      This allows you to immediately visualize the full distribution of your data! 
+      Our package offers the function ‘geom_rain()’ to make rainclouds, it can make multiple groups and connect observations over time.
