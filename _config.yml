@@ -2350,3 +2350,21 @@ widgets:
       Raincloud plots are a visualization tool which puts the raw data next to a box plot and a violin plot.
       This allows you to immediately visualize the full distribution of your data! 
       Our package offers the function ‘geom_rain()’ to make rainclouds, it can make multiple groups and connect observations over time.
+  -
+    name: ggoutlierscatterplot
+    thumbnail: images/ghuser-ghrepo.png
+    url: https://github.com/lukastay/ggoutlierscatterplot
+    jslibs: >
+    ghuser: lukastay
+    ghrepo: ggoutlierscatterplot
+    tags: visualization,outlier,outliers,scatterplot,algorithms,algorithm,regression
+    cran: false
+    release: 4.0
+    examples: https://github.com/lukastay/ggoutlierscatterplot/tree/main/man
+    ghauthor: lukastay
+    short: >
+      Visualize multidimensional outlier detection algorithms
+    description: >
+      Displays scatterplots that visualize outliers.
+      Works with five multidimensional outlier detection algorithms.
+      Higher degrees of abnormality are shown in larger, more red, and less transparent dots.
