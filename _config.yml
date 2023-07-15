@@ -2352,7 +2352,7 @@ widgets:
       Our package offers the function ‘geom_rain()’ to make rainclouds, it can make multiple groups and connect observations over time.
   -
     name: ggoutlierscatterplot
-    thumbnail: images/ghuser-ghrepo.png
+    thumbnail: images/ggoutlierscatterplot.png
     url: https://github.com/lukastay/ggoutlierscatterplot
     jslibs: >
     ghuser: lukastay
