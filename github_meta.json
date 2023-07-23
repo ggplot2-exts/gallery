@@ -113,10 +113,10 @@
   },
   "ggrepel_stars": {
     "cran": true,
-    "stargazers_count": 1121,
+    "stargazers_count": 1122,
     "open_issues_count": 37,
     "forks_count": 91,
-    "watchers_count": 1121
+    "watchers_count": 1122
   },
   "ggraph_stars": {
     "cran": true,
@@ -325,7 +325,7 @@
     "cran": true,
     "stargazers_count": 553,
     "open_issues_count": 60,
-    "forks_count": 117,
+    "forks_count": 116,
     "watchers_count": 553
   },
   "ggseqlogo_stars": {
@@ -442,10 +442,10 @@
   },
   "esquisse_stars": {
     "cran": true,
-    "stargazers_count": 1658,
+    "stargazers_count": 1660,
     "open_issues_count": 71,
     "forks_count": 220,
-    "watchers_count": 1658
+    "watchers_count": 1660
   },
   "ggdark_stars": {
     "cran": true,
@@ -547,10 +547,10 @@
   },
   "ggh4x_stars": {
     "cran": true,
-    "stargazers_count": 439,
+    "stargazers_count": 440,
     "open_issues_count": 2,
     "forks_count": 27,
-    "watchers_count": 439
+    "watchers_count": 440
   },
   "ggcharts_stars": {
     "cran": true,
@@ -610,10 +610,10 @@
   },
   "hrbrthemes_stars": {
     "cran": true,
-    "stargazers_count": 1138,
+    "stargazers_count": 1137,
     "open_issues_count": 30,
     "forks_count": 91,
-    "watchers_count": 1138
+    "watchers_count": 1137
   },
   "ggpattern_stars": {
     "cran": true,
@@ -680,10 +680,10 @@
   },
   "see_stars": {
     "cran": true,
-    "stargazers_count": 739,
+    "stargazers_count": 740,
     "open_issues_count": 47,
     "forks_count": 42,
-    "watchers_count": 739
+    "watchers_count": 740
   },
   "directlabels_stars": {
     "cran": true,
@@ -772,7 +772,7 @@
   "ggblanket_stars": {
     "cran": true,
     "stargazers_count": 98,
-    "open_issues_count": 16,
+    "open_issues_count": 18,
     "forks_count": 7,
     "watchers_count": 98
   },
@@ -865,10 +865,10 @@
   },
   "ggrain_stars": {
     "cran": true,
-    "stargazers_count": 31,
+    "stargazers_count": 32,
     "open_issues_count": 0,
     "forks_count": 1,
-    "watchers_count": 31
+    "watchers_count": 32
   },
   "ggoutlierscatterplot_stars": {
     "cran": false,
