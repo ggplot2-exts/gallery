@@ -2350,6 +2350,7 @@ widgets:
       Raincloud plots are a visualization tool which puts the raw data next to a box plot and a violin plot.
       This allows you to immediately visualize the full distribution of your data! 
       Our package offers the function ‘geom_rain()’ to make rainclouds, it can make multiple groups and connect observations over time.
+      
  -
     name: ggoutlierscatterplot
     thumbnail: images/ggoutlierscatterplot.png
@@ -2365,6 +2366,22 @@ widgets:
     short: >
       Visualize multidimensional outlier detection algorithms
     description: >
-      Displays scatterplots that visualize outliers.
-      Works with five multidimensional outlier detection algorithms.
-      Higher degrees of abnormality are shown in larger, more red, and less transparent dots.
+
+  -
+    name: ggautothemes
+    thumbnail: images/ggautothemes.png
+    url: https://github.com/lukastay/ggautothemes
+    jslibs: >
+    ghuser: lukastay
+    ghrepo: ggautothemes
+    tags: visualization,theme,themees,color,colour,fill
+    cran: false
+    release: 1.3
+    examples: https://github.com/lukastay/ggautothemes/tree/master/man
+    ghauthor: lukastay
+    short: >
+      Watch slideshow of your ggplot visual in many themes at once.
+    description: >
+      You can input any ggplot object, except those that will not work well with theme arguments.
+      Once you find a theme you like, you can apply the theme.
+      You can output the plot you like with the theme you like as a professional grade raster image in less than a line of code.
