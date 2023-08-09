@@ -2368,7 +2368,6 @@ widgets:
       Displays scatterplots that visualize outliers.
       Works with five multidimensional outlier detection algorithms.
       Higher degrees of abnormality are shown in larger, more red, and less transparent dots.
-
   -
     name: ggautothemes
     thumbnail: images/ggautothemes.png
