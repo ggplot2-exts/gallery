@@ -2368,3 +2368,22 @@ widgets:
       Displays scatterplots that visualize outliers.
       Works with five multidimensional outlier detection algorithms.
       Higher degrees of abnormality are shown in larger, more red, and less transparent dots.
+
+  -
+    name: ggautothemes
+    thumbnail: images/ggautothemes.png
+    url: https://github.com/lukastay/ggautothemes/tree/master
+    jslibs: >
+    ghuser: lukastay
+    ghrepo: ggautothemes
+    tags: visualization,theme,themeing,color
+    cran: false
+    release: 1.3
+    examples: https://github.com/lukastay/ggoutlierscatterplot/tree/main/man
+    ghauthor: lukastay
+    short: >
+      Quickly see how different themes will look on your ggplot visual.
+    description: >
+      Takes in a ggplot visual.
+      Outputs a "slideshow" (sleep functions are used to allow time to look upon graphs) that unfolds in your plot pane in RStudio.
+      High quality TIFF raster images can be outputted for professional use.
