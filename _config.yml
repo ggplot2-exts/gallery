@@ -1877,13 +1877,16 @@ widgets:
     ghuser: rnabioco
     ghrepo: ggtrace
     tags: visualization
-    cran: false
-    release:
+    cran: true
+    release: 0.2.0
     examples: https://rnabioco.github.io/ggtrace/articles/geom-point-trace.html
     ghauthor: sheridar
     short: >
       Outline groups of data points using ggplot2
     description: >    
+      Provides 'ggplot2' geoms that allow groups of data points to be outlined or
+      highlighted for emphasis. This is particularly useful when working with dense
+      datasets that are prone to overplotting.
     
  - 
     name: ggESDA
