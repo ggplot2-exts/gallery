@@ -1459,6 +1459,25 @@ widgets:
     description: >
       Expands options for facetted plots, including nested facets, adjusting sizes and facet-wise position scales.
       Also hosts a small selection of geoms, stats and positions.
+      
+ -
+    name: ggarrow
+    thumbnail: images/teunbrand-ggarrow.png
+    url: https://teunbrand.github.io/ggarrow/
+    jslibs: >
+    ghuser: teunbrand
+    ghrepo: ggarrow
+    tags: visualization, arrows, lines
+    cran: false
+    release: 0.0.0.9000
+    examples: https://teunbrand.github.io/ggarrow/index.html
+    ghauthor: teunbrand
+    short: >
+      Arrow geoms and arrow theme element with customisation options
+    description: >
+      ggarrow provides a rich variant of paths with arrows. It includes options
+      for variable-width paths, customisable arrow heads, endpoint dodging, 
+      and placing arrow heads along the path.
 
  -
     name: ggcharts
