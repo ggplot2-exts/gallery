@@ -211,10 +211,10 @@
   },
   "ggstatsplot_stars": {
     "cran": true,
-    "stargazers_count": 1796,
+    "stargazers_count": 1797,
     "open_issues_count": 60,
     "forks_count": 179,
-    "watchers_count": 1796
+    "watchers_count": 1797
   },
   "ggnetwork_stars": {
     "cran": true,
@@ -444,7 +444,7 @@
     "cran": true,
     "stargazers_count": 1697,
     "open_issues_count": 65,
-    "forks_count": 219,
+    "forks_count": 220,
     "watchers_count": 1697
   },
   "ggdark_stars": {
@@ -757,10 +757,10 @@
   },
   "ggDoubleHeat_stars": {
     "cran": true,
-    "stargazers_count": 11,
+    "stargazers_count": 12,
     "open_issues_count": 0,
     "forks_count": 1,
-    "watchers_count": 11
+    "watchers_count": 12
   },
   "nflplotR_stars": {
     "cran": true,
