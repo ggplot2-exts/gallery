@@ -422,6 +422,23 @@ widgets:
     description: >
 
  -
+    name: ggmap
+    thumbnail: https://github.com/dkahle/ggmap/blob/master/tools/README-route_trek-1.png
+    url: https://github.com/dkahle/ggmap/
+    jslibs: >
+    ghuser: dkahle
+    ghrepo: ggmap
+    tags: geospatial,maps
+    cran: true
+    release:
+    examples: 
+    ghauthor: dkahle
+    short: >
+      ggmap is a wrapper around the ggplot function supporting maps
+    description: >
+
+
+ -
     name: ggExtra
     thumbnail: images/ggExtra.png
     url: https://github.com/daattali/ggExtra
