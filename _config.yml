@@ -343,7 +343,7 @@ widgets:
     jslibs: >
     ghuser: aphalo
     ghrepo: gginnards
-    tags: grammar extensions,layer manipulation,debug
+    tags: visualization,general,layer manipulation,debug
     cran: true
     release:
     examples: https://docs.r4photobiology.info/gginnards/articles
@@ -365,14 +365,13 @@ widgets:
     jslibs: >
     ghuser: aphalo
     ghrepo: ggpp
-    tags: grammar extensions,plot insets,position nudge,npc
+    tags: visualization,general
     cran: true
     release:
     examples: https://docs.r4photobiology.info/ggpp/articles
     ghauthor: aphalo
     short: >
-      Add plots, tables and grobs as plot insets; nudge labels away from a focal
-      point or line; filter observations by local density.
+      Plot annotations, data labels, insets (geoms, statistics, positions).
     description: >
       Package ‘ggpp’ (Grammar Extensions) is a set of extensions to 
       R package ‘ggplot2’ (>= 3.0.0). Provides `geom_plot()`, `geom_grob()`, 
@@ -574,16 +573,15 @@ widgets:
     thumbnail: images/ggspectra.png
     url: https://docs.r4photobiology.info/ggspectra
     jslibs: >
-    ghuser:
-    ghrepo:
+    ghuser: aphalo
+    ghrepo: ggspectra
     tags: visualization,general
     cran: true
     release:
     examples: https://docs.r4photobiology.info/ggspectra/articles
     ghauthor: aphalo
     short: >
-      'ggspectra' extends 'ggplot2' with stats, geoms and annotations for
-      plotting light spectra.
+      Plot light-related spectra (autoplot, stats, geoms, scales).
     description: >
       The goal of ‘ggspectra’ is to make it easy to plot radiation spectra and
       similar data, such and transmittance, absorbance and reflectance spectra,
