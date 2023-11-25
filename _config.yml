@@ -423,7 +423,7 @@ widgets:
 
  -
     name: ggmap
-    thumbnail: https://github.com/dkahle/ggmap/blob/master/tools/README-route_trek-1.png
+    thumbnail: images/ggmap.png
     url: https://github.com/dkahle/ggmap/
     jslibs: >
     ghuser: dkahle
