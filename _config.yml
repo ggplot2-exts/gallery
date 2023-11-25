@@ -343,14 +343,14 @@ widgets:
     jslibs: >
     ghuser: aphalo
     ghrepo: gginnards
-    tags: grammar extensions,layer manipulation,debug
+    tags: visualization,general,layer manipulation,debug
     cran: true
     release:
     examples: https://docs.r4photobiology.info/gginnards/articles
     ghauthor: aphalo
     short: >
-      Find, delete, insert and move plot layers. Delete unused data from the
-      data object stored within a ggplot object. Dump data to the R console.
+      Find, delete, insert and move plot layers. Delete unused variables from 
+      the data stored within a ggplot object. Dump data to the R console.
     description: >
       Package ‘gginnards’ is a set of extensions to R package ‘ggplot2’ 
       (>= 3.0.0). Provides tools making easy to edit and explore ggplot objects.
@@ -365,14 +365,14 @@ widgets:
     jslibs: >
     ghuser: aphalo
     ghrepo: ggpp
-    tags: grammar extensions,plot insets,position nudge,npc
+    tags: visualization,general
     cran: true
     release:
     examples: https://docs.r4photobiology.info/ggpp/articles
     ghauthor: aphalo
     short: >
-      Add plots, tables and grobs as plot insets; nudge labels away from a focal
-      point or line; filter observations by local density.
+      Plot annotations, data labels, plot insets, filter labels by local 
+      density (geoms, statistics, positions).
     description: >
       Package ‘ggpp’ (Grammar Extensions) is a set of extensions to 
       R package ‘ggplot2’ (>= 3.0.0). Provides `geom_plot()`, `geom_grob()`, 
@@ -389,14 +389,15 @@ widgets:
     jslibs: >
     ghuser: aphalo
     ghrepo: ggpmisc
-    tags: visualization,general,model fit,anova,table
+    tags: visualization,statistics,general
     cran: true
     release:
     examples: https://docs.r4photobiology.info/ggpmisc/articles
     ghauthor: aphalo
     short: >
-      Annotate plots with fitted model equations, ANOVA tables, summary tables;
-      find and label peaks and valleys; annotations support grouping and facets.
+      Model equation, line, residuals (lm, quantile, MA, rlm, etc.), P, F, AIC, 
+      BIC, n, correlation, ANOVA and summary tables, multiple comparisons, 
+      peaks and valleys, centroid, data labels.
     description: >
       Package ‘ggpmisc’ (Miscellaneous Extensions to ‘ggplot2’) is a set of
       extensions to R package ‘ggplot2’ (>= 3.0.0) with emphasis on annotations
@@ -574,16 +575,16 @@ widgets:
     thumbnail: images/ggspectra.png
     url: https://docs.r4photobiology.info/ggspectra
     jslibs: >
-    ghuser:
-    ghrepo:
+    ghuser: aphalo
+    ghrepo: ggspectra
     tags: visualization,general
     cran: true
     release:
     examples: https://docs.r4photobiology.info/ggspectra/articles
     ghauthor: aphalo
     short: >
-      'ggspectra' extends 'ggplot2' with stats, geoms and annotations for
-      plotting light spectra.
+      Plot light-related spectra, peaks, valleys, half maximum, labels with 
+      summaries and colours from spectral data (autoplot, stats, geoms, scales).
     description: >
       The goal of ‘ggspectra’ is to make it easy to plot radiation spectra and
       similar data, such and transmittance, absorbance and reflectance spectra,
