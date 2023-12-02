@@ -2409,3 +2409,21 @@ widgets:
       Takes in a ggplot visual.
       Outputs a "slideshow" (sleep functions are used to allow time to look upon graphs) that unfolds in your plot pane in RStudio.
       High quality TIFF raster images can be outputted for professional use.
+
+ -
+    name: AMR
+    thumbnail: images/amr.png
+    url: https://msberends.github.io/AMR/
+    jslibs: >
+    ghuser: msberends
+    ghrepo: AMR
+    tags: visualization,epidemiology,color,fill
+    cran: true
+    release: 2.1.1
+    examples: https://msberends.github.io/AMR/reference/plot.html
+    ghauthor: msberends
+    short: >
+      Plotting AMR results for SIR categories, MIC values, and disk diffusion diameters
+    description: >
+      Specialized for visualizing antimicrobial resistance data, it offers intuitive, it offers intuitive, customizable plots
+      for SIR categorizations, MIC distributions, and disk diffusion data, simplifying complex microbiological analyses.
