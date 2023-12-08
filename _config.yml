@@ -2427,3 +2427,25 @@ widgets:
     description: >
       Specialized for visualizing antimicrobial resistance data, it offers intuitive, it offers intuitive, customizable plots
       for SIR categorizations, MIC distributions, and disk diffusion data, simplifying complex microbiological analyses.
+
+ -
+    name: ichimoku
+    thumbnail: images/ichimoku.png
+    url: https://shikokuchuo.net/ichimoku/
+    jslibs: >
+    ghuser: shikokuchuo
+    ghrepo: ichimoku
+    tags: visualization,time-series,finance,trading,candlestick
+    cran: true
+    release: 1.4.10
+    examples: https://shikokuchuo.net/ichimoku/articles/reference.html
+    ghauthor: shikokuchuo
+    short: >
+      Visualization and Tools for Ichimoku Kinko Hyo Strategies
+    description: >
+      An implementation of ‘Ichimoku Kinko Hyo’, also commonly known as ‘cloud charts’.
+      As described in Sasaki (1996, ISBN:4925152009), the technique is a refinement
+      on candlestick charting, originating from Japan and now in widespread use in
+      technical analysis worldwide. Translating as ‘one-glance equilibrium chart’, it
+      allows the price action and market structure of financial securities to be
+      determined ‘at-a-glance’. 
