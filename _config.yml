@@ -2449,3 +2449,23 @@ widgets:
       technical analysis worldwide. Translating as ‘one-glance equilibrium chart’, it
       allows the price action and market structure of financial securities to be
       determined ‘at-a-glance’. 
+ 
+ -
+    name: eheat
+    thumbnail: images/eheat.png
+    url: https://github.com/Yunuuuu/eheat
+    jslibs: >
+    ghuser: Yunuuuu
+    ghrepo: eheat
+    tags: visualization,heatmap
+    cran: false
+    release: 0.0.0.9000
+    examples: https://github.com/Yunuuuu/eheat
+    ghauthor: Yunuuuu
+    short: >
+      Extended ComplexHeatmap with ggplot2
+    description: >
+      This package serves as a bridge between the ggplot2 and ComplexHeatmap packages. 
+      Essentially, all ggplot2 geometries and operations can be utilized in ComplexHeatmap through the eheat package, 
+      with the exception of facet operations (and you shouldn’t do it in eheat package). Fortunately, ComplexHeatmap
+      is capable of handling these operations independently, rendering them unnecessary.
