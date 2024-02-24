@@ -343,14 +343,14 @@ widgets:
     jslibs: >
     ghuser: aphalo
     ghrepo: gginnards
-    tags: grammar extensions,layer manipulation,debug
+    tags: visualization,general,layer manipulation,debug
     cran: true
     release:
     examples: https://docs.r4photobiology.info/gginnards/articles
     ghauthor: aphalo
     short: >
-      Find, delete, insert and move plot layers. Delete unused data from the
-      data object stored within a ggplot object. Dump data to the R console.
+      Find, delete, insert and move plot layers. Delete unused variables from 
+      the data stored within a ggplot object. Dump data to the R console.
     description: >
       Package ‘gginnards’ is a set of extensions to R package ‘ggplot2’ 
       (>= 3.0.0). Provides tools making easy to edit and explore ggplot objects.
@@ -365,14 +365,14 @@ widgets:
     jslibs: >
     ghuser: aphalo
     ghrepo: ggpp
-    tags: grammar extensions,plot insets,position nudge,npc
+    tags: visualization,general
     cran: true
     release:
     examples: https://docs.r4photobiology.info/ggpp/articles
     ghauthor: aphalo
     short: >
-      Add plots, tables and grobs as plot insets; nudge labels away from a focal
-      point or line; filter observations by local density.
+      Plot annotations, data labels, plot insets, filter labels by local 
+      density (geoms, statistics, positions).
     description: >
       Package ‘ggpp’ (Grammar Extensions) is a set of extensions to 
       R package ‘ggplot2’ (>= 3.0.0). Provides `geom_plot()`, `geom_grob()`, 
@@ -389,14 +389,15 @@ widgets:
     jslibs: >
     ghuser: aphalo
     ghrepo: ggpmisc
-    tags: visualization,general,model fit,anova,table
+    tags: visualization,statistics,general
     cran: true
     release:
     examples: https://docs.r4photobiology.info/ggpmisc/articles
     ghauthor: aphalo
     short: >
-      Annotate plots with fitted model equations, ANOVA tables, summary tables;
-      find and label peaks and valleys; annotations support grouping and facets.
+      Model equation, line, residuals (lm, quantile, MA, rlm, etc.), P, F, AIC, 
+      BIC, n, correlation, ANOVA and summary tables, multiple comparisons, 
+      peaks and valleys, centroid, data labels.
     description: >
       Package ‘ggpmisc’ (Miscellaneous Extensions to ‘ggplot2’) is a set of
       extensions to R package ‘ggplot2’ (>= 3.0.0) with emphasis on annotations
@@ -574,16 +575,16 @@ widgets:
     thumbnail: images/ggspectra.png
     url: https://docs.r4photobiology.info/ggspectra
     jslibs: >
-    ghuser:
-    ghrepo:
+    ghuser: aphalo
+    ghrepo: ggspectra
     tags: visualization,general
     cran: true
     release:
     examples: https://docs.r4photobiology.info/ggspectra/articles
     ghauthor: aphalo
     short: >
-      'ggspectra' extends 'ggplot2' with stats, geoms and annotations for
-      plotting light spectra.
+      Plot light-related spectra, peaks, valleys, half maximum, labels with 
+      summaries and colours from spectral data (autoplot, stats, geoms, scales).
     description: >
       The goal of ‘ggspectra’ is to make it easy to plot radiation spectra and
       similar data, such and transmittance, absorbance and reflectance spectra,
@@ -1459,6 +1460,25 @@ widgets:
     description: >
       Expands options for facetted plots, including nested facets, adjusting sizes and facet-wise position scales.
       Also hosts a small selection of geoms, stats and positions.
+      
+ -
+    name: ggarrow
+    thumbnail: images/teunbrand-ggarrow.png
+    url: https://teunbrand.github.io/ggarrow/
+    jslibs: >
+    ghuser: teunbrand
+    ghrepo: ggarrow
+    tags: visualization, arrows, lines
+    cran: false
+    release: 0.0.0.9000
+    examples: https://teunbrand.github.io/ggarrow/index.html
+    ghauthor: teunbrand
+    short: >
+      Arrow geoms and arrow theme element with customisation options
+    description: >
+      ggarrow provides a rich variant of paths with arrows. It includes options
+      for variable-width paths, customisable arrow heads, endpoint dodging, 
+      and placing arrow heads along the path.
 
  -
     name: ggcharts
@@ -1877,13 +1897,16 @@ widgets:
     ghuser: rnabioco
     ghrepo: ggtrace
     tags: visualization
-    cran: false
-    release:
+    cran: true
+    release: 0.2.0
     examples: https://rnabioco.github.io/ggtrace/articles/geom-point-trace.html
     ghauthor: sheridar
     short: >
       Outline groups of data points using ggplot2
     description: >    
+      Provides 'ggplot2' geoms that allow groups of data points to be outlined or
+      highlighted for emphasis. This is particularly useful when working with dense
+      datasets that are prone to overplotting.
     
  - 
     name: ggESDA
@@ -2368,3 +2391,81 @@ widgets:
       Displays scatterplots that visualize outliers.
       Works with five multidimensional outlier detection algorithms.
       Higher degrees of abnormality are shown in larger, more red, and less transparent dots.
+ -
+    name: ggautothemes
+    thumbnail: images/ggautothemes.png
+    url: https://github.com/lukastay/ggautothemes/tree/master
+    jslibs: >
+    ghuser: lukastay
+    ghrepo: ggautothemes
+    tags: visualization,theme,themeing,color,fill,hue,ggthemes
+    cran: false
+    release: 1.3
+    examples: https://github.com/lukastay/ggoutlierscatterplot/tree/main/man
+    ghauthor: lukastay
+    short: >
+      Quickly see how different themes will look on your ggplot visual.
+    description: >
+      Takes in a ggplot visual.
+      Outputs a "slideshow" (sleep functions are used to allow time to look upon graphs) that unfolds in your plot pane in RStudio.
+      High quality TIFF raster images can be outputted for professional use.
+
+ -
+    name: AMR
+    thumbnail: images/amr.png
+    url: https://msberends.github.io/AMR/
+    jslibs: >
+    ghuser: msberends
+    ghrepo: AMR
+    tags: visualization,epidemiology,color,fill
+    cran: true
+    release: 2.1.1
+    examples: https://msberends.github.io/AMR/reference/plot.html
+    ghauthor: msberends
+    short: >
+      Plotting AMR results for SIR categories, MIC values, and disk diffusion diameters
+    description: >
+      Specialized for visualizing antimicrobial resistance data, it offers intuitive, it offers intuitive, customizable plots
+      for SIR categorizations, MIC distributions, and disk diffusion data, simplifying complex microbiological analyses.
+
+ -
+    name: ichimoku
+    thumbnail: images/ichimoku.png
+    url: https://shikokuchuo.net/ichimoku/
+    jslibs: >
+    ghuser: shikokuchuo
+    ghrepo: ichimoku
+    tags: visualization,time-series,finance,trading,candlestick
+    cran: true
+    release: 1.4.10
+    examples: https://shikokuchuo.net/ichimoku/articles/reference.html
+    ghauthor: shikokuchuo
+    short: >
+      Visualization and Tools for Ichimoku Kinko Hyo Strategies
+    description: >
+      An implementation of ‘Ichimoku Kinko Hyo’, also commonly known as ‘cloud charts’.
+      As described in Sasaki (1996, ISBN:4925152009), the technique is a refinement
+      on candlestick charting, originating from Japan and now in widespread use in
+      technical analysis worldwide. Translating as ‘one-glance equilibrium chart’, it
+      allows the price action and market structure of financial securities to be
+      determined ‘at-a-glance’. 
+ 
+ -
+    name: eheat
+    thumbnail: images/eheat.png
+    url: https://github.com/Yunuuuu/eheat
+    jslibs: >
+    ghuser: Yunuuuu
+    ghrepo: eheat
+    tags: visualization,heatmap
+    cran: false
+    release: 0.0.0.9000
+    examples: https://github.com/Yunuuuu/eheat
+    ghauthor: Yunuuuu
+    short: >
+      Extended ComplexHeatmap with ggplot2
+    description: >
+      This package serves as a bridge between the ggplot2 and ComplexHeatmap packages. 
+      Essentially, all ggplot2 geometries and operations can be utilized in ComplexHeatmap through the eheat package, 
+      with the exception of facet operations (and you shouldn’t do it in eheat package). Fortunately, ComplexHeatmap
+      is capable of handling these operations independently, rendering them unnecessary.
