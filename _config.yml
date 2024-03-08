@@ -2469,3 +2469,22 @@ widgets:
       Essentially, all ggplot2 geometries and operations can be utilized in ComplexHeatmap through the eheat package, 
       with the exception of facet operations (and you shouldn’t do it in eheat package). Fortunately, ComplexHeatmap
       is capable of handling these operations independently, rendering them unnecessary.
+
+ -
+    name: ggstat
+    thumbnail: images/ggstat.png
+    url: https://larmarange.github.io/ggstats/
+    jslibs: >
+    ghuser: larmarange
+    ghrepo: ggstat
+    tags: visualization,p-values,forest plot,geoms,positions,statistics,Likert
+    cran: true
+    examples: https://larmarange.github.io/ggstats/
+    ghauthor: larmarange
+    short: >
+      Forest plots of model coefficients, Likert plots and custom proportions
+    description: >
+      This package provides new statistics, new geometries and new positions for 'ggplot2' 
+      and a suite of functions to facilitate the creation of statistical plots such as
+      forest plots of model coefficients, bar plots for Likert-type items, custom
+      proportions or survey data.
