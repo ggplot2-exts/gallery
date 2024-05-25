@@ -2471,12 +2471,12 @@ widgets:
       is capable of handling these operations independently, rendering them unnecessary.
 
  -
-    name: ggstat
+    name: ggstats
     thumbnail: images/ggstat.png
     url: https://larmarange.github.io/ggstats/
     jslibs: >
     ghuser: larmarange
-    ghrepo: ggstat
+    ghrepo: ggstats
     tags: visualization,p-values,forest plot,geoms,positions,statistics,Likert
     cran: true
     examples: https://larmarange.github.io/ggstats/
