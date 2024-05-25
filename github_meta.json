@@ -219,7 +219,7 @@
   "ggstatsplot_stars": {
     "cran": true,
     "stargazers_count": 1936,
-    "open_issues_count": 62,
+    "open_issues_count": 60,
     "forks_count": 180,
     "watchers_count": 1936
   },
@@ -400,10 +400,10 @@
   },
   "ggsignif_stars": {
     "cran": true,
-    "stargazers_count": 557,
+    "stargazers_count": 558,
     "open_issues_count": 26,
     "forks_count": 41,
-    "watchers_count": 557
+    "watchers_count": 558
   },
   "ggdag_stars": {
     "cran": true,
