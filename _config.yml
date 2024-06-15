@@ -2488,3 +2488,20 @@ widgets:
       and a suite of functions to facilitate the creation of statistical plots such as
       forest plots of model coefficients, bar plots for Likert-type items, custom
       proportions or survey data.
+
+ -
+    name: ggfoundry
+    thumbnail: images/cgoo4-ggfoundry.png
+    url: https://cgoo4.github.io/ggfoundry/
+    jslibs: >
+    ghuser: cgoo4
+    ghrepo: ggfoundry
+    tags: visualization,geoms,color,fill,shapes
+    cran: true
+    release: 0.2.0
+    examples: https://cgoo4.github.io/ggfoundry/
+    ghauthor: cgoo4
+    short: >
+      Shape Foundry & Geom for 'ggplot2'.
+    description: >
+      Hand-crafted colourable & fillable shapes.
