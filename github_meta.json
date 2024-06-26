@@ -120,10 +120,10 @@
   },
   "ggraph_stars": {
     "cran": true,
-    "stargazers_count": 1055,
+    "stargazers_count": 1056,
     "open_issues_count": 40,
     "forks_count": 111,
-    "watchers_count": 1055
+    "watchers_count": 1056
   },
   "gginnards_stars": {
     "cran": true,
@@ -225,10 +225,10 @@
   },
   "ggnetwork_stars": {
     "cran": true,
-    "stargazers_count": 141,
-    "open_issues_count": 22,
+    "stargazers_count": 142,
+    "open_issues_count": 23,
     "forks_count": 28,
-    "watchers_count": 141
+    "watchers_count": 142
   },
   "ggtech_stars": {
     "cran": false,
@@ -274,10 +274,10 @@
   },
   "ggsci_stars": {
     "cran": true,
-    "stargazers_count": 649,
+    "stargazers_count": 650,
     "open_issues_count": 1,
     "forks_count": 70,
-    "watchers_count": 649
+    "watchers_count": 650
   },
   "ggmosaic_stars": {
     "cran": true,
@@ -289,7 +289,7 @@
   "survminer_stars": {
     "cran": true,
     "stargazers_count": 486,
-    "open_issues_count": 289,
+    "open_issues_count": 290,
     "forks_count": 159,
     "watchers_count": 486
   },
@@ -380,7 +380,7 @@
   "ggalluvial_stars": {
     "cran": true,
     "stargazers_count": 482,
-    "open_issues_count": 13,
+    "open_issues_count": 14,
     "forks_count": 35,
     "watchers_count": 482
   },
@@ -422,8 +422,8 @@
   "ggbeeswarm_stars": {
     "cran": true,
     "stargazers_count": 528,
-    "open_issues_count": 12,
-    "forks_count": 30,
+    "open_issues_count": 13,
+    "forks_count": 31,
     "watchers_count": 528
   },
   "ggperiodic_stars": {
@@ -491,17 +491,17 @@
   },
   "gggenes_stars": {
     "cran": true,
-    "stargazers_count": 476,
+    "stargazers_count": 477,
     "open_issues_count": 8,
     "forks_count": 49,
-    "watchers_count": 476
+    "watchers_count": 477
   },
   "gggenomes_stars": {
     "cran": false,
-    "stargazers_count": 568,
+    "stargazers_count": 569,
     "open_issues_count": 33,
     "forks_count": 63,
-    "watchers_count": 568
+    "watchers_count": 569
   },
   "treemapify_stars": {
     "cran": true,
@@ -914,10 +914,10 @@
   },
   "eheat_stars": {
     "cran": false,
-    "stargazers_count": 5,
+    "stargazers_count": 6,
     "open_issues_count": 0,
     "forks_count": 0,
-    "watchers_count": 5
+    "watchers_count": 6
   },
   "ggstats_stars": {
     "cran": true,
