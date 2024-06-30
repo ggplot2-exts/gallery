@@ -8,10 +8,10 @@
   },
   "ggupset_stars": {
     "cran": true,
-    "stargazers_count": 321,
+    "stargazers_count": 322,
     "open_issues_count": 18,
     "forks_count": 22,
-    "watchers_count": 321
+    "watchers_count": 322
   },
   "xmrr_stars": {
     "cran": true,
@@ -57,10 +57,10 @@
   },
   "ggbreak_stars": {
     "cran": true,
-    "stargazers_count": 117,
+    "stargazers_count": 118,
     "open_issues_count": 30,
     "forks_count": 4,
-    "watchers_count": 117
+    "watchers_count": 118
   },
   "ggimg_stars": {
     "cran": true,
@@ -134,10 +134,10 @@
   },
   "ggpp_stars": {
     "cran": true,
-    "stargazers_count": 115,
-    "open_issues_count": 8,
+    "stargazers_count": 116,
+    "open_issues_count": 9,
     "forks_count": 11,
-    "watchers_count": 115
+    "watchers_count": 116
   },
   "ggpmisc_stars": {
     "cran": true,
@@ -386,10 +386,10 @@
   },
   "patchwork_stars": {
     "cran": true,
-    "stargazers_count": 2410,
+    "stargazers_count": 2411,
     "open_issues_count": 41,
     "forks_count": 157,
-    "watchers_count": 2410
+    "watchers_count": 2411
   },
   "ggquiver_stars": {
     "cran": true,
@@ -554,10 +554,10 @@
   },
   "ggh4x_stars": {
     "cran": true,
-    "stargazers_count": 532,
+    "stargazers_count": 533,
     "open_issues_count": 4,
     "forks_count": 32,
-    "watchers_count": 532
+    "watchers_count": 533
   },
   "ggarrow_stars": {
     "cran": true,
@@ -589,10 +589,10 @@
   },
   "ggseg_stars": {
     "cran": true,
-    "stargazers_count": 198,
+    "stargazers_count": 199,
     "open_issues_count": 8,
     "forks_count": 29,
-    "watchers_count": 198
+    "watchers_count": 199
   },
   "mdthemes_stars": {
     "cran": false,
@@ -743,10 +743,10 @@
   },
   "ggtranscript_stars": {
     "cran": false,
-    "stargazers_count": 117,
+    "stargazers_count": 118,
     "open_issues_count": 9,
     "forks_count": 8,
-    "watchers_count": 117
+    "watchers_count": 118
   },
   "piecepackr_stars": {
     "cran": true,
@@ -786,7 +786,7 @@
   "ggblanket_stars": {
     "cran": true,
     "stargazers_count": 143,
-    "open_issues_count": 26,
+    "open_issues_count": 27,
     "forks_count": 8,
     "watchers_count": 143
   },
