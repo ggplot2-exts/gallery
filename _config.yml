@@ -2505,3 +2505,20 @@ widgets:
       Shape Foundry & Geom for 'ggplot2'.
     description: >
       Hand-crafted colourable & fillable shapes.
+
+ -
+    name: ggheat
+    thumbnail: images/ggheat.png
+    url: https://github.com/Yunuuuu/ggheat
+    jslibs: >
+    ghuser: Yunuuuu
+    ghrepo: ggheat
+    tags: visualization,heatmap
+    cran: false
+    release: 0.0.0.9000
+    examples: https://github.com/Yunuuuu/ggheat
+    ghauthor: Yunuuuu
+    short: >
+      Create Complex Heatmap Using the Grammar of Graphics
+    description: >
+      This package is a ggplot2 extension for heatmap. It utilizes the grammar of graphics to construct the heatmap and heatmap annotations.
