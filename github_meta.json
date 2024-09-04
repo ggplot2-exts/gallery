@@ -50,10 +50,10 @@
   },
   "ggpage_stars": {
     "cran": true,
-    "stargazers_count": 333,
+    "stargazers_count": 334,
     "open_issues_count": 4,
     "forks_count": 12,
-    "watchers_count": 333
+    "watchers_count": 334
   },
   "ggbreak_stars": {
     "cran": true,
@@ -78,10 +78,10 @@
   },
   "ggforce_stars": {
     "cran": true,
-    "stargazers_count": 913,
+    "stargazers_count": 915,
     "open_issues_count": 56,
     "forks_count": 105,
-    "watchers_count": 913
+    "watchers_count": 915
   },
   "ggalt_stars": {
     "cran": true,
@@ -303,7 +303,7 @@
   "ggside_stars": {
     "cran": true,
     "stargazers_count": 333,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 16,
     "watchers_count": 333
   },
@@ -386,10 +386,10 @@
   },
   "patchwork_stars": {
     "cran": true,
-    "stargazers_count": 2438,
+    "stargazers_count": 2439,
     "open_issues_count": 21,
     "forks_count": 159,
-    "watchers_count": 2438
+    "watchers_count": 2439
   },
   "ggquiver_stars": {
     "cran": true,
@@ -498,10 +498,10 @@
   },
   "gggenomes_stars": {
     "cran": true,
-    "stargazers_count": 580,
+    "stargazers_count": 581,
     "open_issues_count": 34,
     "forks_count": 64,
-    "watchers_count": 580
+    "watchers_count": 581
   },
   "treemapify_stars": {
     "cran": true,
@@ -695,7 +695,7 @@
   "see_stars": {
     "cran": true,
     "stargazers_count": 870,
-    "open_issues_count": 47,
+    "open_issues_count": 48,
     "forks_count": 43,
     "watchers_count": 870
   },
@@ -743,10 +743,10 @@
   },
   "ggtranscript_stars": {
     "cran": false,
-    "stargazers_count": 128,
+    "stargazers_count": 129,
     "open_issues_count": 4,
     "forks_count": 9,
-    "watchers_count": 128
+    "watchers_count": 129
   },
   "piecepackr_stars": {
     "cran": true,
@@ -786,7 +786,7 @@
   "ggblanket_stars": {
     "cran": true,
     "stargazers_count": 150,
-    "open_issues_count": 30,
+    "open_issues_count": 31,
     "forks_count": 8,
     "watchers_count": 150
   },
@@ -814,7 +814,7 @@
   "tidyterra_stars": {
     "cran": true,
     "stargazers_count": 164,
-    "open_issues_count": 7,
+    "open_issues_count": 8,
     "forks_count": 7,
     "watchers_count": 164
   },
