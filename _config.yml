@@ -2525,3 +2525,20 @@ widgets:
       It is specifically designed to align a specific axis of multiple ggplot objects in a consistent order. 
       This functionality is particularly useful for plots that require manipulation of data order. A common 
       plot combination that can be effectively organized using this package includes a dendrogram and a heatmap.
+
+ -
+    name: ggreveal
+    thumbnail: images/ggreveal.png
+    url: https://weverthon.com/ggreveal/
+    ghuser: weverthonmachado
+    ghrepo: ggreveal
+    tags: visualization,presentation,slides
+    cran: true
+    ghauthor: weverthonmachado
+    short: >
+      Reveal a 'ggplot' Incrementally
+    description: >
+      Provides functions that make it easy to reveal 'ggplot2' graphs
+      incrementally. The functions take a plot produced with 'ggplot2' and
+      return a list of plots showing data incrementally by panels, layers,
+      groups, the values in an axis or any arbitrary aesthetic.
