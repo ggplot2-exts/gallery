@@ -338,7 +338,7 @@
   "ggseqlogo_stars": {
     "cran": true,
     "stargazers_count": 202,
-    "open_issues_count": 25,
+    "open_issues_count": 23,
     "forks_count": 30,
     "watchers_count": 202
   },
@@ -935,10 +935,10 @@
   },
   "ggalign_stars": {
     "cran": true,
-    "stargazers_count": 13,
+    "stargazers_count": 14,
     "open_issues_count": 2,
     "forks_count": 0,
-    "watchers_count": 13
+    "watchers_count": 14
   },
   "ggreveal_stars": {
     "cran": true,
