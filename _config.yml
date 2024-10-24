@@ -2552,7 +2552,7 @@ widgets:
     ghrepo: geofacet
     tags: visualization,facet,facets,geo,geography,composition
     cran: true
-    examples: >
+    examples: https://ryanhafen.com/blog/geofacet/
     ghauthor: hafen
     short: >
       Easy faceting according to geographic position
