@@ -1741,7 +1741,7 @@ widgets:
       Grammar of Graphics for linear model diagnostic plots.
     description: >
       `gglm`, The Grammar of Graphics for Linear Model Diagnostics, is a package that
-      creates beautiful `ggplot2` diagonostic plots for linear models that are easy to use
+      creates beautiful `ggplot2` diagnostic plots for linear models that are easy to use
       and adhere to The Grammar of Graphics. The purpose of this package is to provide a
       sensible alternative to using the base-R `plot()` function to produce diagnostic plots
       for linear models.
@@ -2543,3 +2543,18 @@ widgets:
       incrementally. The functions take a plot produced with 'ggplot2' and
       return a list of plots showing data incrementally by panels, layers,
       groups, the values in an axis or any arbitrary aesthetic.
+
+ -
+    name: geofacet
+    thumbnail: images/geofacet_us_unemp.png
+    url: https://hafen.github.io/geofacet/
+    ghuser: hafen
+    ghrepo: geofacet
+    tags: visualization,facet,facets,geo,geography,composition
+    cran: true
+    examples: https://ryanhafen.com/blog/geofacet/
+    ghauthor: hafen
+    short: >
+      Easy faceting according to geographic position
+    description: >
+      This R package provides geofaceting functionality for ggplot2. Geofaceting arranges a sequence of plots of data for different geographical entities into a grid that strives to preserve some of the original geographical orientation of the entities.
