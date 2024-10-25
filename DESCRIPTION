@@ -1,0 +1,7 @@
+Package: ggplot2-exts-gallery
+Version: 0.0.0
+Imports: 
+    gh,
+    jsonlite,
+    rlang,
+    yaml
