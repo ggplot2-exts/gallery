@@ -49,9 +49,17 @@ jobs:
 
       - name: Update and commit
         run: |
+          # Update github_meta.json
           Rscript ./scripts/github_meta.R
-          git config --local user.name 'github-actions[bot]'
-          git config --local user.email 'github-actions[bot]@users.noreply.github.com'
+
+          # detect changes (the code is derived from https://stackoverflow.com/a/3879077)
           git add ./github_meta.json
-          git commit -m "Update github_meta.json [skip ci]"
-          git push origin gh-pages
+          git update-index --refresh
+          if ! git diff-index --quiet HEAD -- bindings/; then
+            git config --local user.name 'github-actions[bot]'
+            git config --local user.email 'github-actions[bot]@users.noreply.github.com'
+            git commit -m "Update github_meta.json [skip ci]"
+            git push origin gh-pages
+          else
+            echo "No changes"
+          fi
