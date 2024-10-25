@@ -1,7 +1,8 @@
 on:
   push:
     branches:
-      - gh-pages
+      # - gh-pages
+      - *
   schedule:
     - cron: '15 14 * * *'
 
@@ -31,11 +32,11 @@ jobs:
           # detect changes (the code is derived from https://stackoverflow.com/a/3879077)
           git add ./github_meta.json
           git update-index --refresh
-          if ! git diff-index --quiet HEAD -- bindings/; then
+          if ! git diff-index --quiet HEAD -- ./github_meta.json; then
             git config --local user.name 'github-actions[bot]'
             git config --local user.email 'github-actions[bot]@users.noreply.github.com'
             git commit -m "Update github_meta.json [skip ci]"
-            git push origin gh-pages
+            git push origin "${{ github.ref }}"
           else
             echo "No changes"
           fi
