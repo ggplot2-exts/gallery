@@ -1,8 +1,7 @@
 on:
   push:
     branches:
-      # - gh-pages
-      - update-ci
+      - gh-pages
   schedule:
     - cron: '15 14 * * *'
 
