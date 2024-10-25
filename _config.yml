@@ -2241,10 +2241,10 @@ widgets:
  -
     name: ggterror
     thumbnail: images/mivalek-ggterror.png
-    url: https://github.com/mivaek/ggterror
+    url: https://github.com/mivaek/ggterrorbar
     jslibs: >
     ghuser: mivalek
-    ghrepo: ggterror
+    ghrepo: ggterrorbar
     tags: visualization, geoms
     cran: false
     examples: https://mival.netlify.app/blog/2023/01/introducing-geom_terrorbar/
