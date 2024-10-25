@@ -20,32 +20,14 @@ jobs:
       - uses: r-lib/actions/setup-r@v1
         id: install-r
 
-      - name: Install pak and query dependencies
-        run: |
-          install.packages("pak", repos = "https://r-lib.github.io/p/pak/dev/")
-        shell: Rscript {0}
-
-      - name: Restore R package cache
-        uses: actions/cache@v2
-        with:
-          path: |
-            ${{ env.R_LIBS_USER }}/*
-            !${{ env.R_LIBS_USER }}/pak
-          key: ubuntu-latest-${{ steps.install-r.outputs.installed-r-version }}-1
-
-      - name: Install system dependencies
-        if: runner.os == 'Linux'
-        run: |
-          pak::pkg_system_requirements("yaml",     execute = TRUE)
-          pak::pkg_system_requirements("jsonlite", execute = TRUE)
-          pak::pkg_system_requirements("gh",       execute = TRUE)
-          pak::pkg_system_requirements("rlang",    execute = TRUE)
-        shell: Rscript {0}
-
       - name: Install dependencies
-        run: |
-          pak::pkg_install(c("yaml", "jsonlite", "gh", "rlang"))
-        shell: Rscript {0}
+        uses: r-lib/actions/setup-r-dependencies@v2
+        with:
+          extra-packages: |
+            any::yaml
+            any::jsonlite
+            any::gh
+            any::rlang
 
       - name: Update and commit
         run: |
