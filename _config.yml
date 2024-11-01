@@ -160,6 +160,27 @@ widgets:
       relating to the length of the words. Which then is divided in lines
       and pages for easy overview of up to quite large texts.
 
+-
+  name: ggpca
+  thumbnail: images/ggpca.png
+  url: https://cran.r-project.org/web/packages/ggpca/index.html
+  jslibs: >
+  ghuser: YaoxiangLi
+  ghrepo: ggpca
+  tags: visualization,dimensionality_reduction,PCA,t-SNE,UMAP
+  cran: true
+  release:
+  examples: https://cran.rstudio.com/web/packages/ggpca/vignettes/ggpca-examples.html
+  ghauthor: Yaoxiang Li
+  short: >
+    Provides tools for creating publication-ready PCA, t-SNE, and UMAP plots.
+  description: >
+    `ggpca` offers publication-ready dimensionality reduction plots, including Principal Component Analysis (PCA),
+    t-Distributed Stochastic Neighbor Embedding (t-SNE), and Uniform Manifold Approximation and Projection (UMAP). 
+    Designed for high-dimensional data visualization, it includes options for custom labels, density plots, and faceting,
+    and is built on the 'ggplot2' framework. Useful for researchers and data scientists in various fields for efficient
+    and insightful data visualization.
+
  -
     name: ggbreak
     thumbnail: images/ggbreak.png
