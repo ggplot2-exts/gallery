@@ -116,7 +116,6 @@
             <p class="widget-shortdesc">{{ widget.short | markdownify | remove: '<p>' | remove: '</p>' }}</p>
             <p class="widget-list-item"><i class="material-icons meta-bullet red-text">stop</i><span class="red-text">author:</span> <span class="widget-author widget-meta"><a href="https://github.com/{{ widget.ghauthor }}">{{ widget.ghauthor }}</a></span></p>
             <p class="widget-list-item"><i class="material-icons meta-bullet green-text">stop</i><span class="green-text">tags:</span> <span class="widget-tags widget-meta">{{ widget.tags }}</span></p>
-            <p class="widget-list-item"><i class="material-icons meta-bullet blue-text">stop</i><span class="blue-text">js libraries:</span> <span class="widget-jslibs widget-meta">{{ widget.jslibs | markdownify | remove: '<p>' | remove: '</p>' }}</span></p>
             <!-- <div class="more-icon activator"><i class="material-icons right">more_vert</i></div> -->
             <div class="hidden widget-cran">{{ widget.cran }}</div>
           </div>

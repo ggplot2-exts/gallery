@@ -10,7 +10,6 @@ widgets:
 - name: ggQQunif
   thumbnail: images/ggQQunif.png
   url: https://github.com/rcorty/ggQQunif
-  jslibs: >
   ghuser: rcorty
   ghrepo: ggQQunif
   tags: visualization,quantiles,p-values,statistics,big data
@@ -28,7 +27,6 @@ widgets:
 - name: ggupset
   thumbnail: images/ggupset.png
   url: https://github.com/const-ae/ggupset
-  jslibs: >
   ghuser: const-ae
   ghrepo: ggupset
   tags: visualization,upset,combination matrix
@@ -49,7 +47,6 @@ widgets:
 - name: xmrr
   thumbnail: images/xmr_chart.png
   url: https://github.com/Zanidean/xmrr
-  jslibs: >
   ghuser: Zanidean
   ghrepo: xmrr
   tags: XmR, Visualization, Control Charts, QC, XBar
@@ -65,7 +62,6 @@ widgets:
 - name: gg3D
   thumbnail: images/gg3D.png
   url: https://github.com/AckerDWM/gg3D
-  jslibs: >
   ghuser: AckerDWM
   ghrepo: gg3D
   tags: 3D, Visualization
@@ -81,7 +77,6 @@ widgets:
 - name: ggQC
   thumbnail: images/ggQC.png
   url: https://github.com/kenithgrey/ggQC
-  jslibs: >
   ghuser: kenithgrey
   ghrepo: ggQC
   tags: QC, XmR, XbarR, SixSigma, Visualization
@@ -97,7 +92,6 @@ widgets:
 - name: ggdist
   thumbnail: images/ggdist.png
   url: https://mjskay.github.io/ggdist
-  jslibs: >
   ghuser: mjskay
   ghrepo: ggdist
   tags: visualization,uncertainty,confidence,probability
@@ -120,7 +114,6 @@ widgets:
 - name: ggedit
   thumbnail: images/ggedit.png
   url: https://github.com/metrumresearchgroup/ggedit
-  jslibs: >
   ghuser: metrumresearchgroup
   ghrepo: ggedit
   tags: visualization, interactive, shiny, general,themes
@@ -136,7 +129,6 @@ widgets:
 - name: ggpage
   thumbnail: images/ggpage.png
   url: https://emilhvitfeldt.github.io/ggpage/
-  jslibs: >
   ghuser: emilhvitfeldt
   ghrepo: ggpage
   tags: visualization,text
@@ -155,7 +147,6 @@ widgets:
 - name: ggpca
   thumbnail: images/ggpca.png
   url: https://cran.r-project.org/web/packages/ggpca/index.html
-  jslibs: >
   ghuser: YaoxiangLi
   ghrepo: ggpca
   tags: visualization,dimensionality_reduction,PCA,t-SNE,UMAP
@@ -175,7 +166,6 @@ widgets:
 - name: ggbreak
   thumbnail: images/ggbreak.png
   url: https://github.com/YuLab-SMU/ggbreak
-  jslibs: >
   ghuser: YuLab-SMU
   ghrepo: ggbreak
   tags: visualization, geoms
@@ -191,7 +181,6 @@ widgets:
 - name: ggimg
   thumbnail: images/ggimg.png
   url: https://github.com/statsmaths/ggimg
-  jslibs: >
   ghuser: statsmaths
   ghrepo: ggimg
   tags: visualization, geoms
@@ -212,7 +201,6 @@ widgets:
 - name: gganatogram
   thumbnail: images/gganatogram.png
   url: https://github.com/jespermaag/gganatogram
-  jslibs: >
   ghuser: jespermaag
   ghrepo: gganatogram
   tags: anatograms, tissue, visualization, anatomy, expression, pharmacology
@@ -232,7 +220,6 @@ widgets:
 - name: ggforce
   thumbnail: images/ggforce.png
   url: https://github.com/thomasp85/ggforce
-  jslibs: >
   ghuser: thomasp85
   ghrepo: ggforce
   tags: visualization,general
@@ -247,7 +234,6 @@ widgets:
 - name: ggalt
   thumbnail: images/ggalt.png
   url: https://github.com/hrbrmstr/ggalt
-  jslibs: >
   ghuser: hrbrmstr
   ghrepo: ggalt
   tags: visualization,general
@@ -263,7 +249,6 @@ widgets:
 - name: ggiraph
   thumbnail: images/ggiraph.png
   url: https://github.com/davidgohel/ggiraph
-  jslibs: >
   ghuser: davidgohel
   ghrepo: ggiraph
   tags: visualization,general
@@ -278,7 +263,6 @@ widgets:
 - name: ggmuller
   thumbnail: images/ggmuller.png
   url: https://cran.r-project.org/web/packages/ggmuller/index.html
-  jslibs: >
   ghuser: robjohnnoble
   ghrepo: ggmuller
   tags: visualization,evolution,dynamics
@@ -295,7 +279,6 @@ widgets:
 - name: ggstance
   thumbnail: images/ggstance.png
   url: https://github.com/lionel-/ggstance
-  jslibs: >
   ghuser: lionel-
   ghrepo: ggstance
   tags: visualization,general
@@ -310,7 +293,6 @@ widgets:
 - name: ggrepel
   thumbnail: images/ggrepel.png
   url: https://github.com/slowkow/ggrepel
-  jslibs: >
   ghuser: slowkow
   ghrepo: ggrepel
   tags: visualization,general
@@ -325,7 +307,6 @@ widgets:
 - name: ggraph
   thumbnail: images/ggraph.png
   url: https://github.com/thomasp85/ggraph
-  jslibs: >
   ghuser: thomasp85
   ghrepo: ggraph
   tags: visualization,general
@@ -340,7 +321,6 @@ widgets:
 - name: gginnards
   thumbnail: images/gginnards.png
   url: https://docs.r4photobiology.info/gginnards
-  jslibs: >
   ghuser: aphalo
   ghrepo: gginnards
   tags: visualization,general,layer manipulation,debug
@@ -361,7 +341,6 @@ widgets:
 - name: ggpp
   thumbnail: images/ggpp.png
   url: https://docs.r4photobiology.info/ggpp
-  jslibs: >
   ghuser: aphalo
   ghrepo: ggpp
   tags: visualization,general
@@ -384,7 +363,6 @@ widgets:
 - name: ggpmisc
   thumbnail: images/ggpmisc.png
   url: https://docs.r4photobiology.info/ggpmisc
-  jslibs: >
   ghuser: aphalo
   ghrepo: ggpmisc
   tags: visualization,statistics,general
@@ -407,7 +385,6 @@ widgets:
 - name: geomnet
   thumbnail: images/geomnet.png
   url: https://github.com/sctyner/geomnet
-  jslibs: >
   ghuser: sctyner
   ghrepo: geomnet
   tags: visualization,general
@@ -422,7 +399,6 @@ widgets:
 - name: ggExtra
   thumbnail: images/ggExtra.png
   url: https://github.com/daattali/ggExtra
-  jslibs: >
   ghuser: daattali
   ghrepo: ggExtra
   tags: histogram,marginal,density
@@ -437,7 +413,6 @@ widgets:
 - name: ggfortify
   thumbnail: images/ggfortify.png
   url: https://github.com/sinhrks/ggfortify
-  jslibs: >
   ghuser: sinhrks
   ghrepo: ggfortify
   tags: visualization,general
@@ -456,7 +431,6 @@ widgets:
 - name: autoplotly
   thumbnail: images/ggfortify.png
   url: https://github.com/terrytangyuan/autoplotly
-  jslibs: plotly
   ghuser: terrytangyuan
   ghrepo: autoplotly
   tags: visualization,general
@@ -475,7 +449,6 @@ widgets:
 - name: gganimate
   thumbnail: images/gganimate.gif
   url: https://gganimate.com
-  jslibs: >
   ghuser: thomasp85
   ghrepo: gganimate
   tags: visualization,general
@@ -495,7 +468,6 @@ widgets:
 - name: ggfx
   thumbnail: images/ggfx.png
   url: https://ggfx.data-imaginist.com/
-  jslibs: >
   ghuser: thomasp85
   ghrepo: ggfx
   tags: visualization,general
@@ -514,7 +486,6 @@ widgets:
 - name: plotROC
   thumbnail: images/plotROC.png
   url: https://github.com/sachsmc/plotROC
-  jslibs: >
   ghuser: sachsmc
   ghrepo: plotROC
   tags: visualization,general
@@ -530,7 +501,6 @@ widgets:
 - name: ggbump
   thumbnail: images/ggbump.png
   url: https://github.com/davidsjoberg/ggbump
-  jslibs: >
   ghuser: davidsjoberg
   ghrepo: ggbump
   tags: visualization,general,geoms
@@ -547,7 +517,6 @@ widgets:
 - name: ggthemes
   thumbnail: images/ggthemes.png
   url: https://github.com/jrnold/ggthemes
-  jslibs: >
   ghuser: jrnold
   ghrepo: ggthemes
   tags: visualization,general,themes
@@ -562,7 +531,6 @@ widgets:
 - name: ggspectra
   thumbnail: images/ggspectra.png
   url: https://docs.r4photobiology.info/ggspectra
-  jslibs: >
   ghuser: aphalo
   ghrepo: ggspectra
   tags: visualization,general
@@ -586,7 +554,6 @@ widgets:
 - name: ggstatsplot
   thumbnail: images/ggstatsplot.png
   url: https://github.com/IndrajeetPatil/ggstatsplot
-  jslibs: >
   ghuser: IndrajeetPatil
   ghrepo: ggstatsplot
   tags: visualization,statistics
@@ -611,7 +578,6 @@ widgets:
 - name: ggnetwork
   thumbnail: images/ggnetwork.png
   url: https://github.com/briatte/ggnetwork
-  jslibs: >
   ghuser: briatte
   ghrepo: ggnetwork
   tags: visualization,general
@@ -626,7 +592,6 @@ widgets:
 - name: ggtech
   thumbnail: images/ggtech.png
   url: https://github.com/ricardo-bion/ggtech
-  jslibs: >
   ghuser: ricardo-bion
   ghrepo: ggtech
   tags: visualization,general,themes
@@ -641,7 +606,6 @@ widgets:
 - name: ggradar
   thumbnail: images/ggradar.png
   url: https://github.com/ricardo-bion/ggradar
-  jslibs: >
   ghuser: ricardo-bion
   ghrepo: ggradar
   tags: visualization,general
@@ -656,7 +620,6 @@ widgets:
 - name: ggx
   thumbnail: images/ggx.png
   url: https://github.com/brandmaier/ggx
-  jslibs: >
   ghuser: brandmaier
   ghrepo: ggx
   tags: visualization,nlp
@@ -679,7 +642,6 @@ widgets:
 - name: ggTimeSeries
   thumbnail: images/ggTimeSeries.png
   url: https://github.com/Ather-Energy/ggTimeSeries
-  jslibs: >
   ghuser: Ather-Energy
   ghrepo: ggTimeSeries
   tags: visualization,general
@@ -694,7 +656,6 @@ widgets:
 - name: ggtree
   thumbnail: images/ggtree.png
   url: https://guangchuangyu.github.io/ggtree
-  jslibs: >
   ghuser: GuangchuangYu
   ghrepo: ggtree
   tags: visualization,general
@@ -709,7 +670,6 @@ widgets:
 - name: ggseas
   thumbnail: images/ggseas.png
   url: https://github.com/ellisp/ggseas
-  jslibs: >
   ghuser: ellisp
   ghrepo: ggseas
   tags: visualization,general
@@ -724,7 +684,6 @@ widgets:
 - name: ggsci
   thumbnail: images/ggsci.png
   url: https://nanx.me/ggsci/
-  jslibs: >
   ghuser: road2stat
   ghrepo: ggsci
   tags: visualization,general
@@ -741,7 +700,6 @@ widgets:
 - name: ggmosaic
   thumbnail: images/ggmosaic.png
   url: https://github.com/haleyjeppson/ggmosaic
-  jslibs: >
   ghuser: haleyjeppson
   ghrepo: ggmosaic
   tags: visualization,general
@@ -756,7 +714,6 @@ widgets:
 - name: survminer
   thumbnail: images/survminer.png
   url: http://www.sthda.com/english/rpkgs/survminer/
-  jslibs: >
   ghuser: kassambara
   ghrepo: survminer
   tags: visualization,survival
@@ -775,7 +732,6 @@ widgets:
 - name: ggeasy
   thumbnail: images/ggeasy.png
   url: https://jonocarroll.github.io/ggeasy/
-  jslibs: >
   ghuser: jonocarroll
   ghrepo: ggeasy
   tags: visualization,teaching
@@ -792,7 +748,6 @@ widgets:
 - name: ggside
   thumbnail: images/ggside.png
   url: https://github.com/jtlandis/ggside
-  jslibs: >
   ghuser: jtlandis
   ghrepo: ggside
   tags: visualization,correlation
@@ -813,7 +768,6 @@ widgets:
 - name: ggcorrplot
   thumbnail: images/ggcorrplot.png
   url: https://rpkgs.datanovia.com/ggcorrplot/
-  jslibs: >
   ghuser: kassambara
   ghrepo: ggcorrplot
   tags: visualization,correlation
@@ -832,7 +786,6 @@ widgets:
 - name: ggpubr
   thumbnail: images/ggpubr.png
   url: https://rpkgs.datanovia.com/ggpubr/
-  jslibs: >
   ghuser: kassambara
   ghrepo: ggpubr
   tags: visualization,statistics
@@ -853,7 +806,6 @@ widgets:
 - name: ggthemr
   thumbnail: images/cttobin-ggthemr.png
   url: https://github.com/cttobin/ggthemr
-  jslibs: >
   ghuser: cttobin
   ghrepo: ggthemr
   tags: visualization,general,themes
@@ -917,7 +869,6 @@ widgets:
 - name: ggridges
   thumbnail: images/ggridges.png
   url: https://cran.r-project.org/web/packages/ggridges/vignettes/introduction.html
-  jslibs: >
   ghuser: clauswilke
   ghrepo: ggridges
   tags: visualization,general
@@ -933,7 +884,6 @@ widgets:
 - name: lemons
   thumbnail: images/lemon.png
   url: https://github.com/stefanedwards/lemon
-  jslibs: >
   ghuser: stefanedwards
   ghrepo: lemon
   tags: visualization,brackets,axis
@@ -949,7 +899,6 @@ widgets:
 - name: cowplot
   thumbnail: images/cowplot.png
   url: https://cran.r-project.org/web/packages/cowplot/vignettes/introduction.html
-  jslibs: >
   ghuser: wilkelab
   ghrepo: cowplot
   tags: visualization,general,themes
@@ -965,7 +914,6 @@ widgets:
 - name: qqplotr
   thumbnail: images/qqplotr.png
   url: https://github.com/aloy/qqplotr
-  jslibs: >
   ghuser: aloy
   ghrepo: qqplotr
   tags: quantile-quantile,probability-probability
@@ -981,7 +929,6 @@ widgets:
 - name: ggalluvial
   thumbnail: images/ggalluvial.png
   url: https://github.com/corybrunson/ggalluvial
-  jslibs: >
   ghuser: corybrunson
   ghrepo: ggalluvial
   tags: visualization,categorical,time series
@@ -996,7 +943,6 @@ widgets:
 - name: patchwork
   thumbnail: images/thomasp85-patchwork.png
   url: https://github.com/thomasp85/patchwork#patchwork
-  jslibs: >
   ghuser: thomasp85
   ghrepo: patchwork
   tags: visualization,composition
@@ -1011,7 +957,6 @@ widgets:
 - name: ggquiver
   thumbnail: images/ggquiver.png
   url: https://github.com/mitchelloharawild/ggquiver
-  jslibs: >
   ghuser: mitchelloharawild
   ghrepo: ggquiver
   tags: visualization,quiver,velocity,vector
@@ -1027,7 +972,6 @@ widgets:
 - name: ggsignif
   thumbnail: images/ggsignif.png
   url: https://github.com/const-ae/ggsignif
-  jslibs: >
   ghuser: const-ae
   ghrepo: ggsignif
   tags: visualization,multiple comparisons
@@ -1050,7 +994,6 @@ widgets:
 - name: ggdag
   thumbnail: images/ggdag.png
   url: https://ggdag.malco.io/
-  jslibs: >
   ghuser: malcolmbarrett
   ghrepo: ggdag
   tags: visualization,dags,inference
@@ -1065,7 +1008,6 @@ widgets:
 - name: ggformula
   thumbnail: images/projectmosaic-ggformula.png
   url: https://projectmosaic.github.io/ggformula/
-  jslibs: >
   ghuser: ProjectMOSAIC
   ghrepo: ggformula
   tags: visualization,general,interface
@@ -1080,7 +1022,6 @@ widgets:
 - name: ggbeeswarm
   thumbnail: images/ggbeeswarm.png
   url: https://github.com/eclarke/ggbeeswarm
-  jslibs: >
   ghuser: eclarke
   ghrepo: ggbeeswarm
   tags: visualization, beeswarm, categorical
@@ -1096,7 +1037,6 @@ widgets:
 - name: ggperiodic
   thumbnail: images/ggperiodic-cos.png
   url: https://github.com/eliocamp/ggperiodic
-  jslibs: >
   ghuser: eliocamp
   ghrepo: ggperiodic
   tags: visualization,periodic
@@ -1110,7 +1050,6 @@ widgets:
 - name: ggpol
   thumbnail: images/erocoar-ggpol.png
   url: https://github.com/erocoar/ggpol
-  jslibs: >
   ghuser: erocoar
   ghrepo: ggpol
   tags: visualization,general
@@ -1124,7 +1063,6 @@ widgets:
 - name: ggpirate
   thumbnail: images/ggpirate.png
   url: https://github.com/mikabr/ggpirate
-  jslibs: >
   ghuser: mikabr
   ghrepo: ggpirate
   tags: visualization
@@ -1139,7 +1077,6 @@ widgets:
 - name: esquisse
   thumbnail: images/esquisse.png
   url: https://github.com/dreamRs/esquisse
-  jslibs: >
   ghuser: dreamrs
   ghrepo: esquisse
   tags: visualization,interface
@@ -1154,7 +1091,6 @@ widgets:
 - name: ggdark
   thumbnail: images/nsgrantham-ggdark.png
   url: https://github.com/nsgrantham/ggdark
-  jslibs: >
   ghuser: nsgrantham
   ghrepo: ggdark
   tags: visualization,general,themes
@@ -1169,7 +1105,6 @@ widgets:
 - name: sugrrants
   thumbnail: images/sugrrants.png
   url: https://pkg.earo.me/sugrrants
-  jslibs: >
   ghuser: earowang
   ghrepo: sugrrants
   tags: visualization,calendar,time-series
@@ -1186,7 +1121,6 @@ widgets:
 - name: tvthemes
   thumbnail: images/ryo-n7-tvthemes.png
   url: https://github.com/Ryo-N7/tvthemes
-  jslibs: >
   ghuser: Ryo-N7
   ghrepo: tvthemes
   tags: visualization,general,palettes,themes
@@ -1203,7 +1137,6 @@ widgets:
 - name: ggfittext
   thumbnail: images/ggfittext.png
   url: https://wilkox.org/ggfittext
-  jslibs: >
   ghuser: wilkox
   ghrepo: ggfittext
   tags: visualization,general,text
@@ -1219,7 +1152,6 @@ widgets:
 - name: ggparty
   thumbnail: images/martin-borkovec-ggparty.png
   url: https://github.com/martin-borkovec/ggparty
-  jslibs: >
   ghuser: martin-borkovec
   ghrepo: ggparty
   tags: visualization,tree,partykit
@@ -1236,7 +1168,6 @@ widgets:
 - name: gggenes
   thumbnail: images/gggenes.png
   url: https://wilkox.org/gggenes
-  jslibs: >
   ghuser: wilkox
   ghrepo: gggenes
   tags: visualization,general,genetics
@@ -1252,7 +1183,6 @@ widgets:
 - name: gggenomes
   thumbnail: images/gggenomes.png
   url: https://thackl.github.io/gggenomes
-  jslibs: >
   ghuser: thackl
   ghrepo: gggenomes
   tags: visualization,genetics,genomics
@@ -1267,7 +1197,6 @@ widgets:
 - name: treemapify
   thumbnail: images/treemapify.png
   url: https://wilkox.org/treemapify
-  jslibs: >
   ghuser: wilkox
   ghrepo: treemapify
   tags: visualization,general,treemap
@@ -1283,7 +1212,6 @@ widgets:
 - name: lindia
   thumbnail: images/lindia.png
   url: https://github.com/yeukyul/lindia
-  jslibs: >
   ghuser: yeukyul
   ghrepo: lindia
   tags: visualization,general,diagnostics,regression
@@ -1300,7 +1228,6 @@ widgets:
 - name: gghalves
   thumbnail: images/erocoar-gghalves.png
   url: https://github.com/erocoar/gghalves
-  jslibs: >
   ghuser: erocoar
   ghrepo: gghalves
   tags: visualization,general
@@ -1315,7 +1242,6 @@ widgets:
 - name: ggrastr
   thumbnail: images/vpetukhov-ggrastr.png
   url: https://github.com/VPetukhov/ggrastr
-  jslibs: >
   ghuser: vpetukhov
   ghrepo: ggrastr
   tags: visualization,raster
@@ -1332,7 +1258,6 @@ widgets:
 - name: ggpointdensity
   thumbnail: images/lkremer-ggpointdensity.png
   url: https://github.com/LKremer/ggpointdensity
-  jslibs: >
   ghuser: LKremer
   ghrepo: ggpointdensity
   tags: visualization,general
@@ -1352,7 +1277,6 @@ widgets:
 - name: ggsom
   thumbnail: images/ggsom.png
   url: https://github.com/oldlipe/ggsom
-  jslibs: >
   ghuser: oldlipe
   ghrepo: ggsom
   tags: visualization,SOM,multi-dimensional,parallel-coordinates
@@ -1370,7 +1294,6 @@ widgets:
 - name: ggnewscale
   thumbnail: images/ggnewscale.png
   url: https://github.com/eliocamp/ggnewscale
-  jslibs: >
   ghuser: eliocamp
   ghrepo: ggnewscale
   tags: visualization,general,scales
@@ -1386,7 +1309,6 @@ widgets:
 - name: ggh4x
   thumbnail: images/teunbrand-ggh4x.png
   url: https://teunbrand.github.io/ggh4x/
-  jslibs: >
   ghuser: teunbrand
   ghrepo: ggh4x
   tags: visualization,general,scales,facets
@@ -1403,7 +1325,6 @@ widgets:
 - name: ggarrow
   thumbnail: images/teunbrand-ggarrow.png
   url: https://teunbrand.github.io/ggarrow/
-  jslibs: >
   ghuser: teunbrand
   ghrepo: ggarrow
   tags: visualization, arrows, lines
@@ -1421,7 +1342,6 @@ widgets:
 - name: ggcharts
   thumbnail: images/ggcharts.png
   url: https://thomas-neitmann.github.io/ggcharts/index.html
-  jslibs: >
   ghuser: thomas-neitmann
   ghrepo: ggcharts
   tags: visualization,general
@@ -1440,7 +1360,6 @@ widgets:
 - name: humapr
   thumbnail: images/humapr.png
   url: https://github.com/benskov/humapr
-  jslibs: >
   ghuser: benskov
   ghrepo: humapr
   tags: visualization,general,tabulation,choropleth
@@ -1461,7 +1380,6 @@ widgets:
 - name: ggshadow
   thumbnail: images/ggshadow.png
   url: https://github.com/marcmenem/ggshadow
-  jslibs: >
   ghuser: marcmenem
   ghrepo: ggshadow
   tags: visualization,general
@@ -1480,7 +1398,6 @@ widgets:
 - name: ggseg
   thumbnail: images/ggseg-ext.png
   url: https://github.com/LCBC-UiO/ggseg
-  jslibs: >
   ghuser: LCBC-UiO
   ghrepo: ggseg
   tags: visualization,brain imaging
@@ -1499,7 +1416,6 @@ widgets:
 - name: mdthemes
   thumbnail: images/mdthemes.png
   url: https://github.com/thomas-neitmann/mdthemes
-  jslibs: >
   ghuser: thomas-neitmann
   ghrepo: mdthemes
   tags: visualization,themes
@@ -1516,7 +1432,6 @@ widgets:
 - name: ggwordcloud
   thumbnail: images/ggwordcloud.png
   url: https://lepennec.github.io/ggwordcloud/
-  jslibs: >
   ghuser: lepennec
   ghrepo: ggwordcloud
   tags: visualization,text
@@ -1538,7 +1453,6 @@ widgets:
 - name: ggasym
   thumbnail: images/ggasym.png
   url: https://jhrcook.github.io/ggasym/index.html
-  jslibs: >
   ghuser: jhrcook
   ghrepo: ggasym
   tags: visualization,multi-dimensional,matrix,scales
@@ -1555,7 +1469,6 @@ widgets:
 - name: gglorenz
   thumbnail: images/gglorenz.png
   url: https://github.com/jjchern/gglorenz
-  jslibs: >
   ghuser: jjchern
   ghrepo: gglorenz
   tags: visualization,general,statistics
@@ -1571,7 +1484,6 @@ widgets:
 - name: hrbrthemes
   thumbnail: images/hrbrmstr-hrbrthemes.png
   url: https://github.com/hrbrmstr/hrbrthemes
-  jslibs: >
   ghuser: hrbrmstr
   ghrepo: hrbrthemes
   tags: theme,typography
@@ -1587,7 +1499,6 @@ widgets:
 - name: ggpattern
   thumbnail: images/ggpattern.png
   url: https://github.com/trevorld/ggpattern
-  jslibs: >
   ghuser: trevorld
   ghrepo: ggpattern
   tags: visualization,pattern
@@ -1602,7 +1513,6 @@ widgets:
 - name: ggtext
   thumbnail: images/ggtext.png
   url: https://wilkelab.org/ggtext/
-  jslibs: >
   ghuser: clauswilke
   ghrepo: ggtext
   tags: general,theme,typography
@@ -1618,7 +1528,6 @@ widgets:
 - name: calendR
   thumbnail: images/calendR.png
   url: https://r-coder.com/calendar-plot-r/
-  jslibs: >
   ghuser: R-CoderDotCom
   ghrepo: calendR
   tags: visualization, calendar, time-series
@@ -1635,7 +1544,6 @@ widgets:
 - name: ggip
   thumbnail: images/ggip.png
   url: https://davidchall.github.io/ggip/
-  jslibs: >
   ghuser: davidchall
   ghrepo: ggip
   tags: visualization, cyber, space-filling curves
@@ -1653,7 +1561,6 @@ widgets:
 - name: gglm
   thumbnail: images/gglm.png
   url: https://graysonwhite.github.io/gglm/
-  jslibs: >
   ghuser: graysonwhite
   ghrepo: gglm
   tags: visualization,modeling,diagnostic
@@ -1674,7 +1581,6 @@ widgets:
 - name: econocharts
   thumbnail: images/econocharts.png
   url: https://r-coder.com/economics-charts-r/
-  jslibs: >
   ghuser: R-CoderDotCom
   ghrepo: econocharts
   tags: economics, microeconomics, macroeconomics
@@ -1692,7 +1598,6 @@ widgets:
 - name: ComplexUpset
   thumbnail: images/krassowski-complex-upset.png
   url: https://github.com/krassowski/complex-upset
-  jslibs: >
   ghuser: krassowski
   ghrepo: complex-upset
   tags: visualization,venn,set,intersections,venn-diagram,upset
@@ -1711,7 +1616,6 @@ widgets:
 - name: ggchromatic
   thumbnail: images/teunbrand-ggchromatic.png
   url: https://teunbrand.github.io/ggchromatic/
-  jslibs: >
   ghuser: teunbrand
   ghrepo: ggchromatic
   tags: visualization,scales
@@ -1755,7 +1659,6 @@ widgets:
 - name: see
   thumbnail: images/see.png
   url: https://github.com/easystats/see
-  jslibs: >
   ghuser: easystats
   ghrepo: see
   tags: visualizations,statistics
@@ -1772,7 +1675,6 @@ widgets:
 - name: directlabels
   thumbnail: images/directlabels.png
   url: http://tdhock.github.io/directlabels
-  jslibs: >
   ghuser: tdhock
   ghrepo: directlabels
   tags: visualization, direct-labels, positioning, general, plot-labelling
@@ -1791,7 +1693,6 @@ widgets:
 - name: ggHoriPlot
   thumbnail: images/ggHoriPlot.png
   url: https://github.com/rivasiker/ggHoriPlot
-  jslibs: >
   ghuser: rivasiker
   ghrepo: ggHoriPlot
   tags: visualization,general,horizon-plot,time-series
@@ -1809,7 +1710,6 @@ widgets:
 - name: ggtrace
   thumbnail: images/ggtrace.png
   url: https://rnabioco.github.io/ggtrace/
-  jslibs: >
   ghuser: rnabioco
   ghrepo: ggtrace
   tags: visualization
@@ -1827,7 +1727,6 @@ widgets:
 - name: ggESDA
   thumbnail: images/ggESDA.png
   url: https://github.com/kiangkiangkiang/ggESDA
-  jslibs: >
   ghuser: kiangkiangkiang
   ghrepo: ggESDA
   tags: visualization,symbolic data,interval-valued data
@@ -1846,7 +1745,6 @@ widgets:
 - name: geomtextpath
   thumbnail: images/geomtextpath.png
   url: https://allancameron.github.io/geomtextpath/
-  jslibs: >
   ghuser: AllanCameron
   ghrepo: geomtextpath
   tags: typography,plot-labelling,visualization
@@ -1867,7 +1765,6 @@ widgets:
 - name: ggdensity
   thumbnail: images/ggdensity.png
   url: https://jamesotto852.github.io/ggdensity
-  jslibs: >
   ghuser: jamesotto852
   ghrepo: ggdensity
   tags: visualization,density-estimation
@@ -1890,7 +1787,6 @@ widgets:
 - name: ggtranscript
   thumbnail: images/dzhang32-ggtranscript.png
   url: https://dzhang32.github.io/ggtranscript/
-  jslibs: >
   ghuser: dzhang32
   ghrepo: ggtranscript
   tags: visualization,genetics,genomics,transcripts,annotation
@@ -1913,7 +1809,6 @@ widgets:
 - name: piecepackr
   thumbnail: images/piecepackr-piecepackr.png
   url: https://trevorldavis.com/piecepackr
-  jslibs: >
   ghuser: piecepackr
   ghrepo: piecepackr
   tags: board games, geoms
@@ -1928,7 +1823,6 @@ widgets:
 - name: oblicubes
   thumbnail: images/trevorld-oblicubes.png
   url: https://trevorldavis.com/R/oblicubes
-  jslibs: >
   ghuser: trevorld
   ghrepo: oblicubes
   tags: visualization, geoms
@@ -1943,7 +1837,6 @@ widgets:
 - name: ggDoubleHeat
   thumbnail: images/ggdoubleheat.png
   url: https://github.com/PursuitOfDataScience/ggDoubleHeat
-  jslibs: >
   ghuser: PursuitOfDataScience
   ghrepo: ggDoubleHeat
   tags: visualization, geoms
@@ -1961,7 +1854,6 @@ widgets:
 - name: nflplotR
   thumbnail: images/nflplotR.png
   url: https://nflplotr.nflverse.com
-  jslibs: >
   ghuser: nflverse
   ghrepo: nflplotR
   tags: general,scales,geoms,images,theme,elements
@@ -1979,7 +1871,6 @@ widgets:
 - name: ggbraid
   thumbnail: images/ggbraid.png
   url: https://nsgrantham.github.io/ggbraid
-  jslibs: >
   ghuser: nsgrantham
   ghrepo: ggbraid
   tags: visualization,general,geoms
@@ -1997,7 +1888,6 @@ widgets:
 - name: ggblanket
   thumbnail: images/ggblanket.png
   url: https://davidhodge931.github.io/ggblanket/articles/ggblanket.html
-  jslibs: >
   ghuser: davidhodge931
   ghrepo: ggblanket
   tags: visualization
@@ -2011,7 +1901,6 @@ widgets:
 - name: ggpie
   thumbnail: images/ggpie.png
   url: https://github.com/showteeth/ggpie
-  jslibs: >
   ghuser: showteeth
   ghrepo: ggpie
   tags: visualization,general,pie,donut,rose pie
@@ -2032,7 +1921,6 @@ widgets:
 - name: ggstar
   thumbnail: images/ggstar.png
   url: https://github.com/xiangpin/ggstar
-  jslibs: >
   ghuser: xiangpin
   ghrepo: ggstar
   tags: visualization, different shape points
@@ -2048,7 +1936,6 @@ widgets:
 - name: ggarchery
   thumbnail: images/ggarchery.png
   url: https://github.com/mdhall272/ggarchery
-  jslibs: >
   ghuser: mdhall272
   ghrepo: ggarchery
   tags: visualization, arrows
@@ -2063,7 +1950,6 @@ widgets:
 - name: tidyterra
   thumbnail: images/tidyterra.png
   url: https://github.com/dieghernan/tidyterra
-  jslibs: >
   ghuser: dieghernan
   ghrepo: tidyterra
   tags: visualization, raster, spatial
@@ -2079,7 +1965,6 @@ widgets:
 - name: ggseqplot
   thumbnail: images/ggseqplot.png
   url: https://maraab23.github.io/ggseqplot
-  jslibs: >
   ghuser: maraab23
   ghrepo: ggseqplot
   tags: visualization,sequence analysis
@@ -2099,7 +1984,6 @@ widgets:
 - name: ggsurvfit
   thumbnail: images/ddsjoberg-ggsurvfit.png
   url: http://www.danieldsjoberg.com/ggsurvfit/
-  jslibs: >
   ghuser: ddsjoberg
   ghrepo: ggsurvfit
   tags: visualization,survival,statistics
@@ -2121,7 +2005,6 @@ widgets:
 - name: ggsector
   thumbnail: images/ggsector.png
   url: https://github.com/yanpd01/ggsector
-  jslibs: >
   ghuser: yanpd01
   ghrepo: ggsector
   tags: visualization, geoms, sector, fan
@@ -2140,7 +2023,6 @@ widgets:
 - name: ggterror
   thumbnail: images/mivalek-ggterror.png
   url: https://github.com/mivaek/ggterrorbar
-  jslibs: >
   ghuser: mivalek
   ghrepo: ggterrorbar
   tags: visualization, geoms
@@ -2171,7 +2053,6 @@ widgets:
 - name: ggmapinset
   thumbnail: images/ggmapinset.png
   url: https://cidm-ph.github.io/ggmapinset/
-  jslibs: >
   ghuser: cidm-ph
   ghrepo: ggmapinset
   tags: visualization,spatial
@@ -2188,7 +2069,6 @@ widgets:
 - name: ggmagnify
   thumbnail: images/hughjonesd-ggmagnify.png
   url: https://github.com/hughjonesd/ggmagnify
-  jslibs: >
   ghuser: hughjonesd
   ghrepo: ggmagnify
   tags: visualization,geoms,inset,zoom,magnification
@@ -2207,7 +2087,6 @@ widgets:
 - name: ggblend
   thumbnail: images/mjskay-ggblend.png
   url: https://mjskay.github.io/ggblend/
-  jslibs: >
   ghuser: mjskay
   ghrepo: ggblend
   tags: visualization,blending,affine transformation,layer algebra,compositing
@@ -2230,7 +2109,6 @@ widgets:
 - name: ggflowchart
   thumbnail: images/nrennie-ggflowchart.png
   url: https://nrennie.github.io/ggflowchart/
-  jslibs: >
   ghuser: nrennie
   ghrepo: ggflowchart
   tags: visualization,flowchart,network,diagram
@@ -2251,7 +2129,6 @@ widgets:
 - name: ggrain
   thumbnail: images/ggrain.png
   url: https://github.com/njudd/ggrain
-  jslibs: >
   ghuser: njudd
   ghrepo: ggrain
   tags: visualization, general
@@ -2268,7 +2145,6 @@ widgets:
 - name: ggoutlierscatterplot
   thumbnail: images/ggoutlierscatterplot.png
   url: https://github.com/lukastay/ggoutlierscatterplot
-  jslibs: >
   ghuser: lukastay
   ghrepo: ggoutlierscatterplot
   tags: visualization,outlier,outliers,scatterplot,algorithms,algorithm,regression
@@ -2285,7 +2161,6 @@ widgets:
 - name: ggautothemes
   thumbnail: images/ggautothemes.png
   url: https://github.com/lukastay/ggautothemes/tree/master
-  jslibs: >
   ghuser: lukastay
   ghrepo: ggautothemes
   tags: visualization,theme,themeing,color,fill,hue,ggthemes
@@ -2303,7 +2178,6 @@ widgets:
 - name: AMR
   thumbnail: images/amr.png
   url: https://msberends.github.io/AMR/
-  jslibs: >
   ghuser: msberends
   ghrepo: AMR
   tags: visualization,epidemiology,color,fill
@@ -2320,7 +2194,6 @@ widgets:
 - name: ichimoku
   thumbnail: images/ichimoku.png
   url: https://shikokuchuo.net/ichimoku/
-  jslibs: >
   ghuser: shikokuchuo
   ghrepo: ichimoku
   tags: visualization,time-series,finance,trading,candlestick
@@ -2341,7 +2214,6 @@ widgets:
 - name: eheat
   thumbnail: images/eheat.png
   url: https://github.com/Yunuuuu/eheat
-  jslibs: >
   ghuser: Yunuuuu
   ghrepo: eheat
   tags: visualization,heatmap
@@ -2360,7 +2232,6 @@ widgets:
 - name: ggstats
   thumbnail: images/ggstat.png
   url: https://larmarange.github.io/ggstats/
-  jslibs: >
   ghuser: larmarange
   ghrepo: ggstats
   tags: visualization,p-values,forest plot,geoms,positions,statistics,Likert
@@ -2378,7 +2249,6 @@ widgets:
 - name: ggfoundry
   thumbnail: images/cgoo4-ggfoundry.png
   url: https://cgoo4.github.io/ggfoundry/
-  jslibs: >
   ghuser: cgoo4
   ghrepo: ggfoundry
   tags: visualization,geoms,color,fill,shapes
@@ -2394,7 +2264,6 @@ widgets:
 - name: ggalign
   thumbnail: images/ggalign.png
   url: https://yunuuuu.github.io/ggalign/
-  jslibs: >
   ghuser: Yunuuuu
   ghrepo: ggalign
   tags: visualization,heatmap
