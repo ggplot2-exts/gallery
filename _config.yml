@@ -160,7 +160,7 @@ widgets:
       relating to the length of the words. Which then is divided in lines
       and pages for easy overview of up to quite large texts.
 
--
+ -
   name: ggpca
   thumbnail: images/ggpca.png
   url: https://cran.r-project.org/web/packages/ggpca/index.html
