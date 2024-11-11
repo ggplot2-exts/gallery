@@ -1338,6 +1338,23 @@ widgets:
     ggarrow provides a rich variant of paths with arrows. It includes options
     for variable-width paths, customisable arrow heads, endpoint dodging, 
     and placing arrow heads along the path.
+    
+- name: legendry
+  thumbnail: images/teunbrand-legendry.png
+  url: https://github.com/teunbrand/legendry
+  ghuser: teunbrand
+  ghrepo: legendry
+  tags: visualization, guide, legend, axis
+  cran: true
+  release: 0.1.0
+  examples: https://teunbrand.github.io/legendry/
+  ghauthor: teunbrand
+  short: >
+    Extended legends and axes
+  description: >
+    A ggplot2 extension that focusses on expanding the plotter's arsenal of 
+    guides. Guides in ggplot2 include axes and legends. legendry offers new 
+    axes and annotation options, as well as new legends and colour displays.
 
 - name: ggcharts
   thumbnail: images/ggcharts.png
