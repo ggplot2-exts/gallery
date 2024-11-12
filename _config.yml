@@ -388,7 +388,7 @@ widgets:
   ghuser: sctyner
   ghrepo: geomnet
   tags: visualization,general
-  cran: true
+  cran: false
   release:
   examples:
   ghauthor: sctyner
@@ -595,7 +595,7 @@ widgets:
   ghuser: ricardo-bion
   ghrepo: ggtech
   tags: visualization,general,themes
-  cran: true
+  cran: false
   release:
   examples:
   ghauthor: ricardo-bion
@@ -609,7 +609,7 @@ widgets:
   ghuser: ricardo-bion
   ghrepo: ggradar
   tags: visualization,general
-  cran: true
+  cran: false
   release:
   examples:
   ghauthor: ricardo-bion
@@ -841,7 +841,7 @@ widgets:
   ghuser: omarwagih
   ghrepo: ggseqlogo
   tags: visualization,general
-  cran: false
+  cran: true
   release:
   examples: https://github.com/omarwagih/ggseqlogo
   ghauthor: omarwagih
@@ -857,7 +857,7 @@ widgets:
   ghuser: Selbosh
   ghrepo: ggChernoff
   tags: visualization
-  cran: false
+  cran: true
   examples: https://github.com/Selbosh/ggChernoff
   ghauthor: Selbosh
   short: >
@@ -881,7 +881,7 @@ widgets:
   description: >
     Ridgeline plots provide a convenient way of visualizing changes in distributions over time or space. This package enables the creation of such plots in 'ggplot2'.
 
-- name: lemons
+- name: lemon
   thumbnail: images/lemon.png
   url: https://github.com/stefanedwards/lemon
   ghuser: stefanedwards
@@ -1040,7 +1040,7 @@ widgets:
   ghuser: eliocamp
   ghrepo: ggperiodic
   tags: visualization,periodic
-  cran: false
+  cran: true
   ghauthor: eliocamp
   short: >
     Automagically augment periodic data in `ggplot2`
@@ -1155,7 +1155,7 @@ widgets:
   ghuser: martin-borkovec
   ghrepo: ggparty
   tags: visualization,tree,partykit
-  cran: false
+  cran: true
   examples: https://github.com/martin-borkovec/ggparty/wiki
   ghauthor: martin-borkovec
   short: >
@@ -1186,7 +1186,7 @@ widgets:
   ghuser: thackl
   ghrepo: gggenomes
   tags: visualization,genetics,genomics
-  cran: false
+  cran: true
   examples: https://thackl.github.io/gggenomes/index.html
   ghauthor: thackl
   short: >
@@ -1328,7 +1328,7 @@ widgets:
   ghuser: teunbrand
   ghrepo: ggarrow
   tags: visualization, arrows, lines
-  cran: false
+  cran: true
   release: 0.0.0.9000
   examples: https://teunbrand.github.io/ggarrow/index.html
   ghauthor: teunbrand
@@ -1418,7 +1418,7 @@ widgets:
   ghuser: LCBC-UiO
   ghrepo: ggseg
   tags: visualization,brain imaging
-  cran: false
+  cran: true
   release: 0.0.1
   examples: https://lcbc-uio.github.io/ggseg/
   ghauthor: Athanasiamo
@@ -1473,7 +1473,7 @@ widgets:
   ghuser: jhrcook
   ghrepo: ggasym
   tags: visualization,multi-dimensional,matrix,scales
-  cran: true
+  cran: false
   release: 0.1.3
   examples: https://jhrcook.github.io/ggasym/index.html
   ghauthor: jhrcook
@@ -1891,7 +1891,7 @@ widgets:
   ghuser: nsgrantham
   ghrepo: ggbraid
   tags: visualization,general,geoms
-  cran: true
+  cran: false
   release: 0.2.2
   examples: https://nsgrantham.github.io/ggbraid/articles/temps.html
   ghauthor: nsgrantham
