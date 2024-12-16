@@ -2107,3 +2107,16 @@ widgets:
     Tidy plots for scientific papers
   description: >
     The goal of tidyplots is to streamline the creation of publication-ready plots for scientific papers. It allows to gradually add, remove and adjust plot components using a consistent and intuitive syntax.
+
+- name: deeptime
+  thumbnail: images/deeptime.png
+  url: https://williamgearty.com/deeptime
+  ghuser: willgearty
+  ghrepo: deeptime
+  tags: visualization,earth sciences,phylogenetics,pattern,color,time-series
+  cran: true
+  ghauthor: willgearty
+  short: >
+    Plotting tools for anyone working in deep time
+  description: >
+    The primary goal of deeptime is to enable users to add highly customizable timescales to their visualizations. Other functions are also included to assist with other areas of deep time visualization.
