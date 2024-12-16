@@ -2107,3 +2107,16 @@ widgets:
     Tidy plots for scientific papers
   description: >
     The goal of tidyplots is to streamline the creation of publication-ready plots for scientific papers. It allows to gradually add, remove and adjust plot components using a consistent and intuitive syntax.
+
+- name: rphylopic
+  thumbnail: images/rphylopic.png
+  url: https://rphylopic.palaeoverse.org/
+  ghuser: palaeoverse
+  ghrepo: rphylopic
+  tags: visualization,silhouettes,images,biology
+  cran: true
+  ghauthor: willgearty
+  short: >
+    Get and use silhouettes of organisms from PhyloPic
+  description: >
+    Work with the PhyloPic Web Service (<http://api-docs.phylopic.org/v2/>) to fetch silhouette images of organisms. Includes functions for adding silhouettes to both base R plots and ggplot2 plots.
