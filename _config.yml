@@ -2120,3 +2120,16 @@ widgets:
     Get and use silhouettes of organisms from PhyloPic
   description: >
     Work with the PhyloPic Web Service (<http://api-docs.phylopic.org/v2/>) to fetch silhouette images of organisms. Includes functions for adding silhouettes to both base R plots and ggplot2 plots.
+
+- name: deeptime
+  thumbnail: images/deeptime.png
+  url: https://williamgearty.com/deeptime
+  ghuser: willgearty
+  ghrepo: deeptime
+  tags: visualization,earth sciences,phylogenetics,pattern,color,time-series
+  cran: true
+  ghauthor: willgearty
+  short: >
+    Plotting tools for anyone working in deep time
+  description: >
+    The primary goal of deeptime is to enable users to add highly customizable timescales to their visualizations. Other functions are also included to assist with other areas of deep time visualization.
