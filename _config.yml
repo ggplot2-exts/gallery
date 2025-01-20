@@ -53,6 +53,35 @@ widgets:
   description: >
     Use xmr() for XmR data which re-calculates to signal true change, and use xmr_chart() for XmR style control charts with recalculated process limits.
 
+- name: ggpcp
+  thumbnail: images/ggpcp.png
+  url: https://github.com/heike/ggpcp
+  ghuser: heike
+  ghrepo: ggpcp
+  tags: visualization,parallel coordinate plot,multivariate, categorical
+  cran: true
+  ghauthor: heike
+  short: >
+    Generalized Parallel Coordinate Plots in ggplot2
+  description: >
+    Parallel coordinate plots (PCP) are good for visualizing observations across multiple
+    dimensions by placing variables side-by-side and connecting values from the same observation
+    with a line segment. Generalized Parallel Coordinate Plots can also seamlessly deal with 
+    a mix of categorical and numeric variables in a single plot.
+
+- name: xmrr
+  thumbnail: images/xmr_chart.png
+  url: https://github.com/Zanidean/xmrr
+  ghuser: Zanidean
+  ghrepo: xmrr
+  tags: XmR, Visualization, Control Charts, QC, XBar
+  cran: true
+  ghauthor: Alex Zanidean
+  short: >
+    Generate XMR Control Chart Data from Time-Series Data.
+  description: >
+    Use xmr() for XmR data which re-calculates to signal true change, and use xmr_chart() for XmR style control charts with recalculated process limits.
+
 - name: gg3D
   thumbnail: images/gg3D.png
   url: https://github.com/AckerDWM/gg3D
