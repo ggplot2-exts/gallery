@@ -53,22 +53,6 @@ widgets:
   description: >
     Use xmr() for XmR data which re-calculates to signal true change, and use xmr_chart() for XmR style control charts with recalculated process limits.
 
-- name: ggpcp
-  thumbnail: images/ggpcp.png
-  url: https://github.com/heike/ggpcp
-  ghuser: heike
-  ghrepo: ggpcp
-  tags: visualization,parallel coordinate plot,multivariate, categorical
-  cran: true
-  ghauthor: heike
-  short: >
-    Generalized Parallel Coordinate Plots in ggplot2
-  description: >
-    Parallel coordinate plots (PCP) are good for visualizing observations across multiple
-    dimensions by placing variables side-by-side and connecting values from the same observation
-    with a line segment. Generalized Parallel Coordinate Plots can also seamlessly deal with 
-    a mix of categorical and numeric variables in a single plot.
-
 - name: gg3D
   thumbnail: images/gg3D.png
   url: https://github.com/AckerDWM/gg3D
@@ -160,21 +144,6 @@ widgets:
     Designed for high-dimensional data visualization, it includes options for custom labels, density plots, and faceting,
     and is built on the 'ggplot2' framework. Useful for researchers and data scientists in various fields for efficient
     and insightful data visualization.
-
-- name: ggvolcano
-  thumbnail: images/ggvolcano.png
-  url: https://cran.r-project.org/web/packages/ggvolcano/index.html
-  ghuser: YaoxiangLi
-  ghrepo: ggvolcano
-  tags: visualization,volcano_plot,differential_expression
-  cran: true
-  ghauthor: Yaoxiang Li
-  short: >
-    Provides tools for creating publication-ready volcano plots.
-  description: >
-    `ggvolcano` offers Provides publication-ready volcano plots for visualizing differential expression results, 
-    commonly used in RNA-seq and similar analyses. This tool helps create high-quality visual representations 
-    of data using the 'ggplot2' framework Wickham (2016) <doi:10.1007/978-3-319-24277-4>.
 
 - name: ggbreak
   thumbnail: images/ggbreak.png
@@ -2164,3 +2133,34 @@ widgets:
     Plotting tools for anyone working in deep time
   description: >
     The primary goal of deeptime is to enable users to add highly customizable timescales to their visualizations. Other functions are also included to assist with other areas of deep time visualization.
+
+- name: ggpcp
+  thumbnail: images/ggpcp.png
+  url: https://github.com/heike/ggpcp
+  ghuser: heike
+  ghrepo: ggpcp
+  tags: visualization,parallel coordinate plot,multivariate, categorical
+  cran: true
+  ghauthor: heike
+  short: >
+    Generalized Parallel Coordinate Plots in ggplot2
+  description: >
+    Parallel coordinate plots (PCP) are good for visualizing observations across multiple
+    dimensions by placing variables side-by-side and connecting values from the same observation
+    with a line segment. Generalized Parallel Coordinate Plots can also seamlessly deal with 
+    a mix of categorical and numeric variables in a single plot.
+
+- name: ggvolcano
+  thumbnail: images/ggvolcano.png
+  url: https://cran.r-project.org/web/packages/ggvolcano/index.html
+  ghuser: YaoxiangLi
+  ghrepo: ggvolcano
+  tags: visualization,volcano_plot,differential_expression
+  cran: true
+  ghauthor: Yaoxiang Li
+  short: >
+    Provides tools for creating publication-ready volcano plots.
+  description: >
+    `ggvolcano` offers Provides publication-ready volcano plots for visualizing differential expression results, 
+    commonly used in RNA-seq and similar analyses. This tool helps create high-quality visual representations 
+    of data using the 'ggplot2' framework Wickham (2016) <doi:10.1007/978-3-319-24277-4>.
