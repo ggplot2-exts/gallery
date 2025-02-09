@@ -161,6 +161,21 @@ widgets:
     and is built on the 'ggplot2' framework. Useful for researchers and data scientists in various fields for efficient
     and insightful data visualization.
 
+- name: ggvolcano
+  thumbnail: images/ggvolcano.png
+  url: https://cran.r-project.org/web/packages/ggvolcano/index.html
+  ghuser: YaoxiangLi
+  ghrepo: ggvolcano
+  tags: visualization,volcano_plot,differential_expression
+  cran: true
+  ghauthor: Yaoxiang Li
+  short: >
+    Provides tools for creating publication-ready volcano plots.
+  description: >
+    `ggvolcano` offers Provides publication-ready volcano plots for visualizing differential expression results, 
+    commonly used in RNA-seq and similar analyses. This tool helps create high-quality visual representations 
+    of data using the 'ggplot2' framework Wickham (2016) <doi:10.1007/978-3-319-24277-4>.
+
 - name: ggbreak
   thumbnail: images/ggbreak.png
   url: https://github.com/YuLab-SMU/ggbreak
