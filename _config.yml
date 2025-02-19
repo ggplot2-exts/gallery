@@ -2165,7 +2165,7 @@ widgets:
     commonly used in RNA-seq and similar analyses. This tool helps create high-quality visual representations 
     of data using the 'ggplot2' framework Wickham (2016) <doi:10.1007/978-3-319-24277-4>.
 
-  - name: ggfootball
+- name: ggfootball
   thumbnail: images/ggfootball.png
   url: https://aymennasri.me/ggfootball
   ghuser: aymennasri
