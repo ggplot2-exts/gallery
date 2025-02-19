@@ -2164,3 +2164,18 @@ widgets:
     `ggvolcano` offers Provides publication-ready volcano plots for visualizing differential expression results, 
     commonly used in RNA-seq and similar analyses. This tool helps create high-quality visual representations 
     of data using the 'ggplot2' framework Wickham (2016) <doi:10.1007/978-3-319-24277-4>.
+
+- name: ggfootball
+  thumbnail: images/ggfootball.png
+  url: https://aymennasri.me/ggfootball
+  ghuser: aymennasri
+  ghrepo: ggfootball
+  tags: general,football,interactive,visualization
+  cran: true
+  ghauthor: aymennasri
+  short: >
+    'Plotting Football matches Expected Goals (xG) Stats with 'Understat' Data'.
+  description: >
+    Scrapes footbal match shots data from 'Understat' <https://understat.com/> and visualizes it using interactive plots:
+    - A detailed shot map displaying the location, type, and xG value of shots taken by both teams.
+    - An xG timeline chart showing the cumulative xG for each team over time, annotated with the details of scored goals.
