@@ -629,7 +629,7 @@ widgets:
 
 - name: survminer
   thumbnail: images/survminer.png
-  url: http://www.sthda.com/english/rpkgs/survminer/
+  url: https://www.sthda.com/english/rpkgs/survminer/
   ghuser: kassambara
   ghrepo: survminer
   tags: visualization,survival
@@ -1511,7 +1511,7 @@ widgets:
 
 - name: directlabels
   thumbnail: images/directlabels.png
-  url: http://tdhock.github.io/directlabels
+  url: https://tdhock.github.io/directlabels
   ghuser: tdhock
   ghrepo: directlabels
   tags: visualization, direct-labels, positioning, general, plot-labelling
@@ -1795,7 +1795,7 @@ widgets:
 
 - name: ggsurvfit
   thumbnail: images/ddsjoberg-ggsurvfit.png
-  url: http://www.danieldsjoberg.com/ggsurvfit/
+  url: https://www.danieldsjoberg.com/ggsurvfit/
   ghuser: pharmaverse
   ghrepo: ggsurvfit
   tags: visualization,survival,statistics
