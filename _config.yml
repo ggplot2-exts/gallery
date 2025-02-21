@@ -1795,7 +1795,7 @@ widgets:
 
 - name: ggsurvfit
   thumbnail: images/ddsjoberg-ggsurvfit.png
-  url: https://github.com/pharmaverse/ggsurvfit/
+  url: http://www.danieldsjoberg.com/ggsurvfit/
   ghuser: ddsjoberg
   ghrepo: ggsurvfit
   tags: visualization,survival,statistics
