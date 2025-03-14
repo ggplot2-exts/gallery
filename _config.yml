@@ -2054,17 +2054,20 @@ widgets:
   url: https://yunuuuu.github.io/ggalign/
   ghuser: Yunuuuu
   ghrepo: ggalign
-  tags: visualization,heatmap
+  tags: visualization,composition,heatmap
   cran: true
   ghauthor: Yunuuuu
   short: >
     A 'ggplot2' Extension for Consistent Axis Alignment
   description: >
-    This package extends ggplot2 by providing advanced tools for aligning and organizing 
-    multiple plots, particularly those that automatically reorder observations, such as 
-    dendrogram. It offers fine control over layout adjustment and plot annotations, 
-    enabling you to create complex, publication-quality visualizations while still using 
-    the familiar grammar of ggplot2. 
+    A 'ggplot2' extension offers various tools the creation of complex,
+    multi-plot visualizations. Built on the familiar grammar of graphics, it
+    provides intuitive tools to align and organize plots, making it ideal for
+    complex visualizations. It excels in multi-omics research—such as genomics
+    and microbiomes—by simplifying the visualization of intricate relationships
+    between datasets, for example, linking genes to pathways. Whether you need
+    to stack plots, arrange them around a central figure, or use a circular
+    layout, 'ggalign' delivers flexibility and accuracy with minimal effort.
 
 - name: ggreveal
   thumbnail: images/ggreveal.png
