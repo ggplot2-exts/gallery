@@ -2217,3 +2217,18 @@ widgets:
     other layers, such as text and labels. The data model used by the package allows
     you to visualise flows that skip stages or even feedback loops.
 
+- name: ggpath
+  thumbnail: images/ggpath.png
+  url: https://mrcaseb.github.io/ggpath/
+  ghuser: mrcaseb
+  ghrepo: ggpath
+  tags: general,geoms,images,theme,elements
+  cran: true
+  ghauthor: mrcaseb
+  short: >
+    Robust Image Rendering Support for 'ggplot2'.
+  description: >
+    ggpath is a ‘ggplot2’ extension that enables robust image grobs in panels and 
+    theme elements. This means it helps plotting images (from local paths, from 
+    urls or from raw image data) in nearly every part of a ggplot.
+
