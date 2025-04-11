@@ -2182,3 +2182,18 @@ widgets:
     Scrapes footbal match shots data from 'Understat' <https://understat.com/> and visualizes it using interactive plots:
     - A detailed shot map displaying the location, type, and xG value of shots taken by both teams.
     - An xG timeline chart showing the cumulative xG for each team over time, annotated with the details of scored goals.
+
+- name: ggpath
+  thumbnail: images/ggpath.png
+  url: https://mrcaseb.github.io/ggpath/
+  ghuser: mrcaseb
+  ghrepo: ggpath
+  tags: general,geoms,images,theme,elements
+  cran: true
+  ghauthor: mrcaseb
+  short: >
+    Robust Image Rendering Support for 'ggplot2'.
+  description: >
+    ggpath is a ‘ggplot2’ extension that enables robust image grobs in panels and 
+    theme elements. This means it helps plotting images (from local paths, from 
+    urls or from raw image data) in nearly every part of a ggplot.
