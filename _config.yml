@@ -2182,3 +2182,38 @@ widgets:
     Scrapes footbal match shots data from 'Understat' <https://understat.com/> and visualizes it using interactive plots:
     - A detailed shot map displaying the location, type, and xG value of shots taken by both teams.
     - An xG timeline chart showing the cumulative xG for each team over time, annotated with the details of scored goals.
+
+- name: ggfields
+  thumbnail: images/pepijn-devries-ggfields.png
+  url: https://pepijn-devries.github.io/ggfields/
+  ghuser: pepijn-devries
+  ghrepo: ggfields
+  tags: visualization,vector,velocity,angle,spatial,fields
+  cran: true
+  ghauthor: pepijn-devries
+  short: >
+    Plot arrows or arrow fields, with accompanying scales and guides.
+  description: >
+    Add vector field layers to ggplot. It offers distinct features:
+      - The radius aesthetic is mapped to a scale and therefore can be added to the guides.
+      - Not only data.frames are supported, but also geometric data.
+      - Corrects angles for displayed aspect ratio or coordinate system.
+
+- name: ggsankeyfier
+  thumbnail: images/pepijn-devries-ggsankeyfier.png
+  url: https://pepijn-devries.github.io/ggsankeyfier/
+  ghuser: pepijn-devries
+  ghrepo: ggsankeyfier
+  tags: visualization,Sankey,alluvial,diagram,flow,network
+  cran: true
+  ghauthor: pepijn-devries
+  short: >
+    visualise your data as Sankey or Alluvial diagrams
+  description: >
+    A Sankey diagram is essentially a stacked bar plot, where the bands connect bars
+    across stages (on the x-axis), to show how quantities flow between them.
+    The package allows the user to add Sankey diagram layers to a ggplot. It also
+    provides stat_* and position_* functions that allows users to add all sorts of
+    other layers, such as text and labels. The data model used by the package allows
+    you to visualise flows that skip stages or even feedback loops.
+
