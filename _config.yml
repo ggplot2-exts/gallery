@@ -2232,3 +2232,18 @@ widgets:
     theme elements. This means it helps plotting images (from local paths, from 
     urls or from raw image data) in nearly every part of a ggplot.
 
+- name: gglinedensity
+  thumbnail: images/hrryt-gglinedensity.png
+  url: https://hrryt.github.io/gglinedensity/
+  ghuser: hrryt
+  ghrepo: gglinedensity
+  tags: visualization,general,heatmap,time-series,density-estimation
+  cran: true
+  ghauthor: hrryt
+  short: >
+    Make heatmaps of line density using the DenseLines algorithm
+  description: >
+    Create a raster plot of line density using a 'ggplot2' statistic
+    implementing the DenseLines algorithm, which
+    "normalizes time series by the arc length to compute accurate densities"
+    (Moritz and Fisher, 2018) <doi:10.48550/arXiv.1808.06019>.
