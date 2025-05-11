@@ -2232,7 +2232,7 @@ widgets:
     theme elements. This means it helps plotting images (from local paths, from 
     urls or from raw image data) in nearly every part of a ggplot.
 
-  name: gglinedensity
+- name: gglinedensity
   thumbnail: images/hrryt-gglinedensity.png
   url: https://hrryt.github.io/gglinedensity/
   ghuser: hrryt
