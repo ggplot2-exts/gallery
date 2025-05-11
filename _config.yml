@@ -2247,3 +2247,24 @@ widgets:
     implementing the DenseLines algorithm, which
     "normalizes time series by the arc length to compute accurate densities"
     (Moritz and Fisher, 2018) <doi:10.48550/arXiv.1808.06019>.
+
+- name: ggsurveillance
+  thumbnail: images/ggsurveillance.png
+  url: https://ggsurveillance.biostats.dev/
+  ghuser: biostats-dev
+  ghrepo: ggsurveillance
+  tags: visualization,general,scales,time-series,diverging bar charts,population pyramids,epicurves,epigantt
+  cran: true
+  ghauthor: ndevln
+  short: >
+    Visualisations for Outbreak Investigation and Infectious Disease Surveillance
+  description: >
+    Create epicurves, epigantt or diverging bar charts in 'ggplot2'. Prepare
+    data for visualisation or other reporting for infectious disease
+    surveillance and outbreak investigation (time series data). Includes tidy functions to solve
+    date based transformations for common reporting tasks, like 
+    (A) seasonal date alignment for respiratory disease surveillance, 
+    (B) date-based case binning based on specified time intervals like
+    isoweek, epiweek, month and more, (C) automated detection and marking
+    of the new year based on the date/datetime axis of the 'ggplot2', (D)
+    labelling of the last value of a time-series.
