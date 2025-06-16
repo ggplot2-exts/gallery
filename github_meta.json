@@ -36,10 +36,10 @@
   },
   "ggdist_stars": {
     "cran": true,
-    "stargazers_count": 856,
+    "stargazers_count": 857,
     "open_issues_count": 60,
     "forks_count": 30,
-    "watchers_count": 856
+    "watchers_count": 857
   },
   "ggedit_stars": {
     "cran": true,
@@ -264,8 +264,8 @@
   "ggtree_stars": {
     "cran": false,
     "stargazers_count": 877,
-    "open_issues_count": 174,
-    "forks_count": 178,
+    "open_issues_count": 175,
+    "forks_count": 179,
     "watchers_count": 877
   },
   "ggseas_stars": {
@@ -298,10 +298,10 @@
   },
   "ggeasy_stars": {
     "cran": true,
-    "stargazers_count": 274,
+    "stargazers_count": 275,
     "open_issues_count": 34,
     "forks_count": 20,
-    "watchers_count": 274
+    "watchers_count": 275
   },
   "ggside_stars": {
     "cran": true,
@@ -320,7 +320,7 @@
   "ggpubr_stars": {
     "cran": true,
     "stargazers_count": 1184,
-    "open_issues_count": 248,
+    "open_issues_count": 249,
     "forks_count": 176,
     "watchers_count": 1184
   },
@@ -340,10 +340,10 @@
   },
   "ggseqlogo_stars": {
     "cran": true,
-    "stargazers_count": 215,
+    "stargazers_count": 216,
     "open_issues_count": 24,
     "forks_count": 32,
-    "watchers_count": 215
+    "watchers_count": 216
   },
   "ggChernoff_stars": {
     "cran": true,
@@ -376,8 +376,8 @@
   "qqplotr_stars": {
     "cran": true,
     "stargazers_count": 52,
-    "open_issues_count": 5,
-    "forks_count": 7,
+    "open_issues_count": 6,
+    "forks_count": 8,
     "watchers_count": 52
   },
   "ggalluvial_stars": {
@@ -571,10 +571,10 @@
   },
   "legendry_stars": {
     "cran": true,
-    "stargazers_count": 245,
+    "stargazers_count": 246,
     "open_issues_count": 6,
     "forks_count": 7,
-    "watchers_count": 245
+    "watchers_count": 246
   },
   "ggcharts_stars": {
     "cran": true,
@@ -739,10 +739,10 @@
   },
   "geomtextpath_stars": {
     "cran": true,
-    "stargazers_count": 632,
+    "stargazers_count": 633,
     "open_issues_count": 17,
     "forks_count": 25,
-    "watchers_count": 632
+    "watchers_count": 633
   },
   "ggdensity_stars": {
     "cran": true,
