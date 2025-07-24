@@ -2268,3 +2268,18 @@ widgets:
     isoweek, epiweek, month and more, (C) automated detection and marking
     of the new year based on the date/datetime axis of the 'ggplot2', (D)
     labelling of the last value of a time-series.
+    
+- name: gguapo
+  thumbnail: images/gguapo-example.png
+  url: https://eliansoutu.github.io/gguapo/
+  ghuser: eliansoutu
+  ghrepo: gguapo
+  tags: themes,art,styles,general,visualization
+  cran: false
+  ghauthor: eliansoutu
+  short: >
+    Charts with unique styles inspired by renowned artists
+  description: >
+    gguapo allows you to create basic charts (columns, lines, points and maps) quickly and with high visual impact, by applying 
+    (a) unique styles inspired by great artists from history and their works
+    (b) package owned styles with customizable parameters
