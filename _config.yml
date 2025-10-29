@@ -2286,7 +2286,7 @@ widgets:
 
 - name: ggDNAvis
   thumbnail: images/ejade42-ggDNAvis.png
-  url: https://https://ejade42.github.io/ggDNAvis/
+  url: https://ejade42.github.io/ggDNAvis/
   ghuser: ejade42
   ghrepo: ggDNAvis
   tags: DNA,RNA,genetics,biology,visualization,visualisation,customisable,customizable,medicine,methylation,sequence,FASTQ
