@@ -2283,3 +2283,19 @@ widgets:
     gguapo allows you to create basic charts (columns, lines, points and maps) quickly and with high visual impact, by applying 
     (a) unique styles inspired by great artists from history and their works
     (b) package owned styles with customizable parameters
+
+- name: ggDNAvis
+  thumbnail: images/ejade42-ggDNAvis.png
+  url: https://ejade42.github.io/ggDNAvis/
+  ghuser: ejade42
+  ghrepo: ggDNAvis
+  tags: DNA,RNA,genetics,biology,visualization,visualisation,customisable,customizable,medicine,methylation,sequence,FASTQ
+  cran: true
+  ghauthor: ejade42
+  short: >
+    'ggplot2'-Based Tools for Visualising DNA Sequences and Modifications
+  description: >
+    Uses 'ggplot2' to visualise either: 
+    (a) a single DNA/RNA sequence split across multiple lines, 
+    (b) multiple DNA/RNA sequences, each occupying a whole line, or 
+    (c) base modifications such as DNA methylation called by modified bases models in Dorado or Guppy.
