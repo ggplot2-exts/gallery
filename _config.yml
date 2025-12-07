@@ -2299,3 +2299,26 @@ widgets:
     (a) a single DNA/RNA sequence split across multiple lines, 
     (b) multiple DNA/RNA sequences, each occupying a whole line, or 
     (c) base modifications such as DNA methylation called by modified bases models in Dorado or Guppy.
+    
+- name: ggdibbler
+  thumbnail: images/harriet-mason-ggdibbler.png
+  url: https://harriet-mason.github.io/ggdibbler/
+  ghuser: harriet-mason
+  ghrepo: ggdibbler
+  tags: uncertainty, visualization, general, statistics
+  cran: true
+  ghauthor: harriet-mason
+  short: >
+    Uncertainty visualisation for signal supression
+  description: >
+    For information to be passed into `ggplot2`, or any visualisation software, 
+    it needs to be expressed as deterministic data. This restriction can prevent 
+    us from visualising inputs that are too uncertain to be expressed as single 
+    data values. This can include things like estimates, model predictions, 
+    bounded values or observations with large measurement error. The`ggdibbler` 
+    extension allows you top pass random variables to `ggplot2`. Any geom, 
+    any aesthetic (except groups and facets), they all accept random variables
+    when accessed through `ggdibbler`. You simply replace a vector of data with 
+    a vector of random variables created using distributional and visualise 
+    these inputs using syntax that is nearly identical to your original ggplot2 
+    code.
