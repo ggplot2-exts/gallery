@@ -1058,5 +1058,12 @@
     "open_issues_count": 3,
     "forks_count": 1,
     "watchers_count": 3
+  },
+  "ggdibbler_stars": {
+    "cran": true,
+    "stargazers_count": 12,
+    "open_issues_count": 22,
+    "forks_count": 3,
+    "watchers_count": 12
   }
 }
