@@ -263,10 +263,10 @@
   },
   "ggtree_stars": {
     "cran": false,
-    "stargazers_count": 904,
-    "open_issues_count": 190,
+    "stargazers_count": 905,
+    "open_issues_count": 188,
     "forks_count": 181,
-    "watchers_count": 904
+    "watchers_count": 905
   },
   "ggseas_stars": {
     "cran": false,
@@ -334,16 +334,16 @@
   "GGally_stars": {
     "cran": true,
     "stargazers_count": 613,
-    "open_issues_count": 67,
+    "open_issues_count": 68,
     "forks_count": 133,
     "watchers_count": 613
   },
   "ggseqlogo_stars": {
     "cran": true,
-    "stargazers_count": 225,
+    "stargazers_count": 226,
     "open_issues_count": 31,
     "forks_count": 31,
-    "watchers_count": 225
+    "watchers_count": 226
   },
   "ggChernoff_stars": {
     "cran": true,
@@ -397,7 +397,7 @@
   "ggquiver_stars": {
     "cran": true,
     "stargazers_count": 51,
-    "open_issues_count": 3,
+    "open_issues_count": 2,
     "forks_count": 3,
     "watchers_count": 51
   },
@@ -571,10 +571,10 @@
   },
   "legendry_stars": {
     "cran": true,
-    "stargazers_count": 270,
+    "stargazers_count": 271,
     "open_issues_count": 4,
     "forks_count": 8,
-    "watchers_count": 270
+    "watchers_count": 271
   },
   "ggcharts_stars": {
     "cran": true,
@@ -704,10 +704,10 @@
   },
   "see_stars": {
     "cran": true,
-    "stargazers_count": 935,
+    "stargazers_count": 936,
     "open_issues_count": 41,
     "forks_count": 46,
-    "watchers_count": 935
+    "watchers_count": 936
   },
   "directlabels_stars": {
     "cran": true,
@@ -739,10 +739,10 @@
   },
   "geomtextpath_stars": {
     "cran": true,
-    "stargazers_count": 641,
+    "stargazers_count": 642,
     "open_issues_count": 18,
     "forks_count": 25,
-    "watchers_count": 641
+    "watchers_count": 642
   },
   "ggdensity_stars": {
     "cran": true,
@@ -920,7 +920,7 @@
     "watchers_count": 103
   },
   "ichimoku_stars": {
-    "cran": true,
+    "cran": false,
     "stargazers_count": 36,
     "open_issues_count": 0,
     "forks_count": 5,
@@ -1055,7 +1055,7 @@
   "ggDNAvis_stars": {
     "cran": true,
     "stargazers_count": 3,
-    "open_issues_count": 7,
+    "open_issues_count": 6,
     "forks_count": 1,
     "watchers_count": 3
   },
