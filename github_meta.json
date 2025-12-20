@@ -221,10 +221,10 @@
   },
   "ggstatsplot_stars": {
     "cran": true,
-    "stargazers_count": 2147,
+    "stargazers_count": 2148,
     "open_issues_count": 70,
     "forks_count": 204,
-    "watchers_count": 2147
+    "watchers_count": 2148
   },
   "ggnetwork_stars": {
     "cran": true,
@@ -263,10 +263,10 @@
   },
   "ggtree_stars": {
     "cran": false,
-    "stargazers_count": 905,
+    "stargazers_count": 906,
     "open_issues_count": 187,
     "forks_count": 181,
-    "watchers_count": 905
+    "watchers_count": 906
   },
   "ggseas_stars": {
     "cran": false,
@@ -326,10 +326,10 @@
   },
   "ggthemr_stars": {
     "cran": false,
-    "stargazers_count": 910,
+    "stargazers_count": 909,
     "open_issues_count": 14,
     "forks_count": 109,
-    "watchers_count": 910
+    "watchers_count": 909
   },
   "GGally_stars": {
     "cran": true,
@@ -354,10 +354,10 @@
   },
   "ggridges_stars": {
     "cran": true,
-    "stargazers_count": 424,
+    "stargazers_count": 425,
     "open_issues_count": 47,
     "forks_count": 34,
-    "watchers_count": 424
+    "watchers_count": 425
   },
   "lemon_stars": {
     "cran": true,
@@ -389,10 +389,10 @@
   },
   "patchwork_stars": {
     "cran": true,
-    "stargazers_count": 2578,
+    "stargazers_count": 2579,
     "open_issues_count": 74,
     "forks_count": 166,
-    "watchers_count": 2578
+    "watchers_count": 2579
   },
   "ggquiver_stars": {
     "cran": true,
@@ -599,10 +599,10 @@
   },
   "ggseg_stars": {
     "cran": true,
-    "stargazers_count": 245,
+    "stargazers_count": 246,
     "open_issues_count": 12,
     "forks_count": 35,
-    "watchers_count": 245
+    "watchers_count": 246
   },
   "mdthemes_stars": {
     "cran": false,
@@ -634,10 +634,10 @@
   },
   "hrbrthemes_stars": {
     "cran": false,
-    "stargazers_count": 1325,
+    "stargazers_count": 1326,
     "open_issues_count": 35,
     "forks_count": 99,
-    "watchers_count": 1325
+    "watchers_count": 1326
   },
   "ggpattern_stars": {
     "cran": true,
@@ -739,10 +739,10 @@
   },
   "geomtextpath_stars": {
     "cran": true,
-    "stargazers_count": 642,
-    "open_issues_count": 18,
+    "stargazers_count": 643,
+    "open_issues_count": 19,
     "forks_count": 25,
-    "watchers_count": 642
+    "watchers_count": 643
   },
   "ggdensity_stars": {
     "cran": true,
@@ -936,8 +936,8 @@
   "ggstats_stars": {
     "cran": true,
     "stargazers_count": 50,
-    "open_issues_count": 1,
-    "forks_count": 3,
+    "open_issues_count": 2,
+    "forks_count": 4,
     "watchers_count": 50
   },
   "ggfoundry_stars": {
