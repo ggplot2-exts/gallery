@@ -8,7 +8,7 @@ sass:
 
 widgets:
 - name: ggram
-  thumbnail: todo images/ggQQunif.png
+  thumbnail: images/ggram.png
   url: https://github.com/EvaMaeRey/ggram
   ghuser: EvaMaeRey
   ghrepo: ggram
