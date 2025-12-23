@@ -7,6 +7,20 @@ sass:
   style: compressed
 
 widgets:
+- name: ggram
+  thumbnail: todo images/ggQQunif.png
+  url: https://github.com/EvaMaeRey/ggram
+  ghuser: EvaMaeRey
+  ghrepo: ggram
+  tags: ggplot2 syntax, graphical poems
+  cran: false
+  ghauthor: EvaMaeRey
+  short: >
+    Create a side-by-side code-plot display by clearing your history, executing your plot code, and then executing `ggram()`. 
+  description: >
+    ggram extists to easily show the simplicity, elegance, power of ggplot2 and extension syntax. 
+    {patchwork} is used under the hood to stich together a plot displaying code and plot produced by that code. 
+    
 - name: ggQQunif
   thumbnail: images/ggQQunif.png
   url: https://github.com/rcorty/ggQQunif
