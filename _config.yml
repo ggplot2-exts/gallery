@@ -18,7 +18,7 @@ widgets:
   short: >
     Create a side-by-side code-plot display by clearing your history, executing your plot code, and then executing `ggram()`. 
   description: >
-    ggram exists to easily show the elegance and power of ggplot2 and extension syntax. 
+    ggram exists to showcase ggplot2 and extension syntax along with plots. 
     {patchwork} is used under the hood to stich together a plot space displaying code and the plot produced by that code. 
     
 - name: ggQQunif
