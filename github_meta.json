@@ -1,4 +1,11 @@
 {
+  "ggram_stars": {
+    "cran": false,
+    "stargazers_count": 0,
+    "open_issues_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0
+  },
   "ggQQunif_stars": {
     "cran": true,
     "stargazers_count": 8,
@@ -8,10 +15,10 @@
   },
   "ggupset_stars": {
     "cran": true,
-    "stargazers_count": 387,
+    "stargazers_count": 388,
     "open_issues_count": 19,
     "forks_count": 29,
-    "watchers_count": 387
+    "watchers_count": 388
   },
   "xmrr_stars": {
     "cran": true,
