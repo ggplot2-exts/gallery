@@ -18,7 +18,9 @@ widgets:
   short: >
     A ggplot2 extension package to teach/learn the logic of the prop test.
   description: >
-   ggprop.test has functionality to allow you to walk through the logic of the prop test step-by-step: 1. Draw bar chart (stacks) for each category (false and true case). 2. Draw theoretical limits for proportion (0 to 1). 3. Calculate proportion and place it in the logical limits (i.e. the balancing point for stacks).  4. Place null within the logical limits  5. Draw distribution for NULL and standard deviations within the distribution.  6. determine the z-score (where does observed prop fit into NULL distributions) 
+   ggprop.test has functionality to allow you to walk through the logic of the prop test step-by-step: 1. Draw bar chart (stacks) for each category (false and true case). 
+   2. Draw theoretical limits for proportion (0 to 1). 3. Calculate proportion and place it in the logical limits (i.e. the balancing point for stacks).  
+   4. Place null within the logical limits  5. Draw distribution for NULL and standard deviations within the distribution.  6. determine the z-score (where does observed prop fit into NULL distributions) 
    (i.e. how many standard deviations fit between .5 and .67)
 
 widgets:
