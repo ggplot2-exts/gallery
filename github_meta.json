@@ -102,10 +102,10 @@
   },
   "ggiraph_stars": {
     "cran": true,
-    "stargazers_count": 865,
+    "stargazers_count": 866,
     "open_issues_count": 16,
     "forks_count": 80,
-    "watchers_count": 865
+    "watchers_count": 866
   },
   "ggmuller_stars": {
     "cran": true,
@@ -270,10 +270,10 @@
   },
   "ggtree_stars": {
     "cran": false,
-    "stargazers_count": 912,
+    "stargazers_count": 913,
     "open_issues_count": 187,
     "forks_count": 183,
-    "watchers_count": 912
+    "watchers_count": 913
   },
   "ggseas_stars": {
     "cran": false,
@@ -746,10 +746,10 @@
   },
   "geomtextpath_stars": {
     "cran": true,
-    "stargazers_count": 643,
+    "stargazers_count": 644,
     "open_issues_count": 20,
     "forks_count": 25,
-    "watchers_count": 643
+    "watchers_count": 644
   },
   "ggdensity_stars": {
     "cran": true,
@@ -879,10 +879,10 @@
   },
   "ggmagnify_stars": {
     "cran": false,
-    "stargazers_count": 306,
+    "stargazers_count": 307,
     "open_issues_count": 9,
     "forks_count": 3,
-    "watchers_count": 306
+    "watchers_count": 307
   },
   "ggblend_stars": {
     "cran": true,
@@ -923,7 +923,7 @@
     "cran": true,
     "stargazers_count": 104,
     "open_issues_count": 18,
-    "forks_count": 23,
+    "forks_count": 22,
     "watchers_count": 104
   },
   "ichimoku_stars": {
@@ -977,10 +977,10 @@
   },
   "tidyplots_stars": {
     "cran": true,
-    "stargazers_count": 638,
+    "stargazers_count": 639,
     "open_issues_count": 12,
     "forks_count": 26,
-    "watchers_count": 638
+    "watchers_count": 639
   },
   "rphylopic_stars": {
     "cran": true,
@@ -1013,7 +1013,7 @@
   "ggfootball_stars": {
     "cran": true,
     "stargazers_count": 1,
-    "open_issues_count": 1,
+    "open_issues_count": 0,
     "forks_count": 0,
     "watchers_count": 1
   },
@@ -1069,7 +1069,7 @@
   "ggdibbler_stars": {
     "cran": true,
     "stargazers_count": 12,
-    "open_issues_count": 24,
+    "open_issues_count": 22,
     "forks_count": 3,
     "watchers_count": 12
   }
