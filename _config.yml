@@ -1862,7 +1862,7 @@ widgets:
 
 - name: ggterror
   thumbnail: images/mivalek-ggterror.png
-  url: https://github.com/mivaek/ggterrorbar
+  url: https://github.com/mivalek/ggterrorbar
   ghuser: mivalek
   ghrepo: ggterrorbar
   tags: visualization, geoms
