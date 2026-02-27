@@ -2184,7 +2184,7 @@ widgets:
 
 - name: ggfootball
   thumbnail: images/ggfootball.png
-  url: https://aymennasri.me/ggfootball
+  url: https://aymennasri.github.io/ggfootball/
   ghuser: aymennasri
   ghrepo: ggfootball
   tags: general,football,interactive,visualization
