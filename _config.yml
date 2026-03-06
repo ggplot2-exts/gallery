@@ -2362,7 +2362,7 @@ widgets:
   cran: false
   ghauthor: uskovgs
   short: >
-    GDraw all-sky maps in Galactic or equatorial coordinates with a Hammer-Aitoff projection
+    Draw all-sky maps in Galactic or equatorial coordinates with a Hammer-Aitoff projection
   description: >
    ggsky extends ggplot2 with `coord_galactic()` and `coord_equatorial()` for making sky maps in a Hammer-Aitoff projection.
    It includes helper scales (scale_gal_lon/scale_gal_lat and scale_eq_ra/scale_eq_dec) to control graticule breaks and label formatting (including RA in hours).
