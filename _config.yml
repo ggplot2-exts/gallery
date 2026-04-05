@@ -2367,20 +2367,20 @@ widgets:
    ggsky extends ggplot2 with `coord_galactic()` and `coord_equatorial()` for making sky maps in a Hammer-Aitoff projection.
    It includes helper scales (scale_gal_lon/scale_gal_lat and scale_eq_ra/scale_eq_dec) to control graticule breaks and label formatting (including RA in hours).
 
-- name: ggpop                                                                               
-    thumbnail: images/ggpop.png                                                               
-    url: https://jurjoroa.github.io/ggpop                                                     
-    ghuser: jurjoroa                                                                          
-    ghrepo: ggpop                                                                             
-    tags: visualization,population,icons,fontawesome,isotype                                  
-    cran: true                                                                                
-    ghauthor: jurjoroa
-    short: >                                                                                  
-      Create icon-based representative population and geomcharts with Font Awesome icons            
-    description: >
-      ggpop extends ggplot2 with `geom_pop()` for representative population (isotype)
-      charts where each icon stands for a fixed number of individuals, and                    
-      `geom_icon_point()` for placing Font Awesome icons at arbitrary coordinates as
-      a drop-in replacement for `geom_point()`. It includes `scale_legend_icon()` for         
-      icon-based legends, `theme_pop()` for polished chart defaults, and `fa_icons()`         
-      to search and preview the full Font Awesome library.
+- name: ggpop
+  thumbnail: images/ggpop.png
+  url: https://jurjoroa.github.io/ggpop
+  ghuser: jurjoroa
+  ghrepo: ggpop
+  tags: visualization,population,icons,fontawesome,isotype
+  cran: true
+  ghauthor: jurjoroa
+  short: >
+    Create icon-based representative population and geomcharts with Font Awesome icons
+  description: >
+    ggpop extends ggplot2 with `geom_pop()` for representative population (isotype)
+    charts where each icon stands for a fixed number of individuals, and
+    `geom_icon_point()` for placing Font Awesome icons at arbitrary coordinates as
+    a drop-in replacement for `geom_point()`. It includes `scale_legend_icon()` for
+    icon-based legends, `theme_pop()` for polished chart defaults, and `fa_icons()`
+    to search and preview the full Font Awesome library.
