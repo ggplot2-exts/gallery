@@ -270,10 +270,10 @@
   },
   "ggtree_stars": {
     "cran": false,
-    "stargazers_count": 924,
+    "stargazers_count": 925,
     "open_issues_count": 193,
     "forks_count": 184,
-    "watchers_count": 924
+    "watchers_count": 925
   },
   "ggseas_stars": {
     "cran": false,
@@ -389,17 +389,17 @@
   },
   "ggalluvial_stars": {
     "cran": true,
-    "stargazers_count": 518,
+    "stargazers_count": 519,
     "open_issues_count": 22,
     "forks_count": 36,
-    "watchers_count": 518
+    "watchers_count": 519
   },
   "patchwork_stars": {
     "cran": true,
-    "stargazers_count": 2592,
+    "stargazers_count": 2593,
     "open_issues_count": 77,
     "forks_count": 169,
-    "watchers_count": 2592
+    "watchers_count": 2593
   },
   "ggquiver_stars": {
     "cran": true,
@@ -536,10 +536,10 @@
   },
   "ggrastr_stars": {
     "cran": true,
-    "stargazers_count": 234,
+    "stargazers_count": 235,
     "open_issues_count": 2,
     "forks_count": 18,
-    "watchers_count": 234
+    "watchers_count": 235
   },
   "ggpointdensity_stars": {
     "cran": true,
@@ -712,7 +712,7 @@
   "see_stars": {
     "cran": true,
     "stargazers_count": 943,
-    "open_issues_count": 36,
+    "open_issues_count": 37,
     "forks_count": 46,
     "watchers_count": 943
   },
@@ -831,7 +831,7 @@
   "tidyterra_stars": {
     "cran": true,
     "stargazers_count": 214,
-    "open_issues_count": 11,
+    "open_issues_count": 10,
     "forks_count": 11,
     "watchers_count": 214
   },
@@ -886,10 +886,10 @@
   },
   "ggblend_stars": {
     "cran": true,
-    "stargazers_count": 202,
+    "stargazers_count": 203,
     "open_issues_count": 4,
     "forks_count": 3,
-    "watchers_count": 202
+    "watchers_count": 203
   },
   "ggflowchart_stars": {
     "cran": true,
@@ -977,10 +977,10 @@
   },
   "tidyplots_stars": {
     "cran": true,
-    "stargazers_count": 678,
+    "stargazers_count": 677,
     "open_issues_count": 14,
     "forks_count": 30,
-    "watchers_count": 678
+    "watchers_count": 677
   },
   "rphylopic_stars": {
     "cran": true,
