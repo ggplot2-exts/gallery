@@ -775,7 +775,7 @@
   "piecepackr_stars": {
     "cran": true,
     "stargazers_count": 58,
-    "open_issues_count": 52,
+    "open_issues_count": 53,
     "forks_count": 1,
     "watchers_count": 58
   },
@@ -851,10 +851,10 @@
   },
   "ggsurvfit_stars": {
     "cran": true,
-    "stargazers_count": 102,
+    "stargazers_count": 103,
     "open_issues_count": 11,
     "forks_count": 26,
-    "watchers_count": 102
+    "watchers_count": 103
   },
   "ggsector_stars": {
     "cran": false,
