@@ -125,7 +125,7 @@
     "cran": true,
     "stargazers_count": 1258,
     "open_issues_count": 26,
-    "forks_count": 94,
+    "forks_count": 95,
     "watchers_count": 1258
   },
   "ggraph_stars": {
@@ -284,10 +284,10 @@
   },
   "ggsci_stars": {
     "cran": true,
-    "stargazers_count": 732,
+    "stargazers_count": 733,
     "open_issues_count": 0,
     "forks_count": 67,
-    "watchers_count": 732
+    "watchers_count": 733
   },
   "ggmosaic_stars": {
     "cran": false,
@@ -515,10 +515,10 @@
   },
   "gggenomes_stars": {
     "cran": true,
-    "stargazers_count": 762,
+    "stargazers_count": 763,
     "open_issues_count": 27,
-    "forks_count": 69,
-    "watchers_count": 762
+    "forks_count": 68,
+    "watchers_count": 763
   },
   "treemapify_stars": {
     "cran": true,
@@ -586,7 +586,7 @@
   "legendry_stars": {
     "cran": true,
     "stargazers_count": 280,
-    "open_issues_count": 5,
+    "open_issues_count": 3,
     "forks_count": 9,
     "watchers_count": 280
   },
@@ -725,10 +725,10 @@
   },
   "directlabels_stars": {
     "cran": true,
-    "stargazers_count": 87,
+    "stargazers_count": 88,
     "open_issues_count": 13,
     "forks_count": 18,
-    "watchers_count": 87
+    "watchers_count": 88
   },
   "ggHoriPlot_stars": {
     "cran": true,
@@ -753,10 +753,10 @@
   },
   "geomtextpath_stars": {
     "cran": true,
-    "stargazers_count": 645,
+    "stargazers_count": 646,
     "open_issues_count": 20,
     "forks_count": 25,
-    "watchers_count": 645
+    "watchers_count": 646
   },
   "ggdensity_stars": {
     "cran": true,
@@ -809,10 +809,10 @@
   },
   "ggblanket_stars": {
     "cran": true,
-    "stargazers_count": 201,
+    "stargazers_count": 202,
     "open_issues_count": 5,
     "forks_count": 9,
-    "watchers_count": 201
+    "watchers_count": 202
   },
   "ggpie_stars": {
     "cran": false,
@@ -986,7 +986,7 @@
     "cran": true,
     "stargazers_count": 682,
     "open_issues_count": 16,
-    "forks_count": 31,
+    "forks_count": 30,
     "watchers_count": 682
   },
   "rphylopic_stars": {
@@ -1096,9 +1096,9 @@
   },
   "ggpop_stars": {
     "cran": true,
-    "stargazers_count": 15,
+    "stargazers_count": 16,
     "open_issues_count": 2,
     "forks_count": 0,
-    "watchers_count": 15
+    "watchers_count": 16
   }
 }
