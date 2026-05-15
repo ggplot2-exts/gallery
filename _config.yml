@@ -2399,3 +2399,19 @@ widgets:
     a drop-in replacement for `geom_point()`. It includes `scale_legend_icon()` for
     icon-based legends, `theme_pop()` for polished chart defaults, and `fa_icons()`
     to search and preview the full Font Awesome library.
+
+- name: ggincerta
+  thumbnail: images/ggincerta.png
+  url: 	https://github.com/maggiexma/ggincerta
+  ghuser: maggiexma
+  ghrepo: ggincerta
+  tags: uncertainty,spatial,sf,maps,visualization
+  cran: true
+  ghauthor: maggiexma
+  short: >
+    Visualise uncertainty in spatial areal data through bivariate colour palettes, pixelation and glyphs 
+  description: >
+    ggincerta extends ggplot2 with tools for visualising uncertainty in spatial areal data.
+    It provides custom geoms, scales, guides, and palettes for uncertainty-aware thematic maps,
+    including bivariate choropleth maps, pixelation maps, glyph maps, dual maps, and
+    value-suppressing uncertainty palettes (VSUP).
