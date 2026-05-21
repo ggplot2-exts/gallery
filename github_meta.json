@@ -123,10 +123,10 @@
   },
   "ggrepel_stars": {
     "cran": true,
-    "stargazers_count": 1257,
+    "stargazers_count": 1256,
     "open_issues_count": 26,
     "forks_count": 95,
-    "watchers_count": 1257
+    "watchers_count": 1256
   },
   "ggraph_stars": {
     "cran": true,
@@ -216,7 +216,7 @@
     "cran": true,
     "stargazers_count": 1355,
     "open_issues_count": 15,
-    "forks_count": 228,
+    "forks_count": 227,
     "watchers_count": 1355
   },
   "ggspectra_stars": {
@@ -228,10 +228,10 @@
   },
   "ggstatsplot_stars": {
     "cran": true,
-    "stargazers_count": 2183,
+    "stargazers_count": 2182,
     "open_issues_count": 0,
     "forks_count": 204,
-    "watchers_count": 2183
+    "watchers_count": 2182
   },
   "ggnetwork_stars": {
     "cran": true,
@@ -270,10 +270,10 @@
   },
   "ggtree_stars": {
     "cran": false,
-    "stargazers_count": 927,
+    "stargazers_count": 926,
     "open_issues_count": 194,
     "forks_count": 184,
-    "watchers_count": 927
+    "watchers_count": 926
   },
   "ggseas_stars": {
     "cran": false,
@@ -459,10 +459,10 @@
   },
   "esquisse_stars": {
     "cran": true,
-    "stargazers_count": 1850,
+    "stargazers_count": 1849,
     "open_issues_count": 53,
     "forks_count": 244,
-    "watchers_count": 1850
+    "watchers_count": 1849
   },
   "ggerror_stars": {
     "cran": true,
@@ -515,10 +515,10 @@
   },
   "gggenomes_stars": {
     "cran": true,
-    "stargazers_count": 763,
+    "stargazers_count": 764,
     "open_issues_count": 27,
     "forks_count": 68,
-    "watchers_count": 763
+    "watchers_count": 764
   },
   "treemapify_stars": {
     "cran": true,
@@ -536,10 +536,10 @@
   },
   "gghalves_stars": {
     "cran": false,
-    "stargazers_count": 256,
+    "stargazers_count": 257,
     "open_issues_count": 14,
     "forks_count": 19,
-    "watchers_count": 256
+    "watchers_count": 257
   },
   "ggrastr_stars": {
     "cran": true,
@@ -690,16 +690,16 @@
   },
   "econocharts_stars": {
     "cran": false,
-    "stargazers_count": 266,
+    "stargazers_count": 265,
     "open_issues_count": 7,
     "forks_count": 57,
-    "watchers_count": 266
+    "watchers_count": 265
   },
   "ComplexUpset_stars": {
     "cran": true,
     "stargazers_count": 559,
     "open_issues_count": 75,
-    "forks_count": 41,
+    "forks_count": 40,
     "watchers_count": 559
   },
   "ggchromatic_stars": {
@@ -788,16 +788,16 @@
   },
   "ggDoubleHeat_stars": {
     "cran": true,
-    "stargazers_count": 15,
+    "stargazers_count": 16,
     "open_issues_count": 1,
     "forks_count": 2,
-    "watchers_count": 15
+    "watchers_count": 16
   },
   "nflplotR_stars": {
     "cran": true,
     "stargazers_count": 24,
     "open_issues_count": 1,
-    "forks_count": 5,
+    "forks_count": 4,
     "watchers_count": 24
   },
   "ggbraid_stars": {
@@ -838,7 +838,7 @@
   "tidyterra_stars": {
     "cran": true,
     "stargazers_count": 216,
-    "open_issues_count": 11,
+    "open_issues_count": 10,
     "forks_count": 11,
     "watchers_count": 216
   },
@@ -942,10 +942,10 @@
   },
   "eheat_stars": {
     "cran": false,
-    "stargazers_count": 11,
+    "stargazers_count": 12,
     "open_issues_count": 1,
     "forks_count": 0,
-    "watchers_count": 11
+    "watchers_count": 12
   },
   "ggstats_stars": {
     "cran": true,
@@ -984,10 +984,10 @@
   },
   "tidyplots_stars": {
     "cran": true,
-    "stargazers_count": 682,
+    "stargazers_count": 681,
     "open_issues_count": 16,
     "forks_count": 30,
-    "watchers_count": 682
+    "watchers_count": 681
   },
   "rphylopic_stars": {
     "cran": true,
@@ -1047,17 +1047,17 @@
   },
   "gglinedensity_stars": {
     "cran": true,
-    "stargazers_count": 11,
+    "stargazers_count": 12,
     "open_issues_count": 0,
     "forks_count": 0,
-    "watchers_count": 11
+    "watchers_count": 12
   },
   "ggsurveillance_stars": {
     "cran": true,
-    "stargazers_count": 11,
+    "stargazers_count": 12,
     "open_issues_count": 0,
     "forks_count": 1,
-    "watchers_count": 11
+    "watchers_count": 12
   },
   "gguapo_stars": {
     "cran": false,
