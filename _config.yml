@@ -2352,3 +2352,22 @@ widgets:
    2. Draw theoretical limits for proportion (0 to 1). 3. Calculate proportion and place it in the logical limits (i.e. the balancing point for stacks).  
    4. Place null within the logical limits  5. Draw distribution for NULL and standard deviations within the distribution.  6. determine the z-score (where does observed prop fit into NULL distributions) 
    (i.e. how many standard deviations fit between .5 and .67)
+
+- name: ggpointless
+  thumbnail: images/ggpointless.png
+  url: https://flrd.github.io/ggpointless/
+  ghuser: flrd
+  ghrepo: ggpointless
+  tags: visualisation, general
+  cran: true
+  ghauthor: flrd
+  short: >
+    A Collection of Geometries, and Stats for 'ggplot2'
+  description: >
+    A collection of layers for 'ggplot2'. Provides geoms built on
+    linear and radial gradients, giving areas, bars, paths,
+    rectangles, and ridgelines a fading or glowing visual effect.
+    Also includes mathematically driven layers — catenary curves, 
+    Chaikin's corner-cutting smoothing, and Fourier-series
+    reconstruction — plus Lexis diagrams, isotype bar charts and
+    more.
