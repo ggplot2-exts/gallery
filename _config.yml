@@ -979,6 +979,21 @@ widgets:
   description: >
     A 'shiny' gadget to create 'ggplot2' charts interactively with drag-and-drop to map your variables. You can quickly visualize your data accordingly to their type, export to 'PNG' or 'PowerPoint', and retrieve the code to reproduce the chart.
 
+- name: ggerror
+  thumbnail: images/ggerror.png
+  url: https://iamyannc.github.io/ggerror/
+  ghuser: iamyannc
+  ghrepo: ggerror
+  tags: errors, geom
+  cran: true
+  ghauthor: iamyannc
+  short: >
+    Simplifying and extanding `ggplot2`'s error geoms
+  description: >
+    `ggerror` simplifies and extends `ggplot2`’s error geoms.
+    Pass one aesthetic and let ggerror infer orientation, min and max values.
+    It supports summary functions for grouped data & sign-aware errors, as well as asymmetric or one-sided error bars.
+
 - name: ggdark
   thumbnail: images/nsgrantham-ggdark.png
   url: https://github.com/nsgrantham/ggdark
@@ -2353,6 +2368,38 @@ widgets:
    4. Place null within the logical limits  5. Draw distribution for NULL and standard deviations within the distribution.  6. determine the z-score (where does observed prop fit into NULL distributions) 
    (i.e. how many standard deviations fit between .5 and .67)
 
+- name: ggsky
+  thumbnail: images/ggsky.png
+  url: https://uskovgs.github.io/ggsky
+  ghuser: uskovgs
+  ghrepo: ggsky
+  tags: visualization,astronomy,coordinates,projection,axis
+  cran: false
+  ghauthor: uskovgs
+  short: >
+    Draw all-sky maps in Galactic or equatorial coordinates with a Hammer-Aitoff projection
+  description: >
+   ggsky extends ggplot2 with `coord_galactic()` and `coord_equatorial()` for making sky maps in a Hammer-Aitoff projection.
+   It includes helper scales (scale_gal_lon/scale_gal_lat and scale_eq_ra/scale_eq_dec) to control graticule breaks and label formatting (including RA in hours).
+
+- name: ggpop
+  thumbnail: images/ggpop.png
+  url: https://jurjoroa.github.io/ggpop
+  ghuser: jurjoroa
+  ghrepo: ggpop
+  tags: visualization,population,icons,fontawesome,isotype
+  cran: true
+  ghauthor: jurjoroa
+  short: >
+    Create icon-based representative population and geomcharts with Font Awesome icons
+  description: >
+    ggpop extends ggplot2 with `geom_pop()` for representative population (isotype)
+    charts where each icon stands for a fixed number of individuals, and
+    `geom_icon_point()` for placing Font Awesome icons at arbitrary coordinates as
+    a drop-in replacement for `geom_point()`. It includes `scale_legend_icon()` for
+    icon-based legends, `theme_pop()` for polished chart defaults, and `fa_icons()`
+    to search and preview the full Font Awesome library.
+    
 - name: ggpointless
   thumbnail: images/ggpointless.png
   url: https://flrd.github.io/ggpointless/
