@@ -2418,3 +2418,37 @@ widgets:
     Chaikin's corner-cutting smoothing, and Fourier-series
     reconstruction — plus Lexis diagrams, isotype bar charts and
     more.
+
+- name: ggincerta
+  thumbnail: images/ggincerta.png
+  url: 	https://github.com/maggiexma/ggincerta
+  ghuser: maggiexma
+  ghrepo: ggincerta
+  tags: uncertainty,spatial,sf,maps,visualization
+  cran: true
+  ghauthor: maggiexma
+  short: >
+    Visualise uncertainty in spatial areal data through bivariate colour palettes, pixelation and glyphs 
+  description: >
+    ggincerta extends ggplot2 with tools for visualising uncertainty in spatial areal data.
+    It provides custom geoms, scales, guides, and palettes for uncertainty-aware thematic maps,
+    including bivariate choropleth maps, pixelation maps, glyph maps, dual maps, and
+    value-suppressing uncertainty palettes (VSUP).
+
+- name: ggRandomForests
+  thumbnail: images/ggRandomForests.png
+  url: https://github.com/ehrlinger/ggRandomForests
+  ghuser: ehrlinger
+  ghrepo: ggRandomForests
+  tags: visualization,random forests,randomForestSRC,survival,regression,classification
+  cran: true
+  ghauthor: ehrlinger
+  short: >
+    Visually exploring random forests from the randomForestSRC package with ggplot2.
+  description: >
+    ggRandomForests provides ggplot2-based plotting routines for exploring
+    random forest models grown with the randomForestSRC package, supporting
+    regression, classification, and survival forests. It includes tools for
+    visualizing variable importance (VIMP), minimal depth, partial dependence,
+    variable interactions, and survival/error curves, making it easier to
+    interpret and communicate results from random forest analyses.
