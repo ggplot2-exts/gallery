@@ -2399,6 +2399,25 @@ widgets:
     a drop-in replacement for `geom_point()`. It includes `scale_legend_icon()` for
     icon-based legends, `theme_pop()` for polished chart defaults, and `fa_icons()`
     to search and preview the full Font Awesome library.
+    
+- name: ggpointless
+  thumbnail: images/ggpointless.png
+  url: https://flrd.github.io/ggpointless/
+  ghuser: flrd
+  ghrepo: ggpointless
+  tags: visualisation, general
+  cran: true
+  ghauthor: flrd
+  short: >
+    A Collection of Geometries, and Stats for 'ggplot2'
+  description: >
+    A collection of layers for 'ggplot2'. Provides geoms built on
+    linear and radial gradients, giving areas, bars, paths,
+    rectangles, and ridgelines a fading or glowing visual effect.
+    Also includes mathematically driven layers — catenary curves, 
+    Chaikin's corner-cutting smoothing, and Fourier-series
+    reconstruction — plus Lexis diagrams, isotype bar charts and
+    more.
 
 - name: ggincerta
   thumbnail: images/ggincerta.png
