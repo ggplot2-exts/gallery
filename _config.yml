@@ -2399,3 +2399,21 @@ widgets:
     a drop-in replacement for `geom_point()`. It includes `scale_legend_icon()` for
     icon-based legends, `theme_pop()` for polished chart defaults, and `fa_icons()`
     to search and preview the full Font Awesome library.
+
+- name: ggRandomForests
+  thumbnail: images/ggRandomForests.png
+  url: https://github.com/ehrlinger/ggRandomForests
+  ghuser: ehrlinger
+  ghrepo: ggRandomForests
+  tags: visualization,random forests,randomForestSRC,survival,regression,classification
+  cran: true
+  ghauthor: ehrlinger
+  short: >
+    Visually exploring random forests from the randomForestSRC package with ggplot2.
+  description: >
+    ggRandomForests provides ggplot2-based plotting routines for exploring
+    random forest models grown with the randomForestSRC package, supporting
+    regression, classification, and survival forests. It includes tools for
+    visualizing variable importance (VIMP), minimal depth, partial dependence,
+    variable interactions, and survival/error curves, making it easier to
+    interpret and communicate results from random forest analyses.
