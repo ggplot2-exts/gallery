@@ -472,5 +472,14 @@
   },
   "ggpop_stars": {
     "stargazers_count": 0
+  },
+  "ggpointless_stars": {
+    "stargazers_count": 0
+  },
+  "ggincerta_stars": {
+    "stargazers_count": 0
+  },
+  "ggRandomForests_stars": {
+    "stargazers_count": 0
   }
 }
