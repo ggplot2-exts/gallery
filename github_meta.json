@@ -690,10 +690,10 @@
   },
   "econocharts_stars": {
     "cran": false,
-    "stargazers_count": 265,
+    "stargazers_count": 266,
     "open_issues_count": 7,
     "forks_count": 57,
-    "watchers_count": 265
+    "watchers_count": 266
   },
   "ComplexUpset_stars": {
     "cran": true,
@@ -720,7 +720,7 @@
     "cran": true,
     "stargazers_count": 947,
     "open_issues_count": 31,
-    "forks_count": 45,
+    "forks_count": 46,
     "watchers_count": 947
   },
   "directlabels_stars": {
@@ -824,7 +824,7 @@
   "ggstar_stars": {
     "cran": true,
     "stargazers_count": 105,
-    "open_issues_count": 1,
+    "open_issues_count": 0,
     "forks_count": 8,
     "watchers_count": 105
   },
