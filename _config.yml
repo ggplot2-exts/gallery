@@ -7,6 +7,21 @@ sass:
   style: compressed
 
 widgets:
+- name: ggcube
+  thumbnail: images/matthewkling-ggcube.png
+  url: https://matthewkling.github.io/ggcube/
+  ghuser: matthewkling
+  ghrepo: ggcube
+  tags: visualization,general,3D
+  cran: true
+  ghauthor: matthewkling
+  short: >
+    Create 3D ggplots by combining a 3D coordinate specification with 3D layer functions.
+  description: >
+    ggcube lets you make 3D figures with ggplot2. Specify a `z` aesthetic, choose a 
+    3D-specific stat/geom function for points, surfaces, prisms, or lines, and add 
+    `coord_3d()` to your plot to control the 3D perspective projection.
+    
 - name: ggram
   thumbnail: images/ggram.png
   url: https://github.com/EvaMaeRey/ggram
