@@ -1717,6 +1717,22 @@ widgets:
     two (Double) data sources (usually on a par with each other) on one 
     reformed heatmap, while inheriting 'ggplot2' features.  
 
+- name: ggtaichi
+  thumbnail: images/PursuitOfDataScience-ggtaichi.png
+  url: https://github.com/PursuitOfDataScience/ggtaichi
+  ghuser: PursuitOfDataScience
+  ghrepo: ggtaichi
+  tags: visualization,geoms
+  cran: false
+  ghauthor: PursuitOfDataScience
+  examples: https://pursuitofdatascience.github.io/ggtaichi/articles/ggtaichi.html
+  short: >
+    Compare two data sources on a single grid of taichi (yin-yang) diagrams.
+  description: >
+    A 'ggplot2' extension that turns each cell of a heatmap-like grid into a
+    taichi (yin-yang) diagram, filling the two interlocking fish with values
+    from two different data sources so four dimensions can be shown at once.
+
 - name: nflplotR
   thumbnail: images/nflplotR.png
   url: https://nflplotr.nflverse.com
