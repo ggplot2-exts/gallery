@@ -362,7 +362,7 @@
   "ggridges_stars": {
     "cran": true,
     "stargazers_count": 424,
-    "open_issues_count": 50,
+    "open_issues_count": 47,
     "forks_count": 36,
     "watchers_count": 424
   },
@@ -1121,5 +1121,19 @@
     "open_issues_count": 2,
     "forks_count": 31,
     "watchers_count": 153
+  },
+  "ggcube_stars": {
+    "cran": true,
+    "stargazers_count": 46,
+    "open_issues_count": 0,
+    "forks_count": 0,
+    "watchers_count": 46
+  },
+  "ggtaichi_stars": {
+    "cran": false,
+    "stargazers_count": 0,
+    "open_issues_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0
   }
 }
