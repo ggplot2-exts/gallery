@@ -7,6 +7,20 @@ sass:
   style: compressed
 
 widgets:
+- name: ggchord2
+  thumbnail: images/ggchord2.png
+  url: https://github.com/nrennie/ggchord2
+  ghuser: nrennie
+  ghrepo: ggchord2
+  tags: visualization,chords,arcs,flows
+  cran: false
+  ghauthor: nrennie
+  short: >
+    Create chord diagrams with 'ggplot2'.
+  description: >
+    A 'ggplot2' extension that provides functions for drawing chord diagrams for visualising flows between categories. 
+    The package extends 'ggplot2' by adding geoms and stats for drawing chord sectors, arcs, and labels.
+    
 - name: ggram
   thumbnail: images/ggram.png
   url: https://github.com/EvaMaeRey/ggram
