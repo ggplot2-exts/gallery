@@ -12,7 +12,7 @@ widgets:
   url: https://github.com/nrennie/ggchord2
   ghuser: nrennie
   ghrepo: ggchord2
-  tags: visualization,chords,arcs,flows
+  tags: visualization,chords,arcs,flows,general,categorical
   cran: false
   ghauthor: nrennie
   short: >
