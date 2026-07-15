@@ -2497,3 +2497,20 @@ widgets:
   description: >
     A 'ggplot2' extension that provides functions for drawing chord diagrams for visualising flows between categories. 
     The package extends 'ggplot2' by adding geoms and stats for drawing chord sectors, arcs, and labels.
+
+- name: ggtintshade
+  thumbnail: images/ggtintshade.png
+  url: https://github.com/wkumler/ggtintshade
+  ghuser: wkumler
+  ghrepo: ggtintshade
+  tags: visualization,color,tint,shade,value,saturation,lightness,aesthetic
+  cran: true
+  ghauthor: wkumler
+  short: >
+    Tinting and Shading Aesthetics for 'ggplot2'.
+  description: >
+    Adds a 'tintshade' aesthetic to 'ggplot2' that varies the
+    lightness of a mapped 'colour' or 'fill' within each hue group, keeping
+    the plotted layer and its legend in sync. Supports both nested designs
+    (each item belongs to one hue) and crossed designs (each lightness level
+    appears across hues).
