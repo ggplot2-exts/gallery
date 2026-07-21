@@ -2497,3 +2497,16 @@ widgets:
   description: >
     A 'ggplot2' extension that provides functions for drawing chord diagrams for visualising flows between categories. 
     The package extends 'ggplot2' by adding geoms and stats for drawing chord sectors, arcs, and labels.
+
+- name: ggmultiglyph
+  thumbnail: images/ggmultiglyph.png
+  url: https://github.com/nrennie/ggmultiglyph
+  ghuser: aravind-j
+  ghrepo: ggmultiglyph
+  tags: visualization,multivariate,glyphs,geoms
+  cran: false
+  ghauthor: aravind-j
+  short: >
+    Multivariate Data Visualization using Glyphs.
+  description: >
+    Provides geoms for visualizing multivariate data as glyphs using 'ggplot2'.
