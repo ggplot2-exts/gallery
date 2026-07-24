@@ -2374,7 +2374,7 @@ widgets:
   ghuser: uskovgs
   ghrepo: ggsky
   tags: visualization,astronomy,coordinates,projection,axis
-  cran: false
+  cran: true
   ghauthor: uskovgs
   short: >
     Draw all-sky maps in Galactic or equatorial coordinates with a Hammer-Aitoff projection
