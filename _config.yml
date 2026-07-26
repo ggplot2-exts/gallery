@@ -2524,6 +2524,6 @@ widgets:
   cran: true
   ghauthor: fubin1999
   short: >
-    Draw glycan cartoons in ggplot2 figures, including heatmaps with glycan structure axes.
+    Draw customizable SNFG glycan cartoons in ggplot2 plots from structures or text notations.
   description: >
     glydraw provides ggplot2-native scales and geoms for visualizing glycan structures as Symbol Nomenclature for Glycans (SNFG) cartoons.
