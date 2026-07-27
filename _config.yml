@@ -2514,3 +2514,16 @@ widgets:
     the plotted layer and its legend in sync. Supports both nested designs
     (each item belongs to one hue) and crossed designs (each lightness level
     appears across hues).
+
+- name: glydraw
+  thumbnail: images/glycoverse-glydraw.png
+  url: https://glycoverse.github.io/glydraw/
+  ghuser: glycoverse
+  ghrepo: glydraw
+  tags: glycan,SNFG,biology,scales
+  cran: true
+  ghauthor: fubin1999
+  short: >
+    Draw customizable SNFG glycan cartoons in ggplot2 plots from structures or text notations.
+  description: >
+    glydraw provides ggplot2-native scales and geoms for visualizing glycan structures as Symbol Nomenclature for Glycans (SNFG) cartoons.
