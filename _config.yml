@@ -2504,7 +2504,7 @@ widgets:
   ghuser: aravind-j
   ghrepo: ggmultiglyph
   tags: visualization,multivariate,glyphs,geoms
-  cran: false
+  cran: true
   ghauthor: aravind-j
   short: >
     Multivariate Data Visualization using Glyphs.
