@@ -2510,3 +2510,34 @@ widgets:
     Multivariate Data Visualization using Glyphs.
   description: >
     Provides geoms for visualizing multivariate data as glyphs using 'ggplot2'.
+
+- name: ggtintshade
+  thumbnail: images/ggtintshade.png
+  url: https://github.com/wkumler/ggtintshade
+  ghuser: wkumler
+  ghrepo: ggtintshade
+  tags: visualization,color,tint,shade,value,saturation,lightness,aesthetic
+  cran: true
+  ghauthor: wkumler
+  short: >
+    Tinting and Shading Aesthetics for 'ggplot2'.
+  description: >
+    Adds a 'tintshade' aesthetic to 'ggplot2' that varies the
+    lightness of a mapped 'colour' or 'fill' within each hue group, keeping
+    the plotted layer and its legend in sync. Supports both nested designs
+    (each item belongs to one hue) and crossed designs (each lightness level
+    appears across hues).
+
+- name: glydraw
+  thumbnail: images/glycoverse-glydraw.png
+  url: https://glycoverse.github.io/glydraw/
+  ghuser: glycoverse
+  ghrepo: glydraw
+  tags: glycan,SNFG,biology,scales
+  cran: true
+  ghauthor: fubin1999
+  short: >
+    Draw customizable SNFG glycan cartoons in ggplot2 plots from structures or text notations.
+  description: >
+    glydraw provides ggplot2-native scales and geoms for visualizing glycan structures as Symbol Nomenclature for Glycans (SNFG) cartoons.
+
