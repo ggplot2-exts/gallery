@@ -271,7 +271,7 @@
   "ggtree_stars": {
     "cran": false,
     "stargazers_count": 935,
-    "open_issues_count": 173,
+    "open_issues_count": 174,
     "forks_count": 183,
     "watchers_count": 935
   },
@@ -326,10 +326,10 @@
   },
   "ggpubr_stars": {
     "cran": true,
-    "stargazers_count": 1276,
+    "stargazers_count": 1277,
     "open_issues_count": 5,
     "forks_count": 183,
-    "watchers_count": 1276
+    "watchers_count": 1277
   },
   "ggthemr_stars": {
     "cran": false,
@@ -347,10 +347,10 @@
   },
   "ggseqlogo_stars": {
     "cran": true,
-    "stargazers_count": 230,
+    "stargazers_count": 231,
     "open_issues_count": 31,
     "forks_count": 32,
-    "watchers_count": 230
+    "watchers_count": 231
   },
   "ggChernoff_stars": {
     "cran": true,
@@ -431,10 +431,10 @@
   },
   "ggbeeswarm_stars": {
     "cran": true,
-    "stargazers_count": 569,
+    "stargazers_count": 570,
     "open_issues_count": 13,
     "forks_count": 32,
-    "watchers_count": 569
+    "watchers_count": 570
   },
   "ggperiodic_stars": {
     "cran": true,
@@ -516,16 +516,16 @@
   "gggenomes_stars": {
     "cran": true,
     "stargazers_count": 783,
-    "open_issues_count": 25,
+    "open_issues_count": 23,
     "forks_count": 68,
     "watchers_count": 783
   },
   "treemapify_stars": {
     "cran": true,
-    "stargazers_count": 222,
+    "stargazers_count": 223,
     "open_issues_count": 14,
     "forks_count": 19,
-    "watchers_count": 222
+    "watchers_count": 223
   },
   "lindia_stars": {
     "cran": true,
@@ -550,10 +550,10 @@
   },
   "ggpointdensity_stars": {
     "cran": true,
-    "stargazers_count": 454,
+    "stargazers_count": 455,
     "open_issues_count": 10,
     "forks_count": 26,
-    "watchers_count": 454
+    "watchers_count": 455
   },
   "ggsom_stars": {
     "cran": true,
@@ -907,10 +907,10 @@
   },
   "ggrain_stars": {
     "cran": true,
-    "stargazers_count": 96,
+    "stargazers_count": 97,
     "open_issues_count": 1,
     "forks_count": 5,
-    "watchers_count": 96
+    "watchers_count": 97
   },
   "ggoutlierscatterplot_stars": {
     "cran": false,
