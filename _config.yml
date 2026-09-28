@@ -2541,3 +2541,16 @@ widgets:
     Multivariate Data Visualization using Glyphs.
   description: >
     Provides geoms for visualizing multivariate data as glyphs using 'ggplot2'.
+
+- name: clockplot
+  thumbnail: images/clockplot.png
+  url: https://www.thinkermahmud.com/clockplot/index.html
+  ghuser: mahmudstat
+  ghrepo: clockplot
+  tags: visualization, temporal, time-series, clock, circular, ggplot2
+  cran: true
+  ghauthor: mahmudstat
+  short: >
+    A novel visualization technique for plotting timestamped events on a 24-hour circular clock face.
+  description: >
+    The clockplot package provides a novel visualization technique for plotting timestamped events on a 24-hour circular clock face. It is particularly useful for analyzing daily patterns, event clustering, and gaps in temporal data. The package also generalizes this approach to create cyclic charts for other periods, including weekly and monthly cycles, enabling effective event planning and pattern analysis across multiple timeframes. It extends 'ggplot2' by providing dedicated layers and functions to easily create these clock-based visualizations.
