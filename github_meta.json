@@ -718,10 +718,10 @@
   },
   "see_stars": {
     "cran": true,
-    "stargazers_count": 954,
+    "stargazers_count": 955,
     "open_issues_count": 32,
     "forks_count": 47,
-    "watchers_count": 954
+    "watchers_count": 955
   },
   "directlabels_stars": {
     "cran": true,
@@ -796,7 +796,7 @@
   "nflplotR_stars": {
     "cran": true,
     "stargazers_count": 25,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 4,
     "watchers_count": 25
   },
@@ -1097,7 +1097,7 @@
   "ggpop_stars": {
     "cran": true,
     "stargazers_count": 17,
-    "open_issues_count": 1,
+    "open_issues_count": 0,
     "forks_count": 0,
     "watchers_count": 17
   },
@@ -1118,7 +1118,7 @@
   "ggRandomForests_stars": {
     "cran": true,
     "stargazers_count": 154,
-    "open_issues_count": 0,
+    "open_issues_count": 2,
     "forks_count": 32,
     "watchers_count": 154
   },
