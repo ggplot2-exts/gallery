@@ -2541,3 +2541,19 @@ widgets:
     Multivariate Data Visualization using Glyphs.
   description: >
     Provides geoms for visualizing multivariate data as glyphs using 'ggplot2'.
+
+- name: ggfourfold
+  thumbnail: images/gklorfine-ggfourfold.png
+  url: https://gavinklorfine.com/ggfourfold/
+  ghuser: gklorfine
+  ghrepo: ggfourfold
+  tags: visualization,categorical,statistics,geoms,themes
+  cran: true
+  ghauthor: gklorfine
+  short: >
+    Fourfold displays for visualizing odds ratios in contingency tables.
+  description: >
+    Fourfold displays for 'ggplot2'. Cell frequencies are shown as areas, with
+    shading for the direction and strength of association along with confidence
+    rings for testing it. Stratified tables are shown with 'ggplot2' faceting,
+    and a matching theme is provided.
