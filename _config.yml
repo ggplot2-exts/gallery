@@ -2541,3 +2541,20 @@ widgets:
     Multivariate Data Visualization using Glyphs.
   description: >
     Provides geoms for visualizing multivariate data as glyphs using 'ggplot2'.
+
+- name: ggmosaic2
+  thumbnail: images/friendly-ggmosaic2.png
+  url: https://friendly.github.io/ggmosaic2/
+  ghuser: friendly
+  ghrepo: ggmosaic2
+  tags: visualization,categorical,mosaic,statistics,geoms,themes
+  cran: true
+  ghauthor: friendly
+  short: >
+    Mosaic plots for frequency tables, extending 'ggmosaic'.
+  description: >
+    A maintained continuation of 'ggmosaic', providing mosaic plots for
+    'ggplot2' in a single layer via geom_mosaic(). Adds fitted loglinear models,
+    with cells shaded by their residuals to show patterns of association, along
+    with mosaic-aware faceting and an improved API and appearance of resulting
+    plots.
