@@ -2554,3 +2554,19 @@ widgets:
     A novel visualization technique for plotting timestamped events on a 24-hour circular clock face.
   description: >
     The clockplot package provides a novel visualization technique for plotting timestamped events on a 24-hour circular clock face. It is particularly useful for analyzing daily patterns, event clustering, and gaps in temporal data. The package also generalizes this approach to create cyclic charts for other periods, including weekly and monthly cycles, enabling effective event planning and pattern analysis across multiple timeframes. It extends 'ggplot2' by providing dedicated layers and functions to easily create these clock-based visualizations.
+
+- name: ggfourfold
+  thumbnail: images/gklorfine-ggfourfold.png
+  url: https://gavinklorfine.com/ggfourfold/
+  ghuser: gklorfine
+  ghrepo: ggfourfold
+  tags: visualization,categorical,statistics,geoms,themes
+  cran: true
+  ghauthor: gklorfine
+  short: >
+    Fourfold displays for visualizing odds ratios in contingency tables.
+  description: >
+    Fourfold displays for 'ggplot2'. Cell frequencies are shown as areas, with
+    shading for the direction and strength of association along with confidence
+    rings for testing it. Stratified tables are shown with 'ggplot2' faceting,
+    and a matching theme is provided.
