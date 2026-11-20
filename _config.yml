@@ -2587,3 +2587,21 @@ widgets:
     with cells shaded by their residuals to show patterns of association, along
     with mosaic-aware faceting and an improved API and appearance of resulting
     plots.
+
+- name: gganimslide
+  thumbnail: images/joellattmann-gganimslide.png
+  url: https://github.com/joellattmann/gganimslide
+  ghuser: joellattmann
+  ghrepo: gganimslide
+  tags: visualization,animation,presentation,powerpoint,beamer
+  cran: false
+  ghauthor: joellattmann
+  short: >
+    Reveal ggplot2 layers step by step on click in PowerPoint and LaTeX beamer slides.
+  description: >
+    gganimslide turns a saved ggplot into an animated slide in which layers,
+    or individual groups such as bars, boxes and lines, appear and disappear
+    one after another. ggppt() writes a PowerPoint slide with editable vector
+    shapes and native entrance and exit animations (appear, fade, wipe);
+    ggtex() writes a multi-page PDF plus beamer overlay code. All steps are
+    cut from one rendered plot, so axes and layers never shift between steps.
